@@ -21,3 +21,7 @@ Here is the list of all versions tracked with download links
 0.4.2 - Probably windows, but link expired
 
 [UploadNow link](https://uploadnow.io/f/vfrfzBN)
+
+0.3.0 - Windows
+
+[Softonoc link](https://the-bibites.en.softonic.com/download), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](/Torrents/the_bibites_win_v0.3.0.zip.torrent)
