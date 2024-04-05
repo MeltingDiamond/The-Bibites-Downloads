@@ -8,7 +8,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1 - Windows 32x  
 
-[Magnet URL for torrent](https://tinyurl.com/2bd843e6), [Torrent file](/Torrents/The%Bibites%0.5.1%-%Windows%32x.zip.torrent)
+[Magnet URL for torrent](https://tinyurl.com/2bd843e6), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Windows%2032x.zip.torrent)
 
 0.5.1 - Mac Universal  
 
