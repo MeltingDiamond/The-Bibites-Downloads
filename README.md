@@ -2,6 +2,6 @@ Here I will add torrent links for for The Bibites.
 
 0.5.1 - Windows 64x  
 
-[Magnet URL](magnet:?xt=urn:btih:DB5D508AC4BB6B9BEB4DDEA7EF0225E317F8430C&dn=The%20Bibites%200.5.1%20-%20Windows%2064x.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.tracker.cl%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.gbitt.info%3a443%2fannounce&tr=http%3a%2f%2ftracker.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftamas3.ynh.fr%3a6969%2fannounce&tr=udp%3a%2f%2fretracker01-msk-virt.corbina.net%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.io%3a6969%2fannounce&tr=udp%3a%2f%2fopen.dstud.io%3a6969%2fannounce&tr=wss%3a%2f%2fwstracker.online)
+[Magnet URL](https://tinyurl.com/yc3zakzy)
 
 [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Windows%2064x.torrent)
