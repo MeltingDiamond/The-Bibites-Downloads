@@ -12,11 +12,11 @@ Here is the list of all versions tracked with download links
 
 0.5.1 - Mac Universal
 
-[Magnet URL for torrent](https://tinyurl.com/3zupf3u9), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Mac%20Universal.zip.torrent)
+[Magnet URL for torrent](https://tinyurl.com/y9777e53), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1 - Linux
 
-[Magnet URL for torrent](https://tinyurl.com/y9777e53), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Linux.zip.torrent)
+[Magnet URL for torrent](https://tinyurl.com/3zupf3u9), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Linux.zip.torrent)
 
 0.4.2 - Probably windows, but link expired
 
