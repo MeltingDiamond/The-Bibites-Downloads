@@ -22,7 +22,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/1f/b9/1fb9cb554f676b99ade0a135ae48f6365e3d3f18268c68a48f74d93921aa0ff9.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip)
+[Kemono download](https://c2.kemono.su/data/1f/b9/1fb9cb554f676b99ade0a135ae48f6365e3d3f18268c68a48f74d93921aa0ff9.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3zupf3u9)
 
 0.5.1a5 - Windows 32x
 
