@@ -668,7 +668,7 @@ BibiteVirus alpha 1 - Windows
 
 1.2 - Windows
 
-[Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip)
+[Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](/Torrents/The%20Bibites%20v1.2.zip.torrent)
 
 1.1 - Windows
 
