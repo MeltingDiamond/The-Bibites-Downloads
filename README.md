@@ -653,21 +653,21 @@ BibiteVirus alpha 1 - Windows
 
 1.3 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip)
+[Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
 
 1.3 - Windows 32x
 
-[Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip)
+[Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
 
 1.3 - Mac
 
-[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip)
+[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 - Linux
 
-[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip)
+[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
 
-1.2 - Windows
+1.2 - Windows and Mac
 
 [Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](/Torrents/The%20Bibites%20v1.2.zip.torrent)
 
