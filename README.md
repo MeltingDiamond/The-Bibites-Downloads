@@ -661,11 +661,11 @@ BibiteVirus alpha 1 - Windows
 
 1.3 - Mac
 
-[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 - Linux
 
-[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
 
 1.2 - Windows and Mac
 
