@@ -26,7 +26,8 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/cd/f9/cdf95fec48a8f0aab8fd9a221dd999f1e3eb28700f53da47e5e5d5665abc04b4.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip)
+[Kemono download](https://c1.kemono.su/data/cd/f9/cdf95fec48a8f0aab8fd9a221dd999f1e3eb28700f53da47e5e5d5665abc04b4.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/ycyuxe92), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip.torrent)
+
 
 0.5.1a5 - Mac Universal
 
