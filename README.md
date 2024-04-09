@@ -619,7 +619,8 @@ BibiteVirus alpha 2 - Windows
 
 BibiteVirus alpha 1 - Windows
 
-[Kemono download](https://c4.kemono.su/data/59/98/5998ab7c400a6931256baeedd19d7338ea12c83beb65316b26de66fc86fe1486.zip?f=BibiteVirus%20alpha%201.zip)
+[Kemono download](https://c4.kemono.su/data/59/98/5998ab7c400a6931256baeedd19d7338ea12c83beb65316b26de66fc86fe1486.zip?f=BibiteVirus%20alpha%201.zip), [Magnet URL for torrent](https://tinyurl.com/3yw7upuz), [Torrent file](/Torrents/BibiteVirus%20alpha%201.zip.torrent)
+
 
 # 1.x
 
