@@ -1,6 +1,10 @@
 [The Bibites Itch page](https://thebibites.itch.io/the-bibites) here you can find the latest public version of the game.
 
+If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
+
 Here is the list of all versions tracked with download links
+
+[Kemono website](https://kemono.su/patreon/user/20026052)
 
 # 0.5.1
 
@@ -31,7 +35,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip)
+[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/mr3c48rt), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a5 - Linux
 
@@ -39,7 +43,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a4 - Windows 64x
 
-[Kemono download](https://c5.kemono.su/data/79/a7/79a74f1d3786bef5f2a5662751d6695ba8bf5474d7f7a646c255970f7f91272b.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip)
+[Kemono download](https://c5.kemono.su/data/79/a7/79a74f1d3786bef5f2a5662751d6695ba8bf5474d7f7a646c255970f7f91272b.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/38sy2y5t), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip.torrent)
 
 0.5.1a4 - Windows 32x
 
@@ -55,7 +59,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a3 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip)
+[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/58jwscms), [Torrent file]()
 
 0.5.1a3 - Windows 32x
 
