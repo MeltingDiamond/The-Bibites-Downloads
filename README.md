@@ -35,11 +35,11 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/mr3c48rt), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
+[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/ye24yyjf), [Torrent file]()
 
 0.5.1a5 - Linux
 
-[Kemono download](https://c6.kemono.su/data/7b/c3/7bc3f57e83553d926b94ab7c75b1bc765b1371d2d1cb9a6bc41e8757c0ffb45d.zip?f=The%20Bibites%200.5.1a5%20-%20Linux.zip)
+[Kemono download](https://c6.kemono.su/data/7b/c3/7bc3f57e83553d926b94ab7c75b1bc765b1371d2d1cb9a6bc41e8757c0ffb45d.zip?f=The%20Bibites%200.5.1a5%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/mr3c48rt), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a4 - Windows 64x
 
@@ -47,7 +47,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a4 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/be/2b/be2b85f4c598589da3872cc1c490b86f4e5ee37d493d2225f1476c17564d7620.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip)
+[Kemono download](https://c6.kemono.su/data/be/2b/be2b85f4c598589da3872cc1c490b86f4e5ee37d493d2225f1476c17564d7620.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/5e5h42a7), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip.torrent)
 
 0.5.1a4 - Mac Universal
 
@@ -59,7 +59,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a3 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/58jwscms), [Torrent file]()
+[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/58jwscms), [Torrent file](/Torrents/The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip.torrent)
 
 0.5.1a3 - Windows 32x
 
