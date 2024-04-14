@@ -1,0 +1,2477 @@
+--- New Video on how it works (Patreon)
+Published: 2019-05-09 17:45:42
+
+After my last video I got a lot of comments (mainly on Reddit) asking me to make a video explaining how I did it.
+
+It took me a while to learn how to video edit, voice act, and animate, so it was about time I presented and explained this project.
+Files
+How I created an evolving neural network ecosystem
+
+After my last video I got a lot of comments (mainly on Reddit) asking me to make a video explaining how I did it. It took me a while to learn how to video edit, voice act, and animate, so it was about time I presented and explained this project. The Bibites Made in C# on Unity I highly inspired my algorithm from the following document : Stanley K. O. and Miikkulainen R. (2002). Evolving Neural Networks through Augmenting Topologies. MIT Press journals Music: "Perspectives" by Kevin MacLeod http://incompetech.com/music/royalty-..
+
+
+
+--- News on advancement (Patreon)
+Published: 2019-05-13 23:39:08
+Edited: 2019-05-14 00:36:27
+
+I started working on the energy system a few weeks ago, and it's finally back at a stage where it's showable. The next "update" is not ready yet, but things are running smoothly as I managed to fix the frame-rate problem and I'm currently running a simulation that has now reached 40 hours of simulation time without any bugs or crash. The features I implemented so far : 
+
+ The Cyclical Energy System (CES) comprising of: 
+
+    A biomass system with a finite quantity of biomass
+    Meat is dropped when a bibite dies and slowly decay back into biomass
+    Different diets (plants/meat) with varying degrees of efficiency
+    Conservation of energy (nothing is lost, nothing is created, everything is transformed)
+    A population regulation system (steady 30 to 60 fps!!!)
+
+What I need to add before considering the next "update" finished :
+
+    Attack system (so they can hurt and hunt each other)
+    Visualize pheromones
+    Re-balance their brain functioning so they have a little more control
+    Add a higher brain energy-cost
+
+
+
+--- New Video : Update and Announcements (Patreon) 
+Published: 2019-05-31 01:30:06
+
+With this video, I assure you that I'm still working on this project beside a few setbacks (moving and starting a new job)
+
+Also I'm officially announcing this Patreon !
+Files
+Updates on progress and announcement
+
+Progress is progressing on the next Bibite update "Energy and Predation"! Beside a few setbacks (moving and starting a new job), things are going well. Expect a video in less than a month ! Also, I've made a Patreon. It's been a lot of work and I'm still 100% unsure about everything, so please be kind. Tell me any comments you may have on the unfairness, balance, or feelings about the tiers, rewards, and general everything of the page. My new Patreon : https://www.patreon.com/leocaussan
+
+
+
+---  Pheromones (Patreon)
+Published: 2019-08-14 20:21:26
+
+Finally! Some beautiful pheromones are showing up without having too much impact on the framerate !
+
+More information soon
+
+
+
+--- New Video ! Energy, Predation, and Pheromones (Patreon) 
+Published: 2019-09-16 22:46:06
+
+I never thought I'dd see the end of it, but it's finally out.
+I promise to be less ambitious from now on and make videos more frequently about smaller updates.
+
+Thank you all for staying with me 
+Files
+Evolving AIs eating each other | With Pheromones !
+
+Finally out ! Bibites can now hunt each other, eat meat, and produces pheromones. I've also added a few functionalities to better visualize their brain in action and a whole lot of smaller change. Don't forget to share your opinion in this poll, What should I work on next ? https://forms.gle/LJwb9VdNc91Th5Gb8 Want to support The Bibites ? Join my Patreon (download the simulation soon): https://www.patreon.com/leocaussan Outro music : Dummy / Grab bag by Jahzzar http://freemusicarchive.org/music/Jahzzar/Grab_Bag/
+
+
+
+---  New Channel Banner (and release comming soon) (Patreon) 
+Published: 2019-11-11 15:32:53
+
+I've just finished making a new banner for youtube :) (my previous one was a youtube default completely unrelated)
+
+Of course, on most devices, you'll only see the central band, but the rest is there to fill any possible screen size!
+
+Also, the Release is coming soon, I have finished most features and reworks I wanted to include, I only got a little bit of UI polishing left
+
+I look forward to you trying it out!
+
+
+
+---  Run The Bibites yourself! v1.1 (Patreon) 
+Published: 2019-11-27 02:25:35
+
+Download The Bibites v1.1.zip
+
+Hey hey hey Everyone !
+Finally it's here, simply download the .zip and extract it somewhere, then run it !
+
+I look forward to hear your thoughts and feedback :)
+
+
+
+---  The bibites is on itch.io (Patreon) 
+Published: 2019-12-03 01:12:18
+
+You can download the Demo there :)
+
+Feel free to send that link to anyone you think might be interested !
+
+The Bibites
+
+A simulation where you are able to watch evolution happen before your very eyes! Each bibite (the small critters you see on the screen) starts off with an empty brain (they do nothing) and pretty basic genes (they all look alike).
+
+
+
+---  With the next video coming up in the next few days, I just wanted to thank you all for your generous support. I truly feel lucky (Patreon)
+Published: 2020-01-04 15:16:50
+
+(no content)
+
+
+
+---  Version v1.2 is here (and also on mac)! Sorry for the delay (Patreon)
+Published: 2020-01-08 23:53:26
+
+Download The Bibites v1.2.zip
+
+As showcased in the video, this is the version where bibites will collide with food, a few fixes have been implemented, and many links to additional content (and polls).
+
+Let me know how you like it :) 
+
+
+
+---  1.3 alpha available NOW ! (Patreon) 
+Published: 2020-02-04 19:42:36
+
+Download The Bibites Mac 1.3 alpha.zip
+Download The Bibites 32x 1.3 alpha.zip
+Download The Bibites 64x 1.3 alpha.zip
+Download The Bibites Linux 1.3 alpha.zip
+
+A few of you asked me to have access to the development version, so here!
+
+Warning: This build is not stable and probably has many bugs
+
+Have fun :) 
+
+
+
+---  1.3 Alpha 2 Release (Patreon)
+Published: 2020-02-10 01:02:53
+
+Download The Bibites Mac 1.3 alpha2.zip
+Download The Bibites x32 1.3 alpha2.zip
+Download The Bibites Linux 1.3 alpha2.zip
+Download The Bibites x64 1.3 alpha2.zip
+
+Far more stable than the last one, this one has a couples of neat (work-in-progress) features 
+
+- You can now select eggs and see their brain, genes, and hatch progress!
+- Health and energy bar on selected bibites and eggs
+- Press 'n' to select a random bibite
+- Many bugs fixed (the long awaited NaN among them)
+
+As always I await your limit testing and your comments :) 
+
+
+
+---  The Bibites 1.3 alpha 3 : Save System (Patreon)
+Published: 2020-03-18 21:00:04
+
+Download The Bibites Mac 1.3 alpha3.zip
+Download The Bibites x32 1.3 alpha3.zip
+Download The Bibites Linux 1.3 alpha3.zip
+Download The Bibites x64 1.3 alpha3.zip
+
+As always I look forward to your comments :)
+
+New features/things/reworks:
+
+-Added more keyboard controlls 
+r - select random bibite
+g - select highest generation bibite
+o - select oldest bibite
+e - select random egg
+-Save/Load system
+Individual bibites (brain panel)
+Worlds (lower left)
+Automatic saves (toggleable)
+-Bugfixes
+Birth Process
+Death Process
+Spelling Fixes
+Biomass Divergences
+
+
+
+---  Long overdue update on progress (Patreon)
+Published: 2020-06-22 22:17:17
+
+Hey Everyone !
+
+I know I'm very bad with social medias but I just want to keep everyone updated on the fact that this is still an active project which I'm actively pursuing (at least 20h/week) (At least I keep people on the Private Discord server more updated) despite a full-time job and many other projects and responsibilities. It's simply because I love this project/community/everything so much. So I hope you're not loosing interest just because of how bad I am at the social game... Although it would be 100% understandable ahahah.
+
+I also want to stress that if you feel the progress is too slow or that it's becoming less worth-it for you to support me I give you full absolution to lower or delete your pledge. I also recognize that it wasn't clear from the start that the progress would be this slow so if you feel that you would like a refund for your total pledge amount so for contact me and I'll make sure to do so (even if you've deleted your pledge a long time ago).
+
+If you're satisfied and decide to become/stay a Patreon thanks you so much, I'll make sure to act in a way that makes me worthy of your collective support. I already feel so lucky 
+
+I'll make the promise that I'll try to keep the whole community updated and not just my Patreons on Discord from now on 🙏 I can't thank you enough for your continuous interest and support 💓💓💓
+
+Here's a link to the full post on the official sub-reddit where I detail exactly where we are standing progress-wise on the different parts of the project :
+https://www.reddit.com/r/TheBibites/comments/he1tmi/notso_regular_super_long_update_thread_on/ 
+
+
+
+---  Virus Update Alpha 0 ! (Patreon)
+Published: 2020-07-02 02:40:49
+
+You guys asked for it, so here it is ! I'm going away for a few days starting tomorrow early morning so I made sure to rush a few features in so you could enjoy it:
+-Virus strain, randomly generated string that is passed down to virus descendants.
+-The virus panel, which allow you to see the virus genome, its strain, and generation.
+-The Virus Spawner, which infect a new bibite every 100s
+-Press the "i" key to select a random infected bibite
+
+BEWARE :
+This is a very experimental build, and a lot of features are missing.
+It might not even be fun as it's getting late and you can't even change the virus spawn rate nor any parameters related to viruses in the menu and they might very well make the experience break.
+If I end up having some time tomorrow before going I'll try to update the alpha release so you can at least play around with all that. 
+
+I'm also sorry but I didn't have the time to build it to other platforms than windows 64 bit
+
+I'm having some problems attaching the file to the post so here's a drive link to download it https://drive.google.com/file/d/1D-21D7hVdCtPvu4VZK7RwC0J1S5y6fXD/view?usp=sharing
+
+
+
+---  The Bibites at the ALIFE2020 Conference! (Patreon) 
+Published: 2020-07-22 15:22:35
+
+So that was a big step in the project's (and my) life !
+Thanks to your generous support I had funds to purchase an entry to the conference and was able to submit a Talk proposal which was then accepted! The event was a tremendous success and I felt so lucky being able the share the project with the scientific community. I got so much awesome feedback  and apparently there is some research value to this project after all  Might be fun to pursue that direction when I'll have more time
+
+So thank you all again for your support 
+
+The Bibites at ALIFE2020 - Artificial Life Conference
+
+This is a talk I gave at the ALIFE2020 Conference on July 14 2020. Synopsis: The Bibites is an artificial ecosystem simulation using evolutionary algorithms to evolve both physical and behavioral components of the agents, implemented through biological reproduction. As Alife projects tend to be one-shots, released at once and then left aside, it's interesting to ask What can be gained from continuing a project and building a community around it. ================================= Follow me on Twitter : https://twitter.com/TBibites Support the project on Patreon : https://www.patreon.com/leocaussan Join the community on Reddit : https://www.reddit.com/r/TheBibites/ Download and play the game : https://leocaussan.itch.io/the-bibites
+
+
+
+---  The Bibites Virus Update Alpha 1 (Patreon)
+Published: 2020-08-01 00:00:02
+
+Download BibiteVirus alpha 1.zip
+
+Finally the first "real" alpha version of the virus update !
+
+Compared to the alpha 0 we have a lot to cover, so let's get started (This includes many non-virus-related features and fixes) :
+
+-Added Bibite Immune Systems!
+
+-Added WAGG (Weighted Apportionment Genetic Groups) genes: 
+
+*Virus Production:
+
+    CellsInfection 
+    SkinVirionProduction
+    AirVirionProduction
+
+*Virus Impact:
+
+    Health Damage
+    Energy Drainage 
+    Immunity suppression 
+
+-Button to infect non-infected bibites (with a cool effect eheh)
+
+-Added settings in the menu:
+
+    Toggle Virus option
+    Virus Spawn rate
+    Additional base immune activation gene
+    Added a tab for energy balance
+    neuron Birth energy cost
+    synapse birth energy cost
+    pheromone production energy cost
+    Surprise when playing with colors in the main menu ;)
+
+-Far more info in the virus panel
+
+-Option to toggle full-screen mode (settings panel during simulation run) 
+
+-Fixed overflow out of screen of the brain panel when a lot of connections are present
+
+-Hovered synapses are now is drawn on top, allowing to always see the connection strength
+
+
+
+---  New video Out ! (Patreon)
+Published: 2020-09-07 14:18:07
+
+Viruses have invaded the simulation! Complete with genetics and a very complex and dynamic system, viruses now add a completely new layer of possibilities to the simulation. 
+
+ This is the first video of a series of two. In this one I present the dynamics and logic of how the virus works and interacts with the existing simulation. 
+
+ In the next one I'll showcase the actual impact that can be observed in the simulation, as well a few other additions ;) 
+Files
+How Viruses Spread in a Virtual Ecosystem
+
+Viruses have invaded the simulation! Complete with genetics and a very complex and dynamic system, viruses now add a completely new layer of possibilities to the simulation. This is the first video of a series of two. In this one I present the dynamics and logic of how the virus works and interacts with the existing simulation. In the next one I'll showcase the actual impact that can be observed in the simulation, as well a few other additions ;) ================================= Follow me on Twitter : https://twitter.com/TBibites Support the project on Patreon : https://www.patreon.com/leocaussan Join the community on Reddit : https://www.reddit.com/r/TheBibites/ Download and play the game : https://leocaussan.itch.io/the-bibites ================================= Credits: Sad music at 00:14 I'm coming back Ross Bugden : https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ https://www.youtube.com/watch?v=HhqdQZGJJXU&list=PLMFmJLFhkDPG2tHFRin_Ecoqbg7kDxYr_&index=2 End Music from https://www.bensound.com
+
+
+
+---  The Bibites v1.Virus Alpha 2 - Herds and Settings Overhaul (Patreon)
+Published: 2020-09-25 21:01:00
+
+Download BibiteVirus alpha 2.zip
+
+That was a lot of work ! But the next alpha is present :) with this done I'll focus my efforts on making the next video!
+
+On the menu :
+
+    Bibites are now able to display herd behavior (a new neuron) :
+    When a bibite stimulate positively this neuron, it will try to match its speed and direction with others bibites around it (kinda like boids), when negatively stimulated it will try to avoid others.
+
+    Simulation Settings Overhaul ! :
+    Settings are now far easier to add and modify ! I've been able to add a lot of functionalities and additional settings that where on my list for a while (you'll have to check yourself eheh). They also now all have helper text to help give a little more text to each settings. +another surprise that's been asked pretty often ;) (I'm not responsible for accidents) 
+    Void-No-Mo
+    Toggle Pellet collision
+    More energy balance settings
+    Nice effect with the menu's bibite
+    Minor Improvements To performance
+    Other Fixes:
+    -Fixes on mutation amount. Mutation should be back to normal-ish
+    -Code Restructuring
+    -Fixed Fullscreen Setting and Toggle
+    -Fixes on UI scaling
+
+Have fun !
+
+
+
+---  The Bibites Virus Alpha 3 (Patreon)
+Published: 2020-10-17 15:32:13
+
+Download BibitesVirus alpha 3.zip
+
+Took a little more time to fix the Save system from the previous alpha than I expected by I took the opportunity to add a few things at the same time!
+
+-Meat from an infected bibites is infected too
+
+-Added button to cure bibite
+
+-Added button to kill bibite (fun)
+
+-Streamlined (simplified) the save files for a few components like Brain, spawners. etc. they should be a little easier to edit now.
+
+-Fixed a few bugs:
+
+Vision, UI, biomass measurements
+
+-Some Code Optimization:
+
+Viruses, UI, BibiteBody
+
+
+
+--- The Bibites Virus Alpha 4 - Mega stablity update (Patreon) 
+Published: 2020-11-18 00:43:17
+Download BibitesVirus alpha 4.zip
+
+Content
+
+I decided to take a lot of time to fix a lot of underliying issues that made the game not properly work from a "real game" perspective. So yeah you'll be able to have a lot more stable fun
+
+Stability fixes:
+-Mutation System now impervious to infinite mutations and is now probabilistic (following normal and poisson's law)
+-Replaced muteInt and muteChance genes with MutationSigma and AverageMutation
+-genes mutations have been temporarily capped to prevent infinite runaway mutations.
+-Bibite's internal clocks are now saved and not anymore subjected to time invariance (float imprecision)
+-Movements are now timescale invariant
+-Fixed eggs energy bugs
+-Bibites will now continue laying eggs after being loaded
+
+Functionalities:
+-Added lay egg button in stats panel (costs no energy)
+-Added default indicator and reset button for settings
+-Added a simulation setting for the max energy a bibite can store
+-Eggs now leave meat if they are killed/aborted
+-Savefile for individual bibites and complete simulation can't be loaded if they are from an incompatible version.
+-Bibites will now restart laying eggs after being loaded.
+-Added error pop-up window
+
+Minor Fixes:
+-FPS counter now less fidgety
+-Raised time neuron fraction
+-Biomass no longer stuck in meat form if meat rotting is disabled
+-optimized biomass count
+-Bibites' attackeddamage sense are now scaled with time accordingly
+-healing balanced
+-Kill button now kills eggs too
+
+So much stuff ! Wow. Very Nice.
+
+
+
+--- The Bibites Virus Alpha 5 - On the road to release (Patreon)
+Published: 2021-01-25 22:55:31
+
+Download Bibites 0.3a5 for windows.rar
+Download Bibites 0.3a5 for mac.zip
+
+With all those major alphas out of the way, it looks like we are finally nearing release. I figure another alpha will suffice to finally release it for the whole public!
+
+And still for this alpha we got a plethora of new features! So let's get to it without delays:
+Parallelizable Viruses:
+
+-Multiple viruses can now infect the same bibites and compete within a host
+-Bibites can develop an immunity to specific strains of viruses
+-New UI Panel displaying the viruses in all their complexity
+Herding Rework:
+
+-Herding now follows the 3 rules of boid behavior
+-All herding weights have been added as genes
+-Added velocity rule, preventing them to run into each other
+
+Grabbing And Throwing Rework:
+
+-Bibites now have "limbs" (non-apparent, but unlocks a lot of possibilities under the hood)
+-Bibites now have a mouth that takes care of every action (eating, attacking, grabbing, etc.)
+-Bibites can now throw held stuff by a swift negative activation of their grab neuron
+-Added collision damages
+-Added a whole lot of settings to support those features
+
+Small Improvements: 
+
+-Updated most of the UI to move away from the awful red
+-Optimization to the pheromones system
+-Updated the bibites lay energy according to gene formula
+
+Bugs and Fixes:
+
+-Fixed size irregularities (physics was not consistent at small scale)
+-Fixed eggs losing their brains at loading
+-Fixed a problem with pheromones sensing
+-Fixed attacking bug where only the attacking bibite would take damages
+-Fixed memory leak causing memory accumulation (I think)
+-Fixed the vision system not removing objects from the "seen" list after they are out of view
+
+So yeah, that's a big one! One last to go!
+
+
+
+--- The Bibites 0.3 Alpha 6 - Serious Business (Patreon)
+Published: 2021-04-04 03:19:10
+
+Download The Bibites 0.3a6 - Windows 32x.zip
+Download The Bibites 0.3a6 - Mac Universal.zip
+Download The Bibites 0.3a6 - Linux.zip
+Download The Bibites 0.3a6 - Windows 64x.zip
+
+In this one, a lot of UI stuff has been reworked under the hood, but you'll have plenty of candies to play with!
+
+I'm locking feature and from now on I'll only do bug fixes before the release (with your help of course to identify the 500002320 bugs that are probably present).
+New Simulation Settings:
+
+- 18 new settings for Virus/Immune System balance and tuning
+- Added the capacity to tweak and balance Brain mutation (12 new settings)
+- Some Settings can now be linked so that a group of settings keep a fixed sum
+- Settings Handles are now all generated proceduraly at loading, making the process far more streamlined and decoupled
+
+UI Improvements:
+
+- Fixed Virus Panel diplaying
+- Beautified the interface a little bit
+
+And PLENTY of bufixes and small reworks under the hood that I won't bore you with.
+But at least I managed to fix the cloud builder, so hopefully Linux and MAC people can let me know if it now works for them!
+
+
+
+--- The Bibites 0.3 Alpha 7 - Prolific Improvements (Patreon)
+Published: 2021-04-10 14:56:43
+
+Download The Bibites 0.3a7 - Windows 32x.zip
+Download The Bibites 0.3a7 - Windows 64x.zip
+Download The Bibites 0.3a7 - Linux.zip
+Download The Bibites 0.3a7 - Mac Universal.zip
+
+Hey Everyone, thanks to your feedback (by identifying so many bugs and problems) and also maybe my renewed dedication and motivatio due to my new situation (more on that at the end).
+
+So what's in store for today? Bug fixes, improvements, a whole lot of stability, and a surprise!!
+
+Improvements:
+
+    reformated Information display
+    adjusted default settings to rebalance plant spawning
+    air virions linger after bibite's death
+    prevent skin material accumulation that bloated RAM
+    balanced and normalized attacked sense 
+    modified brain mutations so that it always defaults to most basic mutations (as an example first create a synapse if there is no synapse to modify)
+    few modifications to the bibiteskin shader
+
+Bug Fixes:
+
+    fixed timescale variance for pellet spawning (now scales with timescale normally)
+    fixed edit setting field not taking into account culture info (periods or commas)
+    prevent skin material accumulation that bloated RAM (big one)
+    fixed AttackedDamage sense (was not being sensed properly)
+    fixed Gene panel overflow
+    fixed virgin birth caps (the feature now work properly)
+    fixed virus skin color bug
+    fixed virus panel not showing a virus from the right bibite if a new bibite was selected with the panel open
+
+Announcement:
+
+I'll give more info in the coming days, but I'm happy to announce that I've handed my 6-week (I know it's a long one, but that's the field of engineering for ya) notice at work. As a result, I'll officially be full time on The Bibites starting may 19th. Exciting times ahead!
+
+
+
+--- The Bibites 0.3 Alpha 8 - Maybe Stability? (Patreon)
+
+Published: 2021-04-17 19:29:16
+
+Download The Bibites 0.3a8 - Windows 32x.zip
+Download The Bibites 0.3a8 - Linux.zip
+Download The Bibites 0.3a8 - Mac Universal.zip
+Download The Bibites 0.3a8 - Windows 64x.zip
+
+Hey Everyone! After a less than glamorous alpha release last week, I figured you all needed a new alpha with a few quick fixes to at least make the experience enjoyable. I also tried a few things to adress the bigger problems like crashes and impossibility to load/save on Mac platforms, we'll see if that helped 🤷
+
+Improvements:
+
+    Added a rot rate settings to control the energy lost per seconds when meat rot
+    Optimized some garbage production and memory usage
+    Cleaned savefiles to remove redundant informations (especially settings)
+    Balanced pellet density settings to better reflect actual surface
+    Limited the Virus mutationamount gene range to prevent explosive mutation
+    Few changes to libraries definitions to try and fix the Mac problems
+
+Bug Fixes :
+
+    Fixed the virus generation time settings not working (was not implemented)
+    Fixed Virus Panel sometimes not displaying virus from the right bibite
+    Fixed a bug where the virus panel would sometime crash if the virus panel button was clicked before selecting a bibite
+    Fixed a bug where loading a save with less total biomass than the current simulation would cause a crash
+    Fixed a bug where negative biomass would crash the game
+    Fixed the brain network so it doesn't overflow anymore
+    Fixed slider range for brain mutation settings
+    Removed leftover test default connection (with attackedDamage Input)
+
+
+
+---  It's official, this is launch! Full-time on The Bibites (Patreon) 
+Published: 2021-05-20 18:26:21
+
+Hey Everyone, it’s official! 
+
+I am now jobless.  
+
+There are many, many, reasons why I decided to quit, but a big one was my profound desire to give this project a real shot. Starting today, and for the next few months, I want to dedicate myself full-time to The Bibites and give it the attention I believe it truly deserves. I estimate that what I have saved up should last me about 6 months, and hopefully, if this project is meant to work, that timeline will extend further. I'm already so grateful for the support you all have been providing to the project and you're part of why able to do this.    
+
+Many might think and say that it’s dumb and insouciant (and some already do ), but that’s what I to do. In the end, I have the support of my SO and many of my close friends, and their faith in me is all I need.    
+
+No matter how this works out, I know it’s going to be an incredibly exciting and rewarding experience.   So, in that timeframe there are a few things I want to achieve:   
+
+    Publish the next video on herding behavior (~3 weeks maybe)    
+     Upload the 0.3 version on itch.io for free (with all features)
+    Start a new lower-effort video series on YouTube
+    Make a channel introduction video presenting the project to newcomers
+    Publish a Scientific paper based on the project
+    Plan and publish a timeline of the Project’s future  
+
+
+In the end, there’s a lot more I’d like to do, but I figure that’s a good ambitious place to start . It should keep me pretty busy for the next many months as it is .    
+
+
+Again, this is going to be an interesting journey, but I’m confident a lot of good will come out of it. Your collective support across the whole spectrum of interests that this community is displaying is already inspiring to an enormous degree. From programmers to gamers, from novices to hardcore nerds, from kids to seniors, from biology/AI enthusiasts to actual scientists and researchers, you all share an interest in this project and I’ll try my best to satisfy all of you in the best of my capacity.    
+
+
+Thank you all SO MUCH for your support, your likes, your kind comments, your ideas, and your presence.  
+
+Your existence is what already made this possible and what will be the foundation of everything from now on.   
+
+With all my sincere love, Léo, Creator of The Bibites 
+
+
+ Link to the more complete post explaining everything with more details:  https://leocaussan.itch.io/the-bibites/devlog/255505/its-official-this-is-launch-full-time-on-the-bibites
+
+
+
+--- The Bibites 0.3 Beta 1 - Making it official (Patreon)
+Published: 2021-05-24 17:53:43
+
+Download The Bibites 0.3b1 - Windows 32x.zip
+Download The Bibites 0.3b1 - Linux.zip
+Download The Bibites 0.3b1 - Mac Universal.zip
+Download The Bibites 0.3b1 - Windows 64x.zip
+
+Hey Everyone! From now on, only bug fixes and minor reworks.
+I'm still trying my best to understand and fix the crashes that some have been experiencing which seems to happen after leaving the simulation running for a long time. I've made another attempt here but it probably won't be the last. 
+Improvements:
+
+    Remodeled pop-ups and dialogs
+    Added warning when trying to import a dying bibite
+    Loading a bibite file from an earlier version now works but  a warning pops-up
+    Removed superfluous data from bibite save files (transform data, unused vector dimensions, etc.)
+    Added superfluous data to bibite save files (node name, type, and index)
+    Added conversion system from old files
+    Dismissing (Cancel action) a dialog will dismiss all pop-ups from the same source
+    Reworked meat spawning after a bibite's death
+
+
+Bug Fixes :
+
+    Fixed immortal zombie bibite being created when importing a dying bibite 
+    Fixed bug of Virus Panel not loading
+    Fixed Air Virions staying after using the "Cure All" buttons
+    Added meat pellet energy density setting (existed but wasn't displaying)
+    Fixed viruses always being dark (or other pretty deep shades)
+    Another attempt at fixing FixedJoint2D crashes
+
+
+
+
+--- The Bibites 0.3 Beta 2 - Acceptance (Patreon)
+Published: 2021-06-12 17:14:57
+
+Download The Bibites 0.3b2 - Windows 64x.zip
+Download The Bibites 0.3b2 - Windows 32x.zip
+Download The Bibites 0.3b2 - Linux.zip
+Download The Bibites 0.3b2 - Mac Universal.zip
+
+A few new things here, but mainly, the acceptance of the fact that we'll probably have to make a few compromises with the release, because of the crash bugs we keep experimenting. As a result, I've added a few debug options in the settings panel which are all enabled by default.
+
+    Auto-Reload after autosave in order to help observed performance problem in long-running simulations
+    Disable Grabbing/Throwing System, to prevent observed crash bug
+    Make Joints Unbreakable to test if that alone fixes the crashes
+
+In Addition, I've fixed and added a few things:
+
+    Corrected Background Color sample
+    Added a gradual outline around bibites when using a darker background
+    Added a random Rotation toggle when spawning bibite from file
+    Added warning when disabling certain parameters
+    Added fadein/fadeout to certain warnings
+    Removed Double StartMouth call
+    Fixed genesReady bug
+    Fixed herding not enabling vision by itself
+    Fixed Virus Color Bug not being fixed
+
+
+
+--- The Bibites 0.3 Beta 3 - On The Road To Done (Patreon)
+Published: 2021-06-22 16:48:54
+
+Download The Bibites 0.3b3 - Windows 64x.zip
+Download The Bibites 0.3b3 - Mac Universal.zip
+Download The Bibites 0.3b3 - Linux.zip
+
+As we are getting ready for the public release with the next video, a few last fixes (hopefully) to iron out anything sticking out. I count on your support to identify anything that might remain
+
+    Toggling grab override now removes all existing links
+    Added Loading screen with progress
+    Remodeled loading processes to measure progress
+    Added common _app scene for certain scripts
+    Remodeled settings to accommodate user settings that persists between games
+    Simulation background color is now a user setting
+    Fixed unused script references causing cloud build issues
+    Fixed buttons function
+    Fixed fullscreen mode not being fullscreen if the window mode was resized
+    Fixed Loading screen being influenced by the simulation speed when returning to the menu
+    Fixed user settings not initializing to user's value 
+    Fixed pop-ups not rendering in play
+    Fixed Save system
+    Reworked brain neuron tagging (behind the scene)
+    Fixed brain outputs not always displaying at the right height
+
+
+
+--- The Bibites 0.3.1 Alpha 1 - What the bug? (Patreon)
+
+Download The Bibites 0.3.1a1 - Windows 32x.zip
+Download The Bibites 0.3.1a1 - Linux.zip
+Download The Bibites 0.3.1a1 - Mac Universal.zip
+Download The Bibites 0.3.1a1 - Windows 64x.zip
+
+Big batch of minor improvements and bug fixes.
+This 0.3.1 version is meant to address all the bugs causing crashes and general unusability. This is the first step toward that!
+
+Major Modifications/Fixes:
+
+    Fixed Loading Simulation not also loading the simulation parameters
+    Default Settings Balance
+    Allowed a few Settings to be set to 0
+    Added option panel when saving and loading bibites
+    Fixed bug that would wipe every neurons node whenever one would be
+    Added energy consumption display (+specific info) to stats panel
+    Added upkeep cost to nodes and synapses
+    Added related upkeep settings slider to menu
+
+Minor Fixes:
+
+    Removed Camera movement when using the arrows to allow compatibility with laptops
+    Hiding the UI ('H' key) now also hides the status bars
+    Eggs have an aura like bibites when using black background
+    Time is always displayed with two digits now
+    Disabled Virus option by default
+    Nerfed default air virion settings
+    Prevented multiple synapses representing the same connections
+
+
+
+--- The Bibites 0.4 Alpha 1 - Procedural Preview (Patreon)
+Published: 2021-08-10 18:10:16
+
+Download The Bibites 0.4a1 - Windows 32x.zip
+Download The Bibites 0.4a1 - Windows 64x.zip
+Download The Bibites 0.4a1 - Linux.zip
+Download The Bibites 0.4a1 - Mac Universal.zip
+
+This is the first preview of procedural sprites. For now, Procedural Sprites are not yet implemented in-game and are just there as a preview in the menu. I added a temporary button to randomize all visual genes to preview, which is pretty fun. You also have the capacity to mod the procedural sprites if you want to play around with that!
+
+I'm making a wiki page explaining how to makes and structure the mods:
+https://the-bibites.fandom.com/wiki/Moding_Procedural_Sprites
+
+Head there if you want to learn a little more about the inner workings of the system!
+
+
+
+--- The Bibites 0.4 Alpha 2 - In-game Procedural Sprites (Patreon)
+Published: 2021-09-08 22:08:59
+
+Download The Bibites 0.4a2 - Windows 32x.zip
+Download The Bibites 0.4a2 - Linux.zip
+Download The Bibites 0.4a2 - Mac Universal.zip
+Download The Bibites 0.4a2 - Windows 64x.zip
+
+Hey, the procedural sprites are finally here! They should be available in-game and available for you to experiment and play around with. This also incorporates the modability portion, allowing you to create your own procedural sprites that will show up in-game. Again, here's the link, I look forward to testing this feature out whit you all!
+https://the-bibites.fandom.com/wiki/Moding_Procedural_Sprites
+
+I also added and fixed a few different things, which will be enumerated below:
+
+Significant change:
+
+    In-game Procedural Sprites
+    Procedural Eggs and Pellets!
+    Allowed multiple choices for procedural size selection
+    Implemented realistic linear drag
+    Fixed grabbing crash (I think) by finally moving to Unity 3.16f1
+    Added a setting for pellet merge (when two pellets collide, they merge) under Pellet Colision
+
+Minor Changes/Fixes:
+
+    Fixed egg size inconsistencies
+    Fixed muscle strength not scaling appropriately with size
+    Fixed settings bug in menu when saving/loading
+    Under-the-hood improvements to events handling
+
+
+
+--- The Bibites 0.4 Alpha 3: Guts and Materials (Patreon)
+Published: 2021-10-10 19:07:29
+
+Download The Bibites 0.4a3 - Windows 32x.zip
+Download The Bibites 0.4a3 - Windows 64x.zip
+Download The Bibites 0.4a3 - Linux.zip
+Download The Bibites 0.4a3 - Mac Universal.zip
+
+Hey Everyone! After a long time without news, I'm happy to announce the first release of the new stomach and materials features 😁! There a lot more new things too, and I look forward to hear your feedback about all of that. So without  further ado:
+
+Significant changes:
+
+    Added Bibite Stomach
+    Added new Biology Panel showing energy usage and stomach information (temporary text)
+    Added Material Simulation (and material settings)
+    Added defense gene
+    Added a BrainUpdater
+    Sprite Generator Scene
+    Changed the growth system and added growth genes
+    Added heading sensing of pheromones
+
+Small changes/fixes:
+
+    Bibites can break pellets in half by attacking it
+    Added Health penalties to movement
+    Change default values of some parameters to fit new systems
+    Removed superfluous settings
+    Fixed Eyes irregularities between sizes
+    Changed rotation force size scaling
+    Adjusted some settings bounds (min/max values)
+    Fixed a few overflow brain functions causing infinities and NaN
+    Many more bug-fixes
+
+There's a lot of new systems in this one, so I made sure to add many new pages to the wiki:
+
+New Growth system:
+
+https://the-bibites.fandom.com/wiki/Growth
+
+New Materials system:
+
+https://the-bibites.fandom.com/wiki/Materials
+
+New Attack System:
+
+https://the-bibites.fandom.com/wiki/Bibite_Attack_System
+
+
+
+--- The Bibites 0.4 Alpha 4: Biology Panel, Balance, and Stability (Patreon)
+Published: 2021-11-09 14:44:49
+
+Download The Bibites 0.4a4 - Windows 32x.zip
+Download The Bibites 0.4a4 - Linux.zip
+Download The Bibites 0.4a4 - Mac Universal.zip
+Download The Bibites 0.4a4 - Windows 64x.zip
+
+Hey Everyone! This time, a lot of work on finishing the digestion system to make it viable and balanced. Also, the Stomach UI is ready and awesome! I look forward to receiving your feedback on its style and seeing if it would be a good direction for the rest of the UI!
+
+Significant changes:
+
+    Added the Biology Panel, providing a load of information about the bibite and its body
+    Fixed an old bug making long runs very buggy. Long simulations should be able to keep a stable fps!
+    Digestion speed is now tied to both  size and metabolism speed
+    Bibites now must take bites to eat, which they can only do at a frequency depending on their size
+    Lots of balance tweaks to default simulation parameters to try and make default bibites able to Iive and reproduce (still could be better) with the new systems
+    Added new pellet distribution algorithm, with a setting controlling the concentration gradient around spawn points
+
+Small changes/fixes:
+
+    Selecting a bibite by clicking will no longer drag it a little
+    Fixed neuron drag issue on the brain panel
+    Fixed Loading issue when using older saves
+    Better drag algorithm for smoother drag
+    Smoother and more gradual pellet spawn point drift
+    UI optimization for performance
+
+
+
+--- The Bibites 0.4 Alpha 5: Short and Sweet (Patreon)
+Published: 2021-11-19 00:27:03
+
+Download The Bibites 0.4a5 - Windows 32x.zip
+Download The Bibites 0.4a5 - Windows 64x.zip
+Download The Bibites 0.4a5 - Linux.zip
+Download The Bibites 0.4a5 - Mac Universal.zip
+
+This alpha only covers a few bug fixes, small changes, and balance. But nonetheless, it piles up to making everything far better! 
+
+Default Settings Balance: 
+
+    Min Conversion Efficiency of meat changed from -0.3 to -0.15 
+    Defence Mass Factor from 5% to 10%  
+
+Changes: 
+
+    When a bibite tries to take a bite of something and multiple objects are in its mouth, the closest object to the mouth base will be prioritized instead of the object that had entered the mouth area first 
+    Removed Redundant information from Stats Panel 
+    Added mass info to the Stats Panel 
+    Background color now ranges from black to blue as white did not make visual sense anymore (temporary, eventually want to give a few curated choices instead) 
+    The "J" key now toggles overhead status bars independently of the rest of the UI ("H" key)  
+
+Fixes: 
+
+    fixed some settings not having the right values after loading 
+    fixed bibites spinning wildly after loading 
+    fixed angle being calculated wrong for the AngleToBibite sense 
+    fixed overflow damages (attacking for more than remaining health) caused energy to disappear -fixed overburden of RateSliders 
+    fixed ugly stuck out-of-bounds stomach pellet glitch
+    fixed settings loading causing some text to disappear
+
+
+
+--- The Bibites 0.4 Alpha 6: Growth And Fertility (Patreon)
+Published: 2021-12-10 18:37:08
+
+Download The Bibites 0.4a6 - Windows 32x.zip
+Download The Bibites 0.4a6 - Windows 64x.zip
+Download The Bibites 0.4a6 - Mac Universal.zip
+Download The Bibites 0.4a6 - Linux.zip
+
+Hey Everyone! This one will be pretty big. First of all, the biggest new feature is the new plant growth system which is more customizable than ever. You now have full control over the kind of environment and topography you want to create for your bibites!
+With this, I've also tried to balance and tune the default settings so that the initial bibites will have an easier time developing and taking hold. The impact is that they now grow far slower, so expect around 30 minutes before the first bibites reach adult age...
+Additionally, some bugs that were impacting ease of use have also been fixed.
+
+New plant growth system:
+
+    Added Spawn Point Number Factor Setting 
+    Added Spawn Point Number Power Setting 
+    Added Spawn Point Size Factor Setting 
+    Added Pellet Spawn Concentration Type Setting 
+    Added Spawn Point Drift Speed Power Setting 
+
+Added Visibility Panel on the bottom left: 
+
+    Toggle Pheromones Visibility 
+    Toggle Fertility (plant growth spawns) Visibility  
+
+Change to some settings use and modification of the default values:
+
+    Biomass density changed to 5.0 mE/u2 
+    Plant Growth changed to 50.0 uE/u2  
+    Balanced Default Bibite Genes 
+    Lower Metabolism speed from 1.0 to 0.75 
+    Lower Growth Scale Factor from 0.25 to 0.1 
+    Higher Growth Maturity Factor from 1.0 to 2.0  
+
+Changes to the digestion system: 
+
+    Stomach Content is dropped at death instead of recycled 
+    Reduced impact of metabolic speed to digestion potential (from linear relation to a square root relation) 
+    Better handling of stomach UI physics and logics  
+
+Bug fixes: 
+
+    Fixed bug that prevented bool settings from being saved 
+    Fixed bug that locked control under certain exceptions 
+    Fixed Bug freezing the game when unused biomass became negative. 
+    Fixed bug that caused some individuals to swallow a "NaN" amount of matter when attacking another individual for negative damages  
+
+Small changes: 
+
+    Selected bibite remains selected after an autosave 
+    Corrected mistakes in settings helper text 
+    Renamed "spawner biomass" to "unused biomass"
+
+
+
+--- The Bibites 0.4 Alpha 6 QuickFix (Patreon)
+Published: 2021-12-13 13:54:00
+
+Download The Bibites 0.4a6 - Windows 32x.zip
+Download The Bibites 0.4a6 - Windows 64x.zip
+Download The Bibites 0.4a6 - Mac Universal.zip
+Download The Bibites 0.4a6 - Linux.zip
+
+This was just a quick fix addressing some issues that have been observed on the most recent alpha.
+
+Mainly the fact that importing some bibites from earlier versions crashed the game...
+Also, every autosave would reset the time speed to 1.0x
+
+Please re-download this one instead!
+
+
+
+--- The Bibites 0.4 Alpha 7: Balance, Combat, and Brains (Patreon)
+Published: 2022-01-18 00:58:51
+
+Download The Bibites 0.4a7 - Linux.zip
+Download The Bibites 0.4a7 - Windows 64x.zip
+Download The Bibites 0.4a7 - Mac Universal.zip
+Download The Bibites 0.4a7 - Windows 32x.zip
+
+Welcome to all the newcomers! I can't thank you all enough, it's been a pleasure to see everyone enjoy the last video and I'm amazed by the attention it's getting!
+So, on to the new stuff in this alpha.
+
+Patreon Simulation!
+
+See yourself in the simulation among all other supporters by heading to the credits panel in the main menu! Sorry if you're not already present in the sim, Brax (our loved artist) hasn't managed to make the new sprites for all the new patrons since the last video! But don't worry it'll come.  
+
+New Expended Brain Panel:
+Simply head to the existing brain panel and click the expand button on the bottom left of the panel. You'll be able to explore the brain of your bibites in more detail than ever, and the new Force-directed graph algorithm developed by Alex Sawyer should help you organize it!
+-The new panel contains a multitude of settings that allows you to tune the behavior of the graph.
+
+New defense system:
+Before, the defense stat could be abused far too easily by bibites. Herbivores would evolve armor, and young predators wouldn't be able to damage them, even when young too because attack strength scaled with size, but not defense.
+I changed it so that defense now instead procures a damage reduction percentage that scales non-linearly. The first few points provide an important protection, and further points have a gradually diminishing effect.
+-A new setting controlling the maximum damage reduction bonus has been added in the physics parameters section
+-See the related information when hovering over the health bar in the biology panel
+
+Balance For default bibite's survivability:
+
+    Changed Diet Gene from 0.25 to 0.2
+    Changed Plant Min Efficiency from -50% to -25%
+    Corrected meat rotting rate
+    Removed digestion speed scaling with metabolism
+    Tuned the digestion process so it affects the contained pellets realistically
+     
+Other small changes:
+
+    Added a small default amount of color to promote initial development
+    Increased the range for Plant Pellet Average energy up to 1000E (very big pellets)
+    Fixed Boolsettings (toggles) not being registered in-game 
+
+Again, Thank you, everyone! I'm looking forward to your feedback!
+
+
+
+--- The Bibites 0.4 Alpha 8: Ageing, Filter Feeding , and [More] (Patreon)
+Published: 2022-02-08 02:01:32
+
+Download The Bibites 0.4a8 - Windows 64x.zip
+Download The Bibites 0.4a8 - Linux.zip
+Download The Bibites 0.4a8 - Mac Universal.zip
+Download The Bibites 0.4a8 - Windows 32x.zip
+
+A few significant things today!
+
+Ageing
+Due to the fact that some bibites would live forever and prevent new generations from developing, resulting in low dynamism, the bibites will now age. Once they reach a certain age, they'll slowly lose strength (movement and bite strength) and their energy metabolism cost will slowly increase. The ageing process proportionally scales with the metabolism speed of the bibites, so faster bibites will start ageing sooner and will then age faster. The opposite is true for slower bibites!
+The default settings make this process pretty slow, so the effect will be minimal, but you are free to increase the effects of ageing.
+Head to the biology panel for that new information.
+
+Filter Feeding
+To encourage different niches, a small thing I decided to add is that bibites can swallow pellets without having to bite it. If an object (pellet or other bibite) is small enough compared to the mouth opening of the bibite, it will be able to swallow it whole instantly.
+In the future, it could be interesting to add factors and adaptations that would influence the size of the mouth, encouraging this feeding type at the expanse of other downsides.
+
+Randomizing Virgin Genes
+So uhh... This option is wacky, but it's there.
+If enabled, initial virgin bibites will have completely random genes, across the whole spectrum of possibilities. If you enable this I would recommend lowering the bibite spawn rate.
+
+Small changes and modifications:
+
+    Sprite modding finalized
+    Added warning when going over 3x Time Speed
+    Background can be made any color
+     Spawn limit now enabled by default
+
+Bug fixes:
+
+    Fixed pellet wipe bug 
+    Fixed white background flash on escape panel opened 
+    Fixed Maturity progress bar display glitch
+
+Looking forward to your feedback!
+
+
+
+--- The Bibites 0.4.0: Release day! (Patreon)
+Published: 2022-03-16 18:08:18
+
+Download The Bibites 0.4.0 - Windows 32x.zip
+Download The Bibites 0.4.0 - Windows 64x.zip
+Download The Bibites 0.4.0 - Linux.zip
+Download The Bibites 0.4.0 - Mac Universal.zip
+
+So this update won't contain many differences compared to the previous alphas.
+Mainly, I added the tagging system, which allows you to tag bibites. The tags are passed on to children so this will allow you to track lineages!
+
+I also fixed a lot of bugs and small improvements to prepare the sim for major release.
+Thanks so much for your collective support up to now, can't wait to push this project further! 
+
+
+
+--- The Bibites v0.4.1 (Patreon)
+Published: 2022-03-28 20:10:45
+
+Download The Bibites 0.4.1 - Windows 32x.zip
+Download The Bibites 0.4.1 - Windows 64x.zip
+Download The Bibites 0.4.1 - Linux.zip
+Download The Bibites 0.4.1 - Mac Universal.zip
+
+So just a small update following the feedback I got from the last release!
+Mostly some bug fixes and a little bit of balance of the default settings to make the world more interesting!
+
+Changes:
+
+    Added verification for the random virgin bibite option that ensures basic viability
+    Reworked and fixed the damage formula when attacking
+
+Balance to default settings:
+
+    Lowered the brain upkeep cost to promote brain size
+    Lowered the pheromones production cost to promote usage
+    Increased default mass of the bibites to slow down their movement a little
+
+Bugfixes:
+
+    Fixed UI formatting in the menu for the material settings
+    Disabled brain connections being invisible instead of transparent
+    Fixed the energy cost of healing to prevent immortality
+    Fixed the bibites eyes being invisible before the first bibite is selected
+    Fixed crash when trying to save a bibite to no path
+
+
+
+--- The Bibites 0.4.2 alpha 1: Unnatural Selection! (Patreon)
+Published: 2022-04-09 19:29:27
+
+Download The Bibites 0.4.2a1 - Windows 32x.zip
+Download The Bibites 0.4.2a1 - Linux.zip
+Download The Bibites 0.4.2a1 - Windows 64x.zip
+Download The Bibites 0.4.2a1 - Mac Universal.zip
+
+Working on the next video I decided to implement a few interesting things, so I'm sharing with you the results!
+
+Color Selector
+
+Added a new entity called the Color Selector. You can place it from the placer tool on the bottom left of the UI. You'll then be able to tune the exact behavior of the selector, so it kills bibites that do not match certain colors. You'll have control over:
+
+    Color
+    Tolerance
+    Eyes or Body selection
+    Any or Most different from the target color
+    Zone of influence
+    Delay between kills  
+
+Background mutation
+
+Added background mutations settings that get added to the mutation genes of the bibites, preventing them to reach 0 mutations. Find them in the mutation section of the genes panel in the menu.
+
+New Version Tracker and Updater
+
+The new version tracker enables you to load saves from the earlier versions as long as they are compatible. It will also automatically try to upgrade save files that come from previous versions that had different but upgradable save file formats. Some errors might still arise.
+
+Bug Fixes
+
+    Fixed settings helper text formating errors
+    Fixed some spawners drifting out of bounds
+    Fixed some spawners missing references after reload
+
+
+
+--- The Bibites 0.4.2 alpha 2: Variations and Information (Patreon)
+Published: 2022-04-27 19:22:58
+
+Download The Bibites 0.4.2a2 - Windows 32x.zip
+Download The Bibites 0.4.2a2 - Linux.zip
+Download The Bibites 0.4.2a2 - Mac Universal.zip
+Download The Bibites 0.4.2a2 - Windows 64x.zip
+
+This update is more foundational than anything, but also added a few fun things. I added a way to display useful information related to settings that, for now, is only used for spawner settings, but will be useful in the future, and did some background work for the next alpha release.
+
+More procedural sprites Variations
+
+Thanks to our loved Ophelia ( @Braxiations), we now have additional procedural sprites variations!
+
+    The defense gene now produces smoother transitions toward full shells (moving from 3 steps to 7)
+    Mouth sprites now have 1 additional step ( 2 to 3) for the larger sizes
+    A lot more arm sprites for different speeds
+
+We are also working on an eventual fat system and Ophelia has produced the first body sprite variations for this! Don't tell anyone 🤫
+
+Changes
+
+    Added movement penalty for defense
+    Added defense movement penalty setting
+    Increased default pheromones strength
+    Added default pheromone strength setting
+    Added "Initial Seeding" setting controlling what % of the biomass is initialy spawned
+    Increased default (and background) mutation rates
+    Decreased default 9and background mutation strengths
+    Added Information Pop-up for spawner settings
+
+Bugfixes
+
+    Fixed PheroHeading neurons not enabling sensing by themselves
+    Fixed scaling problem with modded pellet sprites
+    Fixed auto-panning not working
+
+
+
+--- The Bibites 0.4.2 alpha 3: Eggs? and Foundation (Patreon)
+Published: 2022-06-17 01:16:56
+
+Download The Bibites 0.4.2a3 - Windows 32x.zip
+Download The Bibites 0.4.2a3 - Mac Universal.zip
+Download The Bibites 0.4.2a3 - Linux.zip
+Download The Bibites 0.4.2a3 - Windows 64x.zip
+
+I've been focusing hard on videos for the past two months and feel like I've been neglecting alpha releases a little bit. This alpha is going to be pretty light in features but is still going to be pretty foundational. Mainly, the simulation has all the back-end code to support dynamic settings (changing settings during play). This will not be part of this release but the next one should start allowing you to change a few settings during play! For now, this update will have to do, sorry in advance but I promise very cool things are coming 🙏🏻
+
+Changes   
+
+    New colorSelector sprites 
+    Changed a few neuron names to be more descriptive 
+    Eggs are now laid behind the bibite 
+    Eggs now experience normal drag 
+    Eggs can now collide (and a setting controlling that)
+    Bibites tags are now counted in the information panel
+    Foundational background work for allowing dynamic settings
+
+Fixes
+
+    Fixed empty buggy panels after hiding UI (H) and deselecting  
+    Fixed buggy stomach representation after hiding the biology panel for a while
+    Fixed stomach pellet sizing calculations
+
+
+
+---  100h simulation saves (Patreon)
+Published: 2022-06-19 21:20:15
+
+Download 100 hours.zip
+
+Decided to share the 100h simulation saves with you all  
+
+
+
+--- The Bibites 0.4.3 alpha 1: Dynamic Settings and Tooltips (Patreon)
+Published: 2022-06-25 19:55:15
+
+Download The Bibites 0.4.3a1 - Windows 32x.zip
+Download The Bibites 0.4.3a1 - Windows 64x.zip
+Download The Bibites 0.4.3a1 - Mac Universal.zi
+Download The Bibites 0.4.3a1 - Linux.zip
+
+Hello Everyone! You wanted it? It's there.
+We have the first steps toward Dynamics settings, allowing you to change some parameters during play after having started the simulation!
+
+I also decided to take the time to add a Tooltip system for the future, allowing the interface to be somewhat contextualized.
+
+Dynamic Settings
+
+    Pellet Collision Settings
+    Cheat options
+    A few spawning settings (bibite cap, limit, plant growth, etc.)
+    Meat decay
+    A few physics parameters (drag, default forces, defence movement penalties)
+    A few energy settings (bibite default costs)
+
+ Tooltip System
+
+    A few UI menu now have tooltips when hovering over them 
+    When hovered, Pellets will have a tooltip revealing their material and amount
+
+Ruler
+Added a ruler to the bottom of the screen giving a bit of perspective on the distance. Can be hidden in the Visibility options.
+
+Updated Information Panel
+
+Reworked the information panel to be a little better looking and added piecharts!
+
+Fixes and small changes
+
+    Fixed some settings being reset on game load
+    Fixed some settings not being saved 
+
+
+
+--- The Bibites 0.5.0 alpha 1: UI OVerhaul (Patreon)
+Published: 2022-07-14 21:25:31
+
+Download The Bibites 0.5.0a1 - Windows 64x.zip.zip
+Download The Bibites 0.5.0a1 - Mac Universal.zip
+Download The Bibites 0.5.0a1 - Linux.zip
+Download The Bibites 0.5.0a1 - Windows 32x.zip
+
+So first of all, we're moving to a new major version!
+When launching the game now, you'll have to agree that this is justified.
+This is a foundational release that will lay the stage for a lot of new thing, but that stands on its own.
+
+Major changes
+
+    New menu that makes sense!
+    Load and view all your saves in-game, with a preview of the map
+    Added Tooltips to a lot of stuff
+    Neurons now have icons detailing what input/output they are
+    Settings (user settings like fullscreen, UI scale, etc.) Accessible both in-game and in menu!
+
+Small Changes/Fixes
+
+    Added missing energy sliders when playing with the virus options
+    Moved Virus Options to unstable features (bottom of first settings page)
+    A lot of fixes to the expanded brain panel
+    Fixed Linear Mode not computing correctly
+    Fixed bug that would not upload some scripts after save reloading
+
+
+
+--- The Bibites 0.5.0 Alpha 1 Quick Fix (Patreon)
+Published: 2022-07-15 23:51:40
+
+Download The Bibites 0.5.0a1 - Windows 32x.zip
+Download The Bibites 0.5.0a1 - Windows 64x.zip
+Download The Bibites 0.5.0a1 - Mac Universal.zip
+Download The Bibites 0.5.0a1 - Linux.zip
+
+This is a quick fix release to fix the panels not rendering correctly for people using larger screens.
+
+
+
+--- The Bibites 0.5.0 Alpha 2 Tournament Preparations (Patreon)
+Published: 2022-07-22 17:53:35
+
+Download The Bibites 0.5.0a2 - Windows 32x.zip
+Download The Bibites 0.5.0a2 - Mac Universal.zip
+Download The Bibites 0.5.0a2 - Linux.zip
+Download The Bibites 0.5.0a2 - Windows 64x.zip
+
+This is relatively light in actual features, but has a few nice to haves.
+
+Changes
+
+    Added activation function icons
+    Added "Open folder" to Load Game Panel
+    Better Tags Info
+    Clicking on tag Item (in the information panel) selects a random bibite of that tag
+
+Fixes
+
+    Fixes Abs Node error
+    Fixed Events triggering even when hidden by UI
+
+
+
+--- The Bibites 0.5.0 Alpha 3 : So Much Stuff (Patreon)
+Published: 2022-08-31 22:24:24
+
+Download The Bibites 0.5.0a3 - Windows 32x.zip
+Download The Bibites 0.5.0a3 - Windows 64x.zip
+
+Major Changes
+
+    Added pellet painter tool, allowing you to place plants
+    Added Multiplication Node/Neuron (multiplies inputs instead of adding them)
+    Added camera controls (arrows and WASD both work, -/+ changes the speed)
+    Added default tagging options for virgin bibites
+
+Small Changes
+
+    Clicking on a species tag now selects a random bibite of that species
+    Added indexes/ranking to Stats panel tags
+    Camera zooming is disabled when the cursor is over UI
+    Added sprite Generator back in (in credits screen)
+    Pressing 'home' brings you back to center of sim
+
+Bug Fixes/Issues
+
+    Fixed neuron indexing issues
+    Remove tags from species that don't exist anymore
+    Fixed save path issues
+    Fixed autosave not being included by the "Continue" button
+    Load Game panel now refreshes the saves list every time it is opened
+    Can't grab bibites/pellets through UI anymore 
+    Fixed most instances of bug causing Tooltips to stay on screen
+
+*The Mac and Linux versions will be omitted until I can figure out the issues plaguing those platforms*
+
+
+
+--- The Bibites 0.5 Alpha 4: Scenarios and customization (Patreon)
+Published: 2022-10-13 19:30:37
+
+Download The Bibites 0.5.0a4 - Windows 64x.zip
+Download The Bibites 0.5.0a4 - Mac Universal.zip
+Download The Bibites 0.5.0a4 - Linux.zip
+Download The Bibites 0.5.0a4 - Windows 32x.zip
+
+Hello everyone!
+I'm thrilled to present what I've worked on for the last while!  
+
+Scenarios
+
+I added scenarios that will load a set of settings that are curated to produce interesting results. No more will you have to tinker around blindly with the simulation parameters until you find something that works! (Although you'll still be able to if you want)
+You'll also have the capacity to create and share your own scenarios, which will also allow me to expand the initial library through time as people discover new interesting scenarios that lead to unique results!
+
+Zone Editing
+
+Islands can now be created and modified while editing a scenario, but in-game as well during play! You can change their position, size, drift speed, pellet size, fertility, and eventually a lot more!
+
+Bibite Templates
+
+You'll be able to save bibites as templates, a more compressed format containing only the important information, which you'll then be able to use as "virgin" bibites when creating scenarios, but also during play!
+
+
+
+--- The Bibites 0.5 Alpha 5: Less buggy? (Patreon)
+Published: 2022-10-15 21:20:56
+
+Download The Bibites 0.5.0a5 - Windows 64x.zip
+Download The Bibites 0.5.0a5 - Linux.zip
+Download The Bibites 0.5.0a5 - Mac Universal.zip
+Download The Bibites 0.5.0a5 - Windows 32x.zip
+
+This is a quick release to fix the issues that plagued the last alpha. I am far happier with the results, but there might still be a few things left that no one caught in the last few days. I hope not!
+Changes
+
+    Added buttons to open the various save folders
+    Added save file retro-compatibility
+    Adjusted default biomass settings (lowered them a little)
+    Reworked void-avoidance so it's island based
+
+Fixes
+
+    Fixed constant pellet recycling
+    Capped craziness of the "Randomize Genes" option
+    Fixed Random genes option not working for virgin bibites
+    Remove unused settings
+    Trying to save an unnamed bibite is no longer possible
+    Fixed sizing issue with zone editors during play
+
+
+
+--- The Bibites 0.5 Alpha 6: Previews and fixes (Patreon)
+Published: 2022-11-03 21:49:44
+
+Download The Bibites 0.5.0a6 - Windows 32x patch.zip
+Download The Bibites 0.5.0a6 - Windows 64x patch.zip
+Download The Bibites 0.5.0a6 - Linux patch.zip
+Download The Bibites 0.5.0a6 - Mac Universal patch.zip
+
+Hey all, final alpha release before I finally go back to focussing on the next video!
+I fixed a lot of the leftover bugs from the last alpha, as well as fixing a lot of the things you caught since last time. I also took the time to add a few quality of life improvements!
+
+Changes
+
+    Added informational preview to zones to give a respective biomass and estimated number of pellets 
+    Added per-material decay options
+    Added more info to pellet tooltips
+    Removed bibites and free pellets from biomass restrictions
+    Added warning for the "Delete all" buttons for zones and bibites
+    Modified game Loading; now loading a game will completely reload the scene instead of trying to modify it.
+    Moved project to Unity version 2020.3.41f 
+    Manually spawning bibites no longer mutates them by default
+    Increased Time precision (from float to double)
+
+Fixes
+
+    FINALLY Fixed Mult Node
+    Fixed status bars rendering on top of the UI
+    Fixed color selector Crystal rendering on top of the UI
+    Fixed some buttons and tooltips not responding (still problematic for the neurons in the expended brain panel)
+    Fixed stomach pellets blocking the details panel
+    Fixed background color not changing anymore
+    Fixed Bibite save panel blocking play after second saved bibite
+    Fixed bibite panel buttons remaining visible when opening the color selector editor panel
+    And a few more UI Problems
+
+
+
+--- The Bibites 0.5 Alpha 7: Optimization and more (Patreon)
+Published: 2022-12-09 14:57:49
+
+Download The Bibites 0.5.0a7 - Windows 32x.zip
+Download The Bibites 0.5.0a7 - Mac Universal.zip
+Download The Bibites 0.5.0a7 - Windows 64x.zip
+Download The Bibites 0.5.0a7 - Linux.zip
+
+Hello Everyone! We are quickly approaching a public release for 0.5, so I wanted to do a final alpha release to let you see a few things I added firsthand.
+
+Changes
+
+    Synapse weight will be conserved on node creation
+    Updated Pellet Tooltips for performance
+    Optimized Pellet code (many pellet will have a lot less impact)
+    Added minimum setting for bibites, defining a minimum number of individuals for scenarios with multiple species
+    Changed Vision System so that it's no longer synchronized between bibites (less stutter, more performant)
+
+Ease-Of-Use
+
+    Added option to add node labels
+    Added in-game scenario saver
+    Added tooltips to few buttons
+    Adjusted a few settings max range
+    Zone editor position slider will update with zone movement
+    Fixed bibites template font to fit more info
+
+Fixes
+
+    Prevented moving the camera and other controls when editing fields
+    Fixed RandomizeAllGenes Option preventing bibite tagging
+    Load game panel correctly displays sim size
+    Loading a save with non-local templates is correctly handled
+    Fixed scenario saver width problem
+
+
+
+--- The Bibites 0.5.0: Modernity and Progress
+Published: 2022-12-16
+
+Download The Bibites 0.5.0 - Mac Universal.zip
+Download The Bibites 0.5.0 - Linux.zip
+Download The Bibites 0.5.0 - Windows 32x.zip
+Download The Bibites 0.5.0 - Windows 64x.zip
+
+Hey everyone! I'm so glad to be able to present you all the 0.5.0 update of The Bibites!
+
+We have a lot to cover today, so let's not lose too much time and get right into it!
+
+But let's go with the boring stuff first:
+
+Modernity
+Starting Menu
+
+I mean... look at that... Night and day. I had forgotten how bad and lame the 0.4.2 menu was... 
+It feels weird to boast about doing what's nowadays standard, but I'm proud nonetheless. I'm getting better and so is the sim.
+
+Tooltips Everywhere
+
+I think I can safely say that I'm very good at drawing mouse cursors in paint
+
+No more will you ever wonder what a button or a setting does 😎
+
+Saving/Loading
+
+In 0.4.2, in order to load or save a simulation, you had to first start a simulation, and then had to physically go through a file explorer to locate the save file you wanted to load.  Unacceptable!
+
+We now have dedicated panels that allow you to go through your saves, see the important related information to each, as well as see a nice preview of the map of this simulation, accessible from both the menu and in-game. And if you don't want to bother with that, you have a nice "Continue" button in the menu to load the most recent save.
+
+Settings
+
+Same as Saving/Loading, you could only change the App's Settings while running a simulation, and it was ugly. We now have a dedicated panel accessible.
+The next thing I should probably make sure to add would be a key bindings section
+
+Information panel
+
+A far better-looking information panel is here for you! With a few new functionalities as well
+
+But enough with the boring stuff! Onto the main new features!
+
+Main Additions
+Scenarios
+
+One of the main comments I kept getting, was that it was really hard to create interesting experiments due to the amount and complexity of simulation parameters. So I decided to add Scenarios, a way of adding a simpler interface on top of the countless parameters, offering you a few curated interesting simulations right out of the box while still giving you a little bit of control. Of course, you can still then go into the nitty-gritty and create the exact environment you had in mind, and then save it as a scenario to share with others!
+
+Zones
+
+You can now also easily create your own zones, and place them precisely over the map to materialize the exact environment you want to create. Especially since you can now change a few settings on a per-zone basis, like the pellet material to spawn (only plants and meat for now), pellet size, relative fertility, and zone movement, allowing you to create different environments in the same simulation and see how bibites adapt differently to each region! You'll also get a nice estimation of the biomass and pellet count, allowing you to finely tune your scenario.
+
+It's pretty basic for now, but the idea is that this is the first step toward making complex biomes possible as development continues.
+
+Default Bibites
+
+Another comment that I kept getting, was that it took too long for the first bibites to establish themselves and reproduce. The default "virgin" bibite that spawned at the start of every simulation was pretty bad, and even slight modifications to the simulation's parameters could potentially make it unlivable for them.
+So, I decided to add a selection of Bibite templates that comes with the simulation. These bibites are used as the "virgin" bibites across the different scenarios, as some environments require specific adaptations, like the Whale, specialized in filter-feeding in dense environments with a lot of small pellets, or the Camel, specialized in efficiency and that can go on for a while between each meal. 
+Of course, you'll also be able to save your own bibites and use them as the starting bibites in your own scenarios!
+
+Changing Simulation Parameters After Starting
+
+That's self-described. I added the possibility of changing some parameters during the simulation! Not all of them are there, as there is still a lot of "baking" behind the scene that prevents being able to just change the values and all the simulation's system adjusting reliably, but I'm slowly working my way up the list and adding more. This also allows you to save the current settings as a scenario, for future use.
+In the future, this panel could allow the addition of "seasons", where some parameters could vary cyclically over time, but we're not there yet. 
+
+Pellet-placer tool
+A drawing of a very stable individual holding two pellet maracas and playing music for a stunned bibite
+
+That's it. I added a tool that allows you to pen-in pellets. Give a pile of plants to your favorite bibite as a reward for being who they are, or just use it to paint ugly drawings as I did there, I don't care, and I'm not your mother, you're allowed to have fun.  
+
+Brain node icons
+
+Better understand at a glance the brain of your bibite. At least, once you learn the different icons and what node they represent.
+I mean... it's still very confusing and complex, it's Artificial Life, after all, simple would mean boring. But it's a lot better than it used to be 
+
+Exhaustive List of everything else that is different
+New Features
+
+    Added per-material decay options (you can now make plants rot too if you want)
+    Ruler on the bottom-left corner of the screen to help you make sense of distances and scales
+     Clicking on a tab in the information panel brings you to a random bibite with that tag
+    Added Multiplication Node/Neuron (multiplies inputs instead of adding them, very useful for state controlling behavior)
+    Added save file retro-compatibility for most versions
+    Removed bibites and free pellets (like meat from dead bibites) from biomass restrictions
+    Choose the age and mutations on bibites that you spawn in!
+    Bibite mouths' hitbox now scales with their diet (herbivores have wider mouths and will catch pellets more reliably)
+    Added warning when parameters would lead to a high pellet count (and potentially bad performance)
+
+Smaller Changes
+
+    Bibites' grab strength now scales with the diet gene (herbivores now have a weaker grab)
+    Added "Additional tools" Panel in the main menu containing links to the wiki, sprite generator, GitHub, etc.
+    Added buttons to open the various save folders
+    Added camera controls (arrows and WASD both work, -/+ changes the speed)
+    Added default tagging options for virgin bibites
+    Pressing  the 'Home' keyboard key brings you back to the center of the sim
+    Added the Sprite Generator back in (in "Additional Tools" in the main menu)
+    Reworked void-avoidance so it's island based
+    Optimized Pellet code (having lots of pellets will have a lot less impact on your sim's performance)
+    Changed Vision System so that it's no longer synchronized between bibites (less stutter, more performant)
+    Moved Virus Options to unstable features (please, don't play with it, I'm not proud of it )
+    Moved the project to Unity version 2020.3.41f 
+    Increased Time precision (from float to double) that should fix some display problems with long-running simulations
+    Added pellet icons to material settings and pellet placer
+    Screen resolution will be automatically selected when the game is opened for the first time (can be changed in the settings)
+    Added a few warnings when doing dangerous stuff
+
+Fixes
+
+    Fixed some settings being reset on game load
+    Fixed some settings not being saved 
+    Added missing energy sliders when playing with the virus options
+    Fixed Linear Brain Nodes not computing correctly
+    Fixed ABS Brain Nodes not computing correctly
+    Eggs are now counted in tags
+    Mouths can now be correctly grabbed and attacked
+    Connection weights are now properly saved when a node is added to the brain
+    A lot of fixes to the expanded brain panel (still can't get tooltips to work reliably there )
+    Fixed bug that would not update some scripts after save reloading
+    Prevented moving the camera and other controls when editing fields
+    Fixed various elements rendering on top of the UI
+    Fixed Events triggering even when hidden by UI
+    Camera zooming is disabled when the cursor is over UI
+    Can't grab bibites/pellets through UI anymore
+    And a lot more UI Problems 
+
+Things Planned for 0.6.0 
+
+    Automated Speciation System + Tree of life
+    More Statistics + Graphs
+    In-game Bibite editor/creator
+    First steps toward the BIOME Algorithm and Unity DOTS
+    More Zone customization options
+
+I look forward to your feedback! The last changes were done pretty much last minute and weren't thoroughly tested through and through, so it's possible that there are going to be a few problems or bugs that were missed. If there are a lot of them or just a big one, I'll release a patch as fast as possible!
+
+
+
+--- The Bibites 0.5.1 Alpha1: Mac an More (Patreon)
+Published: 2022-12-22 23:15:19
+
+Download The Bibites 0.5.1a1 - Windows 64x.zip
+Download The Bibites 0.5.1a1 - Linux.zip
+Download The Bibites 0.5.1a1 - Mac Universal.zip
+Download The Bibites 0.5.1a1 - Windows 32x.zip
+
+A Quick release with a lot of small changes and a few fixes!
+Also, Finally managed to work out Apple Notarization! This means that Mac users won't have to jump through hoops to make The Bibites run normally!
+YAY!
+
+Changes
+
+    Saves and scenarios now automatically include user-saved bibites
+    They will be automatically added to your bibites folder if missing
+    Limited Grab Strength Penalty to 90% for herbivores instead of 100%
+    bibites can no longer split pellets that have a bigger radius than their mouth
+
+Ease-Of-Use
+
+    Changed maturity display in Biology Panel to reflect size and Growth instead
+    Added status bar visibility to Visibility panel instead of "J" Key Binding
+    Added hover indicators to the internals section of the biology panel
+    Added information on pellet size that doesn't need a bite (when filter-feeding)
+
+Fixes
+
+    Fixed ScenarioSaver freezing the game on cancel
+    Fixed status bar no longer rendering on new UI System
+    Fixed grab flicker for herbivores
+    Fixed camera no longer following target when editing fields
+    Fixed camera zooming when the mouse was outside of the app screen
+
+
+
+--- The Bibites 0.5.1 Alpha 2: Last mile (Patreon)
+Published: 2023-01-18 22:33:04
+
+Download The Bibites 0.5.1a2 - Windows 32x.zip
+Download The Bibites 0.5.1a2 - Windows 64x.zip
+Download The Bibites 0.5.1a2 - Mac Universal.zip
+Download The Bibites 0.5.1a2 - Linux.zip
+
+The last alpha (hopefully) before releasing the 0.5.1 update publicly and moving on to start work on the 0.6 alphas! But still, I crammed a few nice features in there!
+
+Additions
+
+    Added Actions to the bottom-left tools (Kill Half Of The Population and Remove Half Of Pellets)
+    Added Bibite Template Settings to in-game settings panel
+    Added option to disable herding behavior
+    Added bibite limit to in-game settings
+
+Changes
+
+    Some UI improvements (icons)
+    Pellets held by other bibites are no longer invisible (pellets you hold still are)
+    Added tooltips to time-speed buttons
+
+Fixes
+
+    Fixed Memory leak from skin materials not being properly destroyed
+    Fixed mature-at-birth bibites not being able to lay eggs
+    Fixed pellet placer button not responding to first click
+    Spacebar will no longer trigger interaction events with last used UI element
+    Fixed timescale not being rescaled after loading game
+
+
+
+--- The Bibites 0.5.1 Alpha 3: Last mile 2 Electric Boogaloo (Patreon)
+Published: 2023-01-31 03:32:31
+
+Download The Bibites 0.5.1a3 - Windows 32x.zip
+Download The Bibites 0.5.1a3 - Windows 64x.zip
+Download The Bibites 0.5.1a3 - Linux.zip
+Download The Bibites 0.5.1a3 - Mac Universal.zip
+
+The last alpha (hopefully) before releasing the 0.5.1 update publicly and moving on to start work on the 0.6 alphas! But still, I crammed a few nice features in there! ahahahah lol
+
+Additions
+
+    Added a user setting to reduce pheromone quantity
+
+Changes
+
+    Reverted pellet splitting limitations
+    Updated pheromones to spread computing load
+
+Fixes
+
+    Fixed Memory leak from pheromones spot not being destroyed correctly in some cases
+    Fixed bug with zones at 0.0 radius malfunctioning
+    Fixed saving bibite as template bug blocking the screen
+    Capped vision closeness senses between 0 and 1
+    Fixed selecting eggs resetting panels
+
+
+
+--- The Bibites 0.5.1 Alpha 4: Last mile 3 please make it stop (Patreon)
+Published: 2023-02-07 00:36:36
+
+Download The Bibites 0.5.1a4 - Windows 64x.zip
+Download The Bibites 0.5.1a4 - Linux.zip
+Download The Bibites 0.5.1a4 - Mac Universal.zi
+Download The Bibites 0.5.1a4 - Windows 32x.zip
+
+At this point I've already started doing a lot of of work for 0.6.0a1, but I hope this REALLY is the last nail in the coffin for the 0.5.1 public release.
+
+Changes
+
+    Added "Reset Warnings" to settings panel
+    Removed auto-reload feature, as it should be needed anymore
+
+Fixes
+
+    Fixed Memory leak from egg skin
+    Fixed meat pellet collider size
+    Fixed egg selection issue
+    Fixed Saves still being deleted after cancelling warning popup
+    A corrupt bibite file no longer prevent loading other bibites files
+
+
+
+--- The Bibites 0.5.1 Alpha 5: Last mile 4 end this misery (Patreon)
+Published: 2023-02-23 21:56:31
+
+Download The Bibites 0.5.1a5 - Windows 32x.zip
+Download The Bibites 0.5.1a5 - Windows 64x.zip
+Download The Bibites 0.5.1a5 - Linux.zip
+Download The Bibites 0.5.1a5 - Mac Universal.zip
+
+Hopefully, for the hundredth time, this is the final alpha before public release. I was so tired of just working on fixes that I ended up adding a few features to preserve my sanity. Not much, but still.
+
+Additions
+
+    Added all hotkeys to UserSetting Panel (can't be changed yet)
+    Z => select random zone (Editor opening can be disabled in parameters)
+    Page-up / Page-down => change camera scroll speed
+    +/- => zoom in/out camera
+    LCtrl + [any selection hotkey] => automatically recalls selection when target dies
+
+Changes
+
+    Updated FPS measurements to be more responsive
+    Updated application icon
+
+Fixes
+
+    Fixed Autosave bug impacting performances even after save completion
+    Fixed first settings edition linked to dropdowns not registering properly
+    Fixed typos in UI and default scenarios
+    Fix to save status display during Saving/Loading
+    Fixed some patreons sprites being a little blurry
+    Fixed field of view bug for patreon sim
+    Fixed Synapses becoming invisible at too high strength issue
+
+Please tell me everything is fine for public release :)
+
+
+
+--- The Bibites 0.5.1 public release! (Patreon)
+Published: 2023-02-26 21:26:56
+
+Download The Bibites 0.5.1 - Windows 32x.zip
+Download The Bibites 0.5.1 - Mac Universal.zip
+Download The Bibites 0.5.1 - Linux.zip
+Download The Bibites 0.5.1 - Windows 64x.zip
+
+Hey everyone! A very sizable update that will bring a lot of joy to a lot of people. 
+I managed to fix a lot of bugs that had a significant impact on performances. The resulting increase in performances is going to be very noticeable! I also worked a lot on the UI and some usability features. 
+With this done, I'm going to be fully free to focus on 0.6.0 starting now!
+
+Performances
+
+    Very significant improvement to performances
+    Removed auto-reload after autosave, lead to its own problems
+    Fixed all (I hope) memory leaks
+    Updated Bibite Vision to spread computing load
+    Updated Pheromones to spread computing load
+    Added a user setting to reduce pheromone quantity
+
+Ease-Of-Use
+
+    Added all hotkeys to UserSetting Panel (can't be changed yet)
+    Z => select random zone (Editor opening can be disabled in parameters)
+    Page-up / Page-down => change camera scroll speed
+    +/- => zoom in/out camera
+    LCtrl + [any selection hotkey] => automatically recalls selection when target dies
+    Changed maturity display in Biology Panel to reflect size and Growth instead
+    Clicking on bibite button when panel is already open closed the panel
+    Added status bar visibility to Visibility panel instead of "J" Key Binding
+    Added hover indicators to the internals section of the biology panel
+    Added information on pellet size that doesn't need a bite (when filter-feeding)
+    Added "Reset Warnings" to settings panel
+
+Changes
+
+    Saves and scenarios now automatically include user-saved bibites
+    They will be automatically added to your bibites folder if missing
+    Bibites can no longer split pellets that have a bigger radius than their mouth
+    Added Actions to the bottom-left tools (Kill Half Of The Population and Remove Half Of Pellets)
+    Added Bibite Template Settings to in-game settings panel
+    Added option to disable herding behavior
+    Added bibite limit to in-game settings
+    Some UI improvements (icons)
+    Pellets held by other bibites are no longer invisible (pellets you hold still are)
+    Added tooltips to time-speed buttons
+    Updated FPS measurements to be more responsive
+    Updated application icon
+    Removed auto-reload feature, as it should be needed anymore
+
+Fixes
+
+    Fixed ScenarioSaver freezing the game on cancel
+    Fixed status bar no longer rendering on new UI System
+    Fixed grab flicker for herbivores
+    Fixed camera no longer following target when editing fields
+    Fixed camera zooming when the mouse was outside of the app screen
+    Fixed Memory leak from skin materials not being properly destroyed
+    Fixed mature-at-birth bibites not being able to lay eggs
+    Fixed pellet placer button not responding to first click
+    Spacebar will no longer trigger interaction events with last used UI element
+    Fixed timescale not being rescaled after loading game
+    Fixed Memory leak from pheromones spot not being destroyed correctly in some cases
+    Fixed bug with zones at 0.0 radius malfunctioning
+    Fixed saving bibite as template bug blocking the screen
+    Capped vision closeness senses between 0 and 1
+    Fixed selecting eggs resetting panels
+    Fixed Memory leak from egg skin
+    Fixed meat pellet collider size
+    Fixed egg selection issue
+    Fixed Saves still being deleted after canceling warning popup
+    A corrupt bibite file no longer prevents loading other bibites files
+    Fixed Autosave bug impacting performances even after save completion
+    Fixed first settings edition linked to dropdowns not registering properly
+    Fixed typos in UI and default scenarios
+    Fix to save status display during Saving/Loading
+    Fixed some patreons sprites being a little blurry
+    Fixed field of view bug for patreon sim
+    Fixed Synapses becoming invisible at too-high strength issue
+
+
+
+--- The Bibites 0.6 Alpha 1: SPECIES (Patreon)
+Published: 2023-03-31 22:31:01
+
+Download The Bibites 0.6a1 - Windows 64x.zip
+Download The Bibites 0.6a1 - Mac Universal.zip
+Download The Bibites 0.6a1 - Linux.zip
+Download The Bibites 0.6a1 - Windows 32x.zip
+
+Hell yeah, after all this time I finally have something stable enough to present!
+
+Speciation
+
+Bibites are now automatically organized into species based on genetic differences. For now, only genes are part of the formula, but for the next alpha, I'll make sure to also include their brain in the species.
+Under the genes panel you can also see how far an individual is from its species and how close it is to forming a new one.
+
+Thanks a lot to Storme, who translated every patron name that ever supported the project (>450!) in a Latinized form so that species now have a special touch. A species might evolve at some point carrying your own name!
+
+You can also rename your species yourself, making changes that will hold on for generations!
+
+Ancestral Lineage Panel
+
+    See how your species are related
+    Review the magnific history and evolution of your Simulation
+    Review the genes of your species (click on them)
+    Zoom in and out (while holding Alt for X, Ctrl for Y)
+    Favorite your Species!
+    Rename your species!
+    Spawn extinct Species! 
+
+Things left out that will come soon (probably next alpha):
+
+    Speciation also considering brains
+    Viewing Brains of species
+    Have more info about how an individual differs from its species
+    See genes distribution of individuals inside a species
+    Links to related species
+    Comparing species
+    Lots of Bugfixes
+
+Small additions and Fixes
+
+    Added UserSetting for Pause on Load
+    BibiteTemplate will now include gene labels
+    Fixed game crashing with 0 energy density
+    Fixed bug not loading Fertility from older saves
+    Fixed bug with defense penalties not being updated
+    Fixed bug that didn't remove all free pellets on quickload
+    Fixed zooming in/out being possible when editing text
+
+
+
+--- The Bibites 0.6 Alpha 2: BETTER SPECIES (Patreon)
+Published: 2023-04-14 19:46:24
+
+Download The Bibites 0.6a2 - Windows 32x.zip
+Download The Bibites 0.6a2 - Windows 64x.zip
+Download The Bibites 0.6a2 - Linux.zip
+Download The Bibites 0.6a2 - Mac Universal.zip
+Download A tale of 3 Islands.zip
+
+Far stabler and so many nice little features, what's not to love?
+
+I also included a savefile of a simulation I've been running for a little more than 100h, in order to show off what a larger lineage history might look like without having to wait! That history is also pretty interesting in itself if you take the time to investigate it.
+ 
+Additions
+
+    Two Species Panels! Stats and Genes!
+    Added Species Genes Panel, displaying value, difference from parent, and contribution to speciation
+    Ability to save a species
+    Take notes on each of your species (they'll be saved)
+    Added Species Genetic Span as a setting
+    Ability to navigate to parent species
+    Added Responsive tabs for the species panels, will expend their use if they work as expected
+    Species track generation at creation
+    Added highlighting to selected species
+
+Changes
+
+    Only displaying top species in information panel
+    Adjusted pruning criteria
+    Genetic distance is now based on gene span (max value)
+    Removed limitations on removing first zone of sim
+    When a template/saved bibite cause a problem, it's now identified
+    Non-linear scaling of total biomass (species graph width)
+
+Small things
+
+    When saving a bibite, name will default to species
+    Resized Ancestral panel header
+
+Fixes
+
+    Fixed sizing issue with lineage panel
+    Fixed possibility of duplicate species name
+    Fixed species positioning bug in pruning
+    Fixed Lineage panel species preview positioning
+    Fixed Pruning function so it's perfect (I hope ahah)
+    Fixed ScenarioSaver scaling
+    Reduced size of bibite template serialization
+    Spread pherosensing computing load
+    Fixed loading not properly pausing the game
+    Typos
+
+Stuff that's coming at some point (possibly next alpha)
+
+    Speciation also considering brains
+    Viewing Brains of species
+    Have more info about how an individual differs from its species (using something similar to the species genes panel)
+    See genes distribution of individuals inside a species? Maybe
+    More Graphs and statistics!
+
+
+
+--- The Bibites 0.6 Alpha 3 Quickfixin (Patreon)
+Published: 2023-04-20 23:55:41
+
+Download The Bibites 0.6a3 - Windows 64x.zip
+Download The Bibites 0.6a3 - Mac Universal.zip
+Download The Bibites 0.6a3 - Linux.zip
+Download The Bibites 0.6a3 - Windows 32x.zip
+
+-fixed ancestral display
+-fixed circular buffer problems
+-removed uncircularized references
+-fixed loading circular buffer
+-fixed scenario saver sizing
+-fixed default genetic span factor
+
+-modified default species genetic span to 150%
+
+-reset species data from earlier alphas
+
+
+
+--- The Bibites 0.6 Alpha 4: Itteratin' (Patreon)
+Published: 2023-04-27 02:23:13
+
+Download The Bibites 0.6a4 - Windows 32x.zip
+Download The Bibites 0.6a4 - Windows 64x.zip
+Download The Bibites 0.6a4 - Mac Universal.zip
+Download The Bibites 0.6a4 - Linux.zip
+
+This should work a little better. Hopefully, this should now be stable enough to push forward and consider the species log to be working and we can start to add more exciting features that I want to start adding in 0.6
+
+    Fixed active but not recorded species being incorrectly pruned on Save/Load
+    Increased vertical scaling as we go further in time 
+    Fixed some UI priority 
+    Fixed some problems when Loading data where one timescale bucket is full 
+
+
+
+--- The Bibites 0.6 Alpha 5: Eggs of Quality (Patreon)
+Published: 2023-06-07 22:44:58
+
+Download The Bibites 0.6a5 - Windows 64x.zip
+Download The Bibites 0.6a5 - Linux.zip
+Download The Bibites 0.6a5 - Mac Universal.zip
+Download The Bibites 0.6a5 - Windows 32x.zip
+
+Eggs Rework:
+
+    Bibite now produce eggs gradually and can accumulate them in their egg organ and lay multiple eggs at once!
+    One new sense: nEggsStored
+    One new output: EggProduction
+    Eggs organ info is available in the biology panel
+    Stored Eggs are dropped on death
+    Added default constant connection to Want2Lay
+    +1 unannounced surprise
+
+Panels Improvements:
+
+    Added Body Info details in biology panel
+    New Stats Panel! With Real Stats!
+    Bibite gene panel updated
+    Link to a bibite's parents in Stats Panel
+    Added number of active species to the information panel
+    Added number of recorded species to Lineage Panel
+    Added Species span settings to lineage panel
+    Added Brain preview for Species
+
+QoL improvements:
+
+    Now shows the Field of view of selected bibite (can be disabled in visibility options)
+    Can display the focus weights of visible targets of selected bibite (in visibility options)
+    [DELETE] Key now kill selected bibite/egg
+    [INSERT] Key now forces the selected bibite to lay an egg (no energy used)
+    Ctrl key now functions for selecting members of species or tags as well
+    Added saving brain placement on species
+    Added Arrows to reorder zones Settings
+    Pressing [Shift] while dragging brain nodes snaps them to predetermined positions
+
+Other Improvements:
+
+    Increased vision performance (a little) by skipping entities that are not used in the brain
+    Added Species Span Factor Setting that makes the species span increase when there are more active species
+    Added brain to speciation calculations
+    Added an option to highlight differences from parent species
+    Added species ID
+    Moved to more efficient structures for saving/loading species records and lineage data
+
+Fixes:
+
+    Fixes to the lineage mesh rendering
+    Fixed pheromones bug that caused them to not dissipate properly at higher time speeds and accumulate
+    Fixed a bug that froze the game on pausing from a higher timescale
+
+
+
+--- The Bibites 0.6 Alpha 6: Lotsa Zones and Settings (Patreon)
+Published: 2023-08-03 21:14:10
+
+Download The Bibites 0.6a6 - Windows 32x.zip
+Download The Bibites 0.6a6 - Windows 64x.zip
+Download The Bibites 0.6a6 - Mac Universal.zip
+Download The Bibites 0.6a6 - Linux.zip
+
+A list is better than a thousand words
+
+Visuals/Graphics/Preferences/UX:
+
+    Color picker Settings
+    Background grid option (also available in visibility panel)
+    Added Shade Option, emulating the effects of microscope outside of the simulation area.
+    Bibite will automatically stay out of the shade, just so that they don't disappear
+    Rework to UI scaling and screen options
+    Added Escape Stack, which allow to recursively close the last opened panel/action
+    Added identifiers to differentiate official templates from user templates, as well as scenarios
+    Small visual changes to the Dynamic Settings panel
+    Editable values change the cursor on hover
+
+Zones and Zone Groups Settings: 
+
+    Zone fertility and biomass calculations have been completely reworked. Instead of splitting the total biomass (biomassDensity x totalArea) across all zones based on their respective fertility weigths, each zones are now independent. Zone biomass/fertility = zoneArea x globalFertility x zoneFertilityFactor
+    Zone Biomass Factor and Zone Fertilty Factor are now independant
+    Imported saves/scenarios will automatically have their settings adjusted to preserve conditions
+    Added Zone Distributions (normal, flat, reversed, ring)
+    Added possibility for empty zones (no pellets)
+    Added different movement types (none, normal, attached)
+    Possibility for zones to be attached to another zone and move with it.
+    Added global zone speed setting
+    Added Zone Groups, allowing multiples zones to be created from a single template zone.
+    Ability the zone count to either scale with sim size or be fixed.
+    The zones from a group will be placed randomly each time a new game is started from the scenario
+    Ability to reroll zones random placement
+    Eventually will add the ability for more customization
+    Added Zone name to previews in Scenario Editor
+    Added Biomass and Pellets estimation to Scenario Editor
+
+All Settings:
+
+    Most settings now automatically adjust their units to be more readable (following SI unit prefixes)
+    Some settings now directly have a logarithmic range instead of using abstract exponents factors (like zones fertility factor)
+    In order to edit a setting, you now only need to click on the displayed value to reveal the edit field
+    Time scale can be edited just like other settings, by clicking on the displayed value to edit it directly.
+
+Bibite Settings:
+
+    You can now decide which zone bibites will spawn in. All is default.
+    You can now decide the initial growth of spawned bibites
+    The minimum setting for default bibites will now take into account all descendants from all species that stemmed from the default bibite instead of the tag count
+    Temporarily removed default tagging until a better system can be figured out
+    Alive count and descendant count visible in species info panel
+
+In-Game:
+
+    Bibites maturity has been normalized so that they are only considered mature (maturity = 1) if they are able to lay eggs (have sufficient growth and have a big enough womb)
+    Added share information to species in lineage graph
+    Added tooltips to dropdown settings
+    Bibite brain updates now unlinked from fps, now steady 20upd/s
+    Dragging bibites while pressing [CTRL] instead changes their rotation
+    Bibite will always be born facing away from their parents
+
+Fixes:
+
+    Fixes to the innovation numbers when loading bibites
+    Fixed bug leaving tooltip when closing Lineage panel
+    Bibite Updater now correctly takes innovation numbers into account
+    Some warnings now correctly block interactions wit the game
+    Fixed timeSpeed irregularity in energy consumption for movement
+    Removed redundant information from saved bibites
+    Fixed bug that made timespeed inconsistent on simulation start
+    Fix to panels not closing correctly when Saving Scenario from the scenario editor
+    Removed the energy reserve for zones, as it prevented small zones to spawn all their pellet
+    Fixed error message when changing scenes
+    Few typo fixes
+    Fixed Rendering for ColorKillers
+    Fixed Lineage Mesh Preview stopping the information hover
+
+
+
+--- The Bibites 0.6 Alpha 7: Chubby to the brim (Patreon)
+Published: 2023-09-06 16:22:00
+
+Download The Bibites 0.6a7 - Windows 32x.zip
+Download The Bibites 0.6a7 - Mac Universal.zip
+Download The Bibites 0.6a7 - Linux.zip
+Download The Bibites 0.6a7 - Windows 64x.zip
+
+Like too often, this was initially supposed to be a quickfix alpha but I decided to add just a feeewww new features.... welcome to the largest alpha in a while
+
+Spatial Organs and Genes
+
+Some organs now take up physical space inside the bibite's body (Stomach, egg organ, fat reserves), and their respective size will be decided by apportionment genes (WAGG). The organ's inspector in the biology panel won't change size for now.
+
+    Added 3 apportionment genes, one for each of those organs 
+    Added a new Eye Color Offset gene, that does just that
+
+Fat Reserves
+
+    Added Bibite Fat Storage 
+    Base capacity is decided by apportionment genes 
+    Bibites can store up to 2X their base fat capacity, but so will gradually inflate the bibite, expanding their tail collider, and changing their appearance, finally including the larger body sprites that have been added a while ago
+    Added two genes to manage production/burning of fat (threshold and headband)
+    Added fat material settings to tune the system's behavior/capacity 
+    Added UI for fat storage (in Biology panel)
+    Sustaining stored fat consumes a small amount of energy ( setting: 0.01% of stored energy/s by default) 
+    Update sprite generator to include inflated bodies
+    Balanced default pellet size and fertility to take into account the increased survivability of bibites (previous saves will be automatically updated)
+
+Matter Material Parameters
+
+    Perishable factor settings updated and replaced to take advantage of log sliders
+    Range for most parameters increased
+
+UI/UX Improvement
+
+    Fixed most settings being able to go negative
+    Bettered the zones editor panel Layout 
+    Added disclaimers when no zones or no groups 
+    Added zone preview to the dynamic settings panel 
+    Added zones production to preview
+    Added gradual zoom when holding middle mouse button
+    Gradual zoom affected by speed change when using Page-Up/Page-Down
+    Dragging camera with right click should now display exact movement 
+    LeftCtrl + rightClick, allows smoothly moving the camera
+    Pellet mass added to pellet tooltip
+    Pheromones production settings can be set to 0
+    Added settings for amount of pellets dropped on death
+    Added back tagging option for bibite template settings
+    Increase scroll speed in dropdowns
+    Many adjustments to the sizing/coloring of the UI 
+
+Performance Improvement
+
+    Reworked a lot of internal logic to use more efficient data structures  
+    50x to 100x improvement in memory allocation rate
+    Around ~15% improvement in overall performance
+
+Fixes
+
+    Fixed most settings being able to go negative 
+    Fixed Int settings causing an error with logscale sliders 
+    Renew Biomass option on Zones Should work correctly 
+    Fixed rendering not updating for ring zones 
+    Removed none setting and duplicated from lineage panel parameters 
+    Fixed rendering error that made it like a zone group seemed to still exist after being deleted 
+    Fixed Zones target defaulting to none when saving scenarios 
+    Fixed many bibite stats not being saved 
+    Fixed "Delete all zone" still keeping the Default Zone around
+    Fixed Over-recycling of pellets when max biomass is lowered
+    Pellet now have physically accurate drag like bibites
+    Color settings should now cancel correctly when hovered off or when escape is pressed
+    Changing the physical settings of materials during sim should now properly update existing pellets
+    Fixed zone positioning on project load
+    Fixed incorrect bibite sizing constant (42u² to 80u²) (and automatically updated Bibite mass density from earlier saves/scenarios to preserve behavior)
+    Fixed "Select Member of species" button not being available when one member alive 
+    Fixed microscope rendering on bigger maps 
+    Fixed multiple issues (UI, bibite selection, camera, etc.) with lowest sim size (<=100u) 
+    Fixed some inconsistent camera movement behavior 
+    Fixed bibite minimum setting not going all the way down to 0 
+    Fixed error when loading some older versions 
+    Fixed moving the camera also impacting time scale slider if recently interacted with
+    Fixed error in genetic distance calculations
+    Fixed a bug that would vary the the growth rate of bibites with timespeed
+
+
+
+--- The Bibites 0.6a7 hotfix (Patreon)
+Published: 2023-09-08 22:15:28
+
+Download The Bibites 0.6a7 hotfix - Windows 32x.zip
+Download The Bibites 0.6a7 hotfix - Windows 64x.zip
+Download The Bibites 0.6a7 hotfix - Mac Universal.zip
+Download The Bibites 0.6a7 hotfix - Linux.zip
+
+    Fixed bug with saved bibites missing genes, causing wackiness
+    Fixed Bug causing matter decay parameters not being correctly set at first
+    Fixed display bug for log settings using percentages
+    Fixed display bug with bibites not selecting correct sprites at first
+    Fixed bibites benig able to produce and lay eggs before maturity
+
+Also updated patreon sprites
+
+
+
+--- The Bibites 0.6 Alpha 8: Stats and Graphs! (Patreon)
+Published: 2023-11-23 22:45:42
+
+Download The Bibites 0.6a8 - Windows 64x.zip
+Download The Bibites 0.6a8 - Linux.zip
+Download The Bibites 0.6a8 - Mac Universal.zip
+Download The Bibites 0.6a8 - Windows 32x.zip
+
+Yeah! The long-awaited first Stats and Graphs update!
+
+Keep an eye on key metrics like Entities Biomass, Brain Size, and more for in-depth analysis of your population dynamic!
+
+Get insights into the genetic makeup of your population!
+
+Experience unique scenarios like the Antlike bibites and the creative Fibonacci-drawing bibite, along with more flexible playground options!
+
+Enjoy refined physics with a regularized drag equation, new easter eggs, improved memory management, and more!
+
+We've squashed bugs related to entity placement, UI glitches, simulation consistency, and more to ensure a smoother gaming experience.
+
+Stats and Graphs
+Historical Data Graphs
+
+    Tracking tons of data stream (groups of related values)
+    Ability to select which curves from a  you want to see from a stream
+    Ability to select timescale (data is tracked semi-logarithmically)
+    Added legends
+
+Tracked streams:
+
+    Entities Biomass
+    Entities Count
+    Brain Size
+    Current Age of population
+    Age of Death quantiles
+    Egg laid quantiles
+
+Genes Distribution Graph
+
+    Ability to select any gene and see the historical genetic distribution of your population
+    planned: see the distribution by-species for the present distribution
+
+Added Scenarios and Templates:
+
+    Added Antlike bibites template and Scenario
+    Added Empty Playground Scenario (No energy cost, no default pellets or bibites, etc.)
+    Added Fibonacci-drawing bibite template for the (only recommended in Empty Playground)
+
+Changes
+
+    Regularized drag equation to scale with size for bibites, eggs, and pellets
+    Pellets no longer experience drag when held (temporary)
+    Added Chibity (RockStar Patron)'s easter egg
+    Added auto reload after autosaves as a band-aid to memory leaks
+    Moved to saving stats data in binary files for efficiency
+    Added flat ring distribution for Zones
+    Added rectangle Zone
+    Added out-of-bounds exterminator (with setting) (pellets will only be removed on Load)
+
+Fixes
+
+    Fixed entity (bibites and pellets) placement in Ring Zones
+    Fixed bug that broke certain onHover fade animations
+    Fixed bug that broke entity count when quick loading
+    Fixed ColorSelector panel bug when selecting zones
+    Fixed tagging options not saving with worlds/scenarios
+    Fixed spacing in species panel
+    Fixed some issues when editing the fields (inputing a ',' or '.', without leading 0)
+    Added Eye Color Offset to sprite generator
+    Fixed timescale inconsistencies when reloading, especially after autoreload
+    Fixed clicking out of edit field not resetting the display to the correct value
+    Fixed padding of "Start Simulation' button in menu
+    Fixed bug where some templates would not show up as official
+    Fixed bug where the order of bibite templates could switch in the list
+
+
+
+--- The Bibites 0.6 Alpha 9: OPTIMIZATION OVERDRIVE (Patreon)
+Published: 2023-12-19 01:26:43
+
+Download The Bibites 0.6a9 - Windows 64x.zip
+Download The Bibites 0.6a9 - Linux.zip
+Download The Bibites 0.6a9 - Mac Universal.zip
+Download The Bibites 0.6a9 - Windows 32x.zip
+
+I think some of you will be surprised by the performance improvement we gained with switching Unity versions! It wasn't easy, but I think it was very worth it.
+The memory leaks have also mostly been found and eradicated, so it should provided a smoother experience, with the ability to leave your sims running for longer without too much drain on your computer! 
+
+With this, I aim to get closer to a full public release of the 0.6 update, although there are a lot of little things I want to get to before that.  So still have a few alphas left.
+
+Changes
+
+    Changed saved data for egg laying (different, more useful, quantiles)
+    Movement strength now scales linearly with size (instead of sqrt of size) 
+    Added sim setting to control Movement Force Power Factor (how it scales with size. linearly, to the square, etc.)
+    Increased node output cap to 1000
+    Added birth/death data streams
+
+Improvements
+
+    Removed 99% of memory leaks
+    Reverted reloadAfterAutosave to false as default
+    Moved to 2022 LTS version of Unity (from 2018 LTS), which will provide a significant improvement to performances
+    A more efficient data structure should make save/load faster
+
+Fixes
+
+    Exiting out of log sliders should now correctly reset the value 
+    Fixed error sometimes happening when opening the lineage panel 
+    Fixed error with editing settings 
+    Corrected rectangular zones placing for Zone Groups 
+    Fixed rectangular zones with movement not being correctly placed on sim launch 
+    Fixed Fat conversion efficiency error 
+    Fixed abs node not being capped
+    Fixed bug causing some material properties to not reset correctly
+    Fixed some bibites becoming mature even when not able to lay eggs 
+    Fixed error causing 0 drag on certain pellets 
+    Fixed tooltip error in gene distribution timeline
+    Fixed free energy display when remove half of pellets button is pressed
+    fixed graph indicator line positioning with different screen 
+    fixed graph indicator rendering on top of legend and tooltips 
+
+
+
+--- The Bibites 0.6 Alpha 10: Entering the Endgame
+Published: 2024-03-29
+
+Download The Bibites 0.6a10 - Windows 64x.zip
+Download The Bibites 0.6a10 - Linux.zip
+Download The Bibites 0.6a10 - Windows 32x.zip
+Download The Bibites 0.6a10 - Mac Universal.zip
+
+So! A long-awaited alpha that finally comes!
+The delay has been long, but this update has been jammed full of very important things, long-awaited fixes, and under-the-hood stuff that will change the game. 
+I would've liked to be able to do a little bit more testing before releasing it, but I asked you all your opinion on the subject and you said you preferred having access to it as soon as possible, so here it is!
+So I did not finish everything I wanted, but since I'm gonna be away for a few days for the easter weekend, I figured I should give you this "almost-polished" version, and publish the next alpha, with all the missing stuff and a few other additions as soon as possible. 
+
+Important to note:
+-Due to changes to how species data are logged, saved, and loaded, I did not have the time to write the (probably complex) migrate function from the earlier versions, so know that this will reset the species data of your simulations, and possibly lead to other errors
+
+Lineage Tree and Changes to the Species Panel
+
+The long-requested lineage tree is finally here! It was a headache to make work and handle all the little edge cases, but I'm incredibly proud of the result. You'll be able to change between the two (tree, and previously available mesh view) and view the lineage however you see fit!
+
+And you'll see that it can get pretty complicated pretty fast
+
+A few esthetic changes have also been made to the Lineage Mesh, making it a lot more pretty to look at and removing a lot of weird artifacts (although some remain)
+
+Species now also track their distribution through time, with the historic placement of zones
+
+(Distribution will only be shown if there were enough bibites back then to build a distribution)
+
+I also added a few parameters to allow you to customize how you use the Lineage panel
+
+    Option to scale the species in the tree graph with their importance
+    Both graphs have the option to hide the extinct lineages 
+    (only show living species and their direct ancestors)
+    Changed the log-like time distribution of points to be more representative
+    Changed how the lineage panel zooms (now only need Ctrl+scroll)
+
+Simulation Time and Frames Rework
+
+    All the sim now updates at regular intervals 
+    (50 updates per second but planning on making that a setting)
+    The simulation is now decoupled from rendering. 
+    FPS will have no fundamental impact on the simulation from now on
+    Max Time Speed increased to x20
+    The sim will now try to update as fast as possible up to the set speed
+    More time info displayed on top right
+    Warning at >3x no longer needed (and is removed)
+
+New Brain Sorting Algorithm
+
+    Added a new custom sorting algorithm for the brain that should make them a lot more readable by default
+    The brain panels will now be sorted by default (unless there's a saved configuration)
+    Added button for additional calls to the sort() function
+    Adjusted brain connection sizing (more dynamic thickness)
+
+Other Changes
+
+    Added setting to disable drag on pellets when they are held by a bibite (off by default for all scenarios except ant sim)
+    The gene distribution graph's bucket size are now capped at multiples of 1% of the genes' possible span to regularize it and make comparisons across time easier
+    Changed most gene's possible span slightly to have better spans in the gene distribution graph
+    Lowered min boundary for Size gene from 0.25 to 0.05
+    Gene distribution graph scale is minimally capped at 10 to improve Y axis labels
+    Bibite previews (for template, or species) will now display the size at maturity
+    Fused Shade settings with Out-Of-Bound-Exterminator for simpler functionality
+    Added brain energy settings to in-sim settings
+
+Fixes
+
+    Renamed 2K to 1440p
+    Fixed rounding issue on some settings slider
+    Fixed rendering of status bars
+    Fixed egg-laying data mislabeling
+    Fixed bibites being drawn toward the center on very large sims
+    Fixed Out-Of-Bounds Exterminator not correctly working on larger sims
+    Fixed bug causing bibites to be able to become mature even when eggCapacity < 1
+    Fixed many settings not correctly updating when changed by user after sim was started
+    Fixed certain sprites layering issues
+    Fixed rendering problems on certain sprites
+    Fixed eyes not rendering on bibite previews anymore (like species or template preview)
+    Fixed bug in the compress function (when moving to longer time-frames) for the genetic distribution graphs
+    Fixed bug when placing bibite of species from lineage graph
+    Fixed bibitePlacer not pausing the sim
+
+
+
+--- The Bibites 0.6 Alpha 11: A little more polish
+Published: 2024-04-06
+
+Download The Bibites 0.6a11 - Windows 32x.zip
+Download The Bibites 0.6a11 - Mac Universal.zip
+Download The Bibites 0.6a11 - Windows 64x.zip
+Download The Bibites 0.6a11 - Linux.zip
+
+A quick follow-up as was discussed to polish the last release that I ended up posting early!
+Let's make it short and sweet!
+
+Added species data importer for earlier versions
+
+I tried my best to make an algorithm to match points from earlier data to the new format and mull them over, but I discovered in the process a fault in the previous format that makes it impossible to do so perfectly. I still tried to find a workaround, but I know there's gonna be issues in some cases, especially long sims >100h of older versions. 
+
+Other Changes
+
+    Increased pellet size factor span for Pellet Placer (can now make gigantic pellets there)
+    Improved column placement in the tree graph to prevent going back and forth
+    Added side-scrolling to species panel when pressing [Shift] while scrolling
+    Added tooltip to the time panel (top-right) to explain tps/fps difference and logic
+    Added other tooltips throughout
+
+Fixes
+
+    Fixed bug where time wouldn't go back to normal when returning to menu 
+    Fixed problem with zone edition in scenario editor 
+    Fixed bug with zonegroups templates not initializing correctly 
+    Fixed Gene graph bug that crashed the stats graph when opening before any info was logged
+    Changing parameters of species graph should now correctly re-highlight the selected species
+    Fixed bug where very small bibites could sometimes cause NaN pellets to be created
+    Fixed pruning a species through the mesh panel breaking the graph.
+    Fixed rendering on some top corners of lineage meshes of template species
+    Fixed layering bug on the graphics raycaster that prevented interaction if the real UI position overlapped with pellets
+    Fixed bibite brain panel not correctly placing nodes to full length
+    Fixed Bug with zone settings causing issues when importing from earlier version
+
+There's still some bug around that I know of, but they were both the harder-to-fix and not-so-damaging kind, so I figured they could wait in order to ship the release today.
+
+
