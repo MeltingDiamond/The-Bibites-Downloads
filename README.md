@@ -173,7 +173,7 @@ Here is the list of all versions tracked with download links
 
 0.5.0a3 - Windows 64x
 
-[Kemono download](https://c3.kemono.su/data/66/28/6628be31e7a14082f250c2a779d77275c2078f2809b318efa8f789733492eeaa.zip?f=The%20Bibites%200.5.0a3%20-%20Windows%2064x.zip)
+[Kemono download](https://c3.kemono.su/data/66/28/6628be31e7a14082f250c2a779d77275c2078f2809b318efa8f789733492eeaa.zip?f=The%20Bibites%200.5.0a3%20-%20Windows%2064x.zip), [Google Drive](https://drive.google.com/file/d/1aBgVsb7txw5YkW_vpGh9kqB_w9FBvzoM/view?usp=sharing)
 
 0.5.0a3 - Windows 32x
 
