@@ -2,6 +2,8 @@
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
 
+If the torrent does not download try a none torrent download.
+
 Here is the list of all versions tracked with download links
 
 [Kemono website](https://kemono.su/patreon/user/20026052)
