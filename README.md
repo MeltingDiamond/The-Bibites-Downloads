@@ -37,7 +37,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/ye24yyjf), [Torrent file]()
+[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/ye24yyjf), [Torrent file]() Missing torrent file
 
 0.5.1a5 - Linux
 
@@ -656,7 +656,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha2 - Linux
 
-[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file]()
+[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file]() Missing torrent file
 
 1.3 - Windows 64x
 
