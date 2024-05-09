@@ -37,7 +37,7 @@ Here is the list of all versions tracked with download links
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/ye24yyjf), [Torrent file]() Missing torrent file
+[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a5 - Linux
 
@@ -656,21 +656,21 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha2 - Linux
 
-[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file]() Missing torrent file
+[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha2.zip.torrent)
 
-1.3 - Windows 64x
+1.3 alpha - Windows 64x
 
 [Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
 
-1.3 - Windows 32x
+1.3 alpha - Windows 32x
 
 [Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
 
-1.3 - Mac
+1.3 alpha - Mac
 
 [Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
-1.3 - Linux
+1.3 alpha - Linux
 
 [Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
 
