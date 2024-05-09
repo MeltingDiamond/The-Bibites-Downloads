@@ -107,7 +107,24 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c3.kemono.su/data/f6/d7/f6d76652576791dc3174eeb72952a7171e65f3ae98599d97291dfbb0fb5cbf38.zip?f=The%20Bibites%200.5.1a1%20-%20Linux.zip)
 
+
 # 0.5.0
+
+0.5.0 - Windows 64x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.5.0 - Windows 32x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.5.0 - Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.5.0 - Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.5.0a7 - Windows 64x
 
@@ -229,7 +246,24 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c1.kemono.su/data/bd/65/bd65744d024116d5179e6dbbfad33cdd6c68e7af27af00674fe667f71701e241.zip?f=The%20Bibites%200.5.0a1%20-%20Linux.zip)
 
+
 # 0.4.3
+
+0.4.3 - Windows 64x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.4.3 - Windows 32x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.4.3 - Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.4.3 - Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.4.3a1 - Windows 64x
 
@@ -247,11 +281,26 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c5.kemono.su/data/c4/99/c49953acc3ba9462850edf2b91813034c35ab4af0fad49c9924ffb7068ac9c61.zip?f=The%20Bibites%200.4.3a1%20-%20Linux.zip)
 
+
 # 0.4.2
 
-0.4.2 - Probably windows, but link expired
+0.4.2 - Windows 64x
 
-[UploadNow download](https://uploadnow.io/f/vfrfzBN)
+Missing. If you got this version please message or ping @melting_diamond on discord
+[UploadNow download](https://uploadnow.io/f/vfrfzBN) - Probably windows, but link expired
+
+0.4.2 - Windows 32x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+[UploadNow download](https://uploadnow.io/f/vfrfzBN) - Probably windows, but link expired
+
+0.4.2 - Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.4.2 - Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.4.2a3 - Windows 64x
 
@@ -301,6 +350,7 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c6.kemono.su/data/ee/1c/ee1cd403e24b6809a7f97288d58fe15d05b03ba4f900c6ce5c691b7103e8b030.zip?f=The%20Bibites%200.4.2a1%20-%20Linux.zip)
 
+
 # 0.4.1
 
 0.4.1 - Windows 64x
@@ -318,6 +368,7 @@ Here is the list of all versions tracked with download links
 0.4.1 - Linux
 
 [Kemono download](https://c6.kemono.su/data/06/42/064241850ca2728ac7a6b174bc275af7a420f4b0903a7b10e020b483a90a236e.zip?f=The%20Bibites%200.4.1%20-%20Linux.zip)
+
 
 # 0.4.0
 
@@ -481,7 +532,24 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c5.kemono.su/data/d0/4f/d04f1ad4a3ff34444271caa020533bdd2b0c5e89c932819743e0fa467bd6ae16.zip?f=The%20Bibites%200.4a1%20-%20Linux.zip)
 
-# 0.3.1x
+
+# 0.3.1
+
+0.3.1 - Windows 64x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.3.1 - Windows 32x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.3.1 - Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.3.1 - Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.3.1a1 - Windows 64x
 
@@ -499,11 +567,24 @@ Here is the list of all versions tracked with download links
 
 [Kemono download](https://c6.kemono.su/data/8b/f4/8bf4f3f4fc35c3389b3f983cdb51aa0c545605fadae903c148ebe0f745ff863f.zip?f=The%20Bibites%200.3.1a1%20-%20Linux.zip)
 
+
 # 0.3.0
 
-0.3.0 - Windows
+0.3.0 - Windows 64x
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.3.0 - Windows 32x
 
 [Softonic download](https://the-bibites.en.softonic.com/download), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](/Torrents/the_bibites_win_v0.3.0.zip.torrent)
+
+0.3.0 - Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord
+
+0.3.0 - Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.3b3 - Windows 64x
 
