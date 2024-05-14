@@ -286,13 +286,12 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. If you got this version please message or ping @melting_diamond on discord,
 [UploadNow download](https://uploadnow.io/f/vfrfzBN) - Probably windows, but link expired
 
 0.4.2 - Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
-[UploadNow download](https://uploadnow.io/f/vfrfzBN) - Probably windows, but link expired
+[Google Drive](https://discord.com/channels/1059654549650034748/1225815497271152741/1240042376093761556), [Magnet URL for torrent](https://tinyurl.com/mvr83v7s), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2032x.zip.torrent)
 
 0.4.2 - Mac Universal
 
