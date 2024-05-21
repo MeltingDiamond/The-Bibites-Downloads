@@ -4,9 +4,9 @@ If you do not have a program to download torrents you can use [qBittorrent](http
 
 If the torrent does not download try a none torrent download.
 
-Here is the list of all versions tracked with download links
+Thanks to tedeni for compiling a complete changelog for each version up to 0.6a11. Changelog can be found [here](/Changelogs/The_Bibites_All_Changelogs.txt).
 
-[Kemono website](https://kemono.su/patreon/user/20026052)
+Here is the list of all versions tracked with download links:
 
 # 0.5.1
 
@@ -732,7 +732,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha2 - Mac
 
-[Kemono download](https://c1.kemono.su/data/26/f2/26f21e5ce4b08cc029b0cf74bbd62334cdc09c451cc073b52d5380f0c493925b.zip?f=The%20Bibites%20Mac%201.3%20alpha2.zip)
+[Kemono download](https://c1.kemono.su/data/26/f2/26f21e5ce4b08cc029b0cf74bbd62334cdc09c451cc073b52d5380f0c493925b.zip?f=The%20Bibites%20Mac%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/5enrrjmx), [Torrent file](/Torrents/The%20Bibites%201.3%20alpha2%20-%20Mac.zip.torrent)
 
 1.3 alpha2 - Linux
 
