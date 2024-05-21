@@ -552,7 +552,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.1a1 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/1b/68/1b680806e7a40956d50607d189b924d60553d9b5fb3aea7a7f0175c9d6c6560f.zip?f=The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip)
+[Kemono download](https://c2.kemono.su/data/1b/68/1b680806e7a40956d50607d189b924d60553d9b5fb3aea7a7f0175c9d6c6560f.zip?f=The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
 
 0.3.1a1 - Windows 32x
 
