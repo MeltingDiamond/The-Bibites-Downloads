@@ -128,7 +128,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.5.0a7 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/52/c4/52c43f2c66606f5095f499f7ddcf39cbc08a30ed148bf2cda2bc2f716f90bc99.zip?f=The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip)
+[Kemono download](https://c2.kemono.su/data/52/c4/52c43f2c66606f5095f499f7ddcf39cbc08a30ed148bf2cda2bc2f716f90bc99.zip?f=The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/2skhkduf), [Torrent file](/Torrents/The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip.torrent)
 
 0.5.0a7 - Windows 32x
 
@@ -267,7 +267,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.3a1 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/5b/68/5b68844598a37c27d32afbab60597e6786d35bd9f2c9ce1e8023062c9f3ac233.zip?f=The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip)
+[Kemono download](https://c2.kemono.su/data/5b/68/5b68844598a37c27d32afbab60597e6786d35bd9f2c9ce1e8023062c9f3ac233.zip?f=The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3a7uuzkb), [Torrent file](/Torrents/The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip.torrent)
 
 0.4.3a1 - Windows 32x
 
@@ -354,7 +354,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.1 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/01/fe/01fe9e73431a4740c9b588b0df68b09c8347075fb55de1c9c4efdc629a0b6d21.zip?f=The%20Bibites%200.4.1%20-%20Windows%2064x.zip)
+[Kemono download](https://c6.kemono.su/data/01/fe/01fe9e73431a4740c9b588b0df68b09c8347075fb55de1c9c4efdc629a0b6d21.zip?f=The%20Bibites%200.4.1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
 
 0.4.1 - Windows 32x
 
