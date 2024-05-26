@@ -6,7 +6,7 @@ If the torrent does not download try a none torrent download.
 
 Thanks to tedeni for compiling a complete changelog for each version up to 0.6a11. Changelog can be found [here](/Changelogs/The_Bibites_All_Changelogs.txt).
 
-Here is the list of all versions tracked with download links:
+Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 
 # 0.5.1
 
@@ -286,8 +286,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord,
-[UploadNow download](https://uploadnow.io/f/vfrfzBN) - Probably windows, but link expired
+[Dropbox download](https://www.dropbox.com/scl/fi/jw7o8r8xryi6y49clxj42/The-Bibites-0.4.2-Windows-64x.zip?rlkey=78vdq0l664zoiwxfb8jr3grp8&st=x2k1bvd5&dl=0), [Magnet URL for torrent](https://tinyurl.com/h7nfx37c), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.zip.torrent)
 
 0.4.2 - Windows 32x
 
