@@ -251,19 +251,19 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.3 - Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. If you got this version please message or ping @melting_diamond on discord.
 
 0.4.3 - Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. If you got this version please message or ping @melting_diamond on discord.
 
 0.4.3 - Mac Universal
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. If you got this version please message or ping @melting_diamond on discord.
 
 0.4.3 - Linux
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. If you got this version please message or ping @melting_diamond on discord.
 
 0.4.3a1 - Windows 64x
 
@@ -286,7 +286,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-[Dropbox download](https://www.dropbox.com/scl/fi/jw7o8r8xryi6y49clxj42/The-Bibites-0.4.2-Windows-64x.zip?rlkey=78vdq0l664zoiwxfb8jr3grp8&st=x2k1bvd5&dl=0), [Magnet URL for torrent](https://tinyurl.com/h7nfx37c), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.zip.torrent)
+[Dropbox download](https://www.dropbox.com/scl/fi/jw7o8r8xryi6y49clxj42/The-Bibites-0.4.2-Windows-64x.zip?rlkey=78vdq0l664zoiwxfb8jr3grp8&st=x2k1bvd5&dl=0), [Magnet URL for torrent](https://tinyurl.com/h7nfx37c), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.zip.torrent) - Got an error somewere and does not work. If you got this version please message or ping @melting_diamond on discord.
 
 0.4.2 - Windows 32x
 
