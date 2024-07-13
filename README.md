@@ -286,7 +286,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-[Dropbox download](https://www.dropbox.com/scl/fi/jw7o8r8xryi6y49clxj42/The-Bibites-0.4.2-Windows-64x.zip?rlkey=78vdq0l664zoiwxfb8jr3grp8&st=x2k1bvd5&dl=0), [Magnet URL for torrent](https://tinyurl.com/h7nfx37c), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.zip.torrent) - Got an error somewere and does not work. If you got this version please message or ping @melting_diamond on discord.
+[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=0), [Magnet URL for torrent](https://tinyurl.com/h7nfx37c), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.zip.torrent) - Dropbox link should work now, torrent will be updated later.
 
 0.4.2 - Windows 32x
 
