@@ -55,7 +55,7 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.5.1a4 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/a8/e2/a8e2c24375be266eff27064d9537dd570561127fa76d9759c24b083f0eef6499.zip?f=The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip)
+[Kemono download](https://c3.kemono.su/data/a8/e2/a8e2c24375be266eff27064d9537dd570561127fa76d9759c24b083f0eef6499.zip?f=The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/2bvfn3vn), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a4 - Linux
 
