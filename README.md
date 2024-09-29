@@ -9,53 +9,207 @@ If you can't unzip an archive you can try [7-Zip](https://7-zip.org/)
 Thanks to tedeni for compiling a complete changelog for each version up to 0.6a11. Changelog can be found [here](/Changelogs/The_Bibites_All_Changelogs.txt).
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
+# 0.6.0
+0.6.0 and 0.6aX (alphas) download links will be added once 0.6.0 gets released.
+
+0.6.0 RC - Windows 64x
+
+0.6.0 RC - Windows 32x
+
+0.6.0 RC - Mac Universal
+
+0.6.0 RC - Linux
+
+0.6a17 - Windows 64x
+
+0.6a17 - Windows 32x
+
+0.6a17 - Mac Universal
+
+0.6a17 - Linux
+
+0.6a16 - Windows 64x
+
+0.6a16 - Windows 32x
+
+0.6a16 - Mac Universal
+
+0.6a16 - Linux
+
+0.6a15 - Windows 64x
+
+0.6a15 - Windows 32x
+
+0.6a15 - Mac Universal
+
+0.6a15 - Linux
+
+0.6a14 - Windows 64x
+
+0.6a14 - Windows 32x
+
+0.6a14 - Mac Universal
+
+0.6a14 - Linux
+
+0.6a13 - Windows 64x
+
+0.6a13 - Windows 32x
+
+0.6a13 - Mac Universal
+
+0.6a13 - Linux
+
+0.6a12 - Windows 64x
+
+0.6a12 - Windows 32x
+
+0.6a12 - Mac Universal
+
+0.6a12 - Linux
+
+0.6a11 - Windows 64x
+
+0.6a11 - Windows 32x
+
+0.6a11 - Mac Universal
+
+0.6a11 - Linux
+
+0.6a10 - Windows 64x
+
+0.6a10 - Windows 32x
+
+0.6a10 - Mac Universal
+
+0.6a10 - Linux
+
+0.6a9 - Windows 64x
+
+0.6a9 - Windows 32x
+
+0.6a9 - Mac Universal
+
+0.6a9 - Linux
+
+0.6a8 - Windows 64x
+
+0.6a8 - Windows 32x
+
+0.6a8 - Mac Universal
+
+0.6a8 - Linux
+
+0.6a7 hotfix - Windows 64x
+
+0.6a7 hotfix - Windows 32x
+
+0.6a7 hotfix - Mac Universal
+
+0.6a7 hotfix - Linux
+
+0.6a7 - Windows 64x
+
+0.6a7 - Windows 32x
+
+0.6a7 - Mac Universal
+
+0.6a7 - Linux
+
+0.6a6 - Windows 64x
+
+0.6a6 - Windows 32x
+
+0.6a6 - Mac Universal
+
+0.6a6 - Linux
+
+0.6a5 - Windows 64x
+
+0.6a5 - Windows 32x
+
+0.6a5 - Mac Universal
+
+0.6a5 - Linux
+
+0.6a4 - Windows 64x
+
+0.6a4 - Windows 32x
+
+0.6a4 - Mac Universal
+
+0.6a4 - Linux
+
+0.6a3 - Windows 64x
+
+0.6a3 - Windows 32x
+
+0.6a3 - Mac Universal
+
+0.6a3 - Linux
+
+0.6a2 - Windows 64x 
+
+0.6a2 - Windows 32x
+
+0.6a2 - Mac Universal
+
+0.6a2 - Linux
+
+0.6a1 - Windows 64x 
+
+0.6a1 - Windows 32x
+
+0.6a1 - Mac Universal
+
+0.6a1 - Linux
 
 # 0.5.1
 
 0.5.1 - Windows 64x  
 
-[Kemono download](https://c4.kemono.su/data/0b/86/0b86d71b2c7ad280f97bb6853739e9faadd37a87b8d214c8bdbca11639ce3add.zip?f=The%20Bibites%200.5.1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/yc3zakzy), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Windows%2064x.torrent)
+[Kemono download](https://c4.kemono.su/data/0b/86/0b86d71b2c7ad280f97bb6853739e9faadd37a87b8d214c8bdbca11639ce3add.zip?f=The%20Bibites%200.5.1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/yc3zakzy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1%20-%20Windows%2064x.zip.torrent)
 
 0.5.1 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/f3/99/f3999137f4f853a7fe84e8262032a7aca06500eb3b8b69b89e502892d36393e4.zip?f=The%20Bibites%200.5.1%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/2bd843e6), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Windows%2032x.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/f3/99/f3999137f4f853a7fe84e8262032a7aca06500eb3b8b69b89e502892d36393e4.zip?f=The%20Bibites%200.5.1%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/2bd843e6), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1%20-%20Windows%2032x.zip.torrent)
 
 0.5.1 - Mac Universal
 
-[Kemono download](https://c1.kemono.su/data/47/31/4731cc160fc7ee77cf1628d6e9f3229d9dded7271b677bd36ac0ecbd934d24fd.zip?f=The%20Bibites%200.5.1%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/y9777e53), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Mac%20Universal.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/47/31/4731cc160fc7ee77cf1628d6e9f3229d9dded7271b677bd36ac0ecbd934d24fd.zip?f=The%20Bibites%200.5.1%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/y9777e53), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1 - Linux
 
-[Kemono download](https://c1.kemono.su/data/f0/c5/f0c54bab79615a9d78e9bca7699fbd7795d04ea4ac515d411a2f6fa2f9fc9c1f.zip?f=The%20Bibites%200.5.1%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/3zupf3u9), [Torrent file](/Torrents/The%20Bibites%200.5.1%20-%20Linux.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/f0/c5/f0c54bab79615a9d78e9bca7699fbd7795d04ea4ac515d411a2f6fa2f9fc9c1f.zip?f=The%20Bibites%200.5.1%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/3zupf3u9), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1%20-%20Linux.zip.torrent)
 
 0.5.1a5 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/1f/b9/1fb9cb554f676b99ade0a135ae48f6365e3d3f18268c68a48f74d93921aa0ff9.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/55t2jh34), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c2.kemono.su/data/1f/b9/1fb9cb554f676b99ade0a135ae48f6365e3d3f18268c68a48f74d93921aa0ff9.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/55t2jh34), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Windows%2064x.zip.torrent)
 
 0.5.1a5 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/cd/f9/cdf95fec48a8f0aab8fd9a221dd999f1e3eb28700f53da47e5e5d5665abc04b4.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/ycyuxe92), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/cd/f9/cdf95fec48a8f0aab8fd9a221dd999f1e3eb28700f53da47e5e5d5665abc04b4.zip?f=The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/ycyuxe92), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Windows%2032x.zip.torrent)
 
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
+[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a5 - Linux
 
-[Kemono download](https://c6.kemono.su/data/7b/c3/7bc3f57e83553d926b94ab7c75b1bc765b1371d2d1cb9a6bc41e8757c0ffb45d.zip?f=The%20Bibites%200.5.1a5%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/mr3c48rt), [Torrent file](/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/7b/c3/7bc3f57e83553d926b94ab7c75b1bc765b1371d2d1cb9a6bc41e8757c0ffb45d.zip?f=The%20Bibites%200.5.1a5%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/mr3c48rt), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a4 - Windows 64x
 
-[Kemono download](https://c5.kemono.su/data/79/a7/79a74f1d3786bef5f2a5662751d6695ba8bf5474d7f7a646c255970f7f91272b.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/38sy2y5t), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c5.kemono.su/data/79/a7/79a74f1d3786bef5f2a5662751d6695ba8bf5474d7f7a646c255970f7f91272b.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/38sy2y5t), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2064x.zip.torrent)
 
 0.5.1a4 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/be/2b/be2b85f4c598589da3872cc1c490b86f4e5ee37d493d2225f1476c17564d7620.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/5e5h42a7), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/be/2b/be2b85f4c598589da3872cc1c490b86f4e5ee37d493d2225f1476c17564d7620.zip?f=The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/5e5h42a7), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a4%20-%20Windows%2032x.zip.torrent)
 
 0.5.1a4 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/a8/e2/a8e2c24375be266eff27064d9537dd570561127fa76d9759c24b083f0eef6499.zip?f=The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/2bvfn3vn), [Torrent file](/Torrents/The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip.torrent)
+[Kemono download](https://c3.kemono.su/data/a8/e2/a8e2c24375be266eff27064d9537dd570561127fa76d9759c24b083f0eef6499.zip?f=The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/2bvfn3vn), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a4%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a4 - Linux
 
@@ -63,7 +217,7 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.5.1a3 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/58jwscms), [Torrent file](/Torrents/The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/ae/7c/ae7c0c1761cbef7fa55c530d3e9a5504d5f8909f28e71938c493001224f7f5ae.zip?f=The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/58jwscms), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a3%20-%20Windows%2064x.zip.torrent)
 
 0.5.1a3 - Windows 32x
 
@@ -130,7 +284,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.5.0a7 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/52/c4/52c43f2c66606f5095f499f7ddcf39cbc08a30ed148bf2cda2bc2f716f90bc99.zip?f=The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/2skhkduf), [Torrent file](/Torrents/The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c2.kemono.su/data/52/c4/52c43f2c66606f5095f499f7ddcf39cbc08a30ed148bf2cda2bc2f716f90bc99.zip?f=The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/2skhkduf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.0a7%20-%20Windows%2064x.zip.torrent)
 
 0.5.0a7 - Windows 32x
 
@@ -269,7 +423,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.3a1 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/5b/68/5b68844598a37c27d32afbab60597e6786d35bd9f2c9ce1e8023062c9f3ac233.zip?f=The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3a7uuzkb), [Torrent file](/Torrents/The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c2.kemono.su/data/5b/68/5b68844598a37c27d32afbab60597e6786d35bd9f2c9ce1e8023062c9f3ac233.zip?f=The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3a7uuzkb), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.3a1%20-%20Windows%2064x.zip.torrent)
 
 0.4.3a1 - Windows 32x
 
@@ -288,11 +442,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=0), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
+[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=0), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
 
 0.4.2 - Windows 32x
 
-[Google Drive](https://drive.google.com/file/d/14Cvi2PEoKVjNl-bw_swOWu9rY-qIj5nr/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/mvr83v7s), [Torrent file](/Torrents/The%20Bibites%200.4.2%20-%20Windows%2032x.zip.torrent)
+[Google Drive](https://drive.google.com/file/d/14Cvi2PEoKVjNl-bw_swOWu9rY-qIj5nr/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/mvr83v7s), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2032x.zip.torrent)
 
 0.4.2 - Mac Universal
 
@@ -355,7 +509,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.1 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/01/fe/01fe9e73431a4740c9b588b0df68b09c8347075fb55de1c9c4efdc629a0b6d21.zip?f=The%20Bibites%200.4.1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/01/fe/01fe9e73431a4740c9b588b0df68b09c8347075fb55de1c9c4efdc629a0b6d21.zip?f=The%20Bibites%200.4.1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
 
 0.4.1 - Windows 32x
 
@@ -374,7 +528,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.0 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/cf/82/cf82eed6f70c4316a445dffba21b92b9e5872733e2a5239536afe9745c5c6c5c.zip?f=The%20Bibites%200.4.0%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3m4wetzc), [Torrent file](/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/cf/82/cf82eed6f70c4316a445dffba21b92b9e5872733e2a5239536afe9745c5c6c5c.zip?f=The%20Bibites%200.4.0%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3m4wetzc), [Torrent file]([/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent))
 
 0.4.0 - Windows 32x
 
@@ -553,7 +707,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.1a1 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/1b/68/1b680806e7a40956d50607d189b924d60553d9b5fb3aea7a7f0175c9d6c6560f.zip?f=The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
+[Kemono download](https://c2.kemono.su/data/1b/68/1b680806e7a40956d50607d189b924d60553d9b5fb3aea7a7f0175c9d6c6560f.zip?f=The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
 
 0.3.1a1 - Windows 32x
 
@@ -576,7 +730,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 32x
 
-[Softonic download](https://the-bibites.en.softonic.com/download), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](/Torrents/the_bibites_win_v0.3.0.zip.torrent)
+[Softonic download](https://the-bibites.en.softonic.com/download), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
 
 0.3.0 - Mac Universal
 
@@ -702,63 +856,63 @@ BibiteVirus alpha 2 - Windows
 
 BibiteVirus alpha 1 - Windows
 
-[Kemono download](https://c4.kemono.su/data/59/98/5998ab7c400a6931256baeedd19d7338ea12c83beb65316b26de66fc86fe1486.zip?f=BibiteVirus%20alpha%201.zip), [Magnet URL for torrent](https://tinyurl.com/3yw7upuz), [Torrent file](/Torrents/BibiteVirus%20alpha%201.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/59/98/5998ab7c400a6931256baeedd19d7338ea12c83beb65316b26de66fc86fe1486.zip?f=BibiteVirus%20alpha%201.zip), [Magnet URL for torrent](https://tinyurl.com/3yw7upuz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%201.zip.torrent)
 
 
 # 1.x
 
 1.3 alpha3 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/aa/f4/aaf4a4f6af1e158bfe431d9e77695ca121b7f7f60f24769e776977d0ca35e8e8.zip?f=The%20Bibites%20x64%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/3m9ypzs2), [Torrent file](/Torrents/The%20Bibites%20x64%201.3%20alpha3.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/aa/f4/aaf4a4f6af1e158bfe431d9e77695ca121b7f7f60f24769e776977d0ca35e8e8.zip?f=The%20Bibites%20x64%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/3m9ypzs2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/70/ee/70eea38c06d5ad77c032ed4db66b1498110eb57a29db6e322b62f05c8ab58e49.zip?f=The%20Bibites%20x32%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/5psvj6wz), [Torrent file](/Torrents/The%20Bibites%20x32%201.3%20alpha3.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/70/ee/70eea38c06d5ad77c032ed4db66b1498110eb57a29db6e322b62f05c8ab58e49.zip?f=The%20Bibites%20x32%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/5psvj6wz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Mac
 
-[Kemono download](https://c4.kemono.su/data/bc/b8/bcb8e7c84ef73e6317cf972f63612ab61badd36477dacd6b45d8d0a711716871.zip?f=The%20Bibites%20Mac%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/2eywjpb9), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha3.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/bc/b8/bcb8e7c84ef73e6317cf972f63612ab61badd36477dacd6b45d8d0a711716871.zip?f=The%20Bibites%20Mac%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/2eywjpb9), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Linux
 
-[Kemono download](https://c6.kemono.su/data/e1/b0/e1b0780e9255867bade6e6fc4cd22bb8b30ef35fa1fcc06d9bd6d7ed9f18e888.zip?f=The%20Bibites%20Linux%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/mryyzkr4), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha3.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/e1/b0/e1b0780e9255867bade6e6fc4cd22bb8b30ef35fa1fcc06d9bd6d7ed9f18e888.zip?f=The%20Bibites%20Linux%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/mryyzkr4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha3.zip.torrent)
 
 1.3 alpha2 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/4c/75/4c75c879b425002743695b61e4c670eb7947adc016cf623aac8d01e82ca01966.zip?f=The%20Bibites%20x64%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/y7ndc9px), [Torrent file](/Torrents/The%20Bibites%20x64%201.3%20alpha2.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/4c/75/4c75c879b425002743695b61e4c670eb7947adc016cf623aac8d01e82ca01966.zip?f=The%20Bibites%20x64%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/y7ndc9px), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha2.zip.torrent)
 
 1.3 alpha2 - Windows 32x
 
-[Kemono download](https://c4.kemono.su/data/8f/8d/8f8db2a86af7aa0215ba4dac7e93aac8c2a4b3a3554b09e6bf94f20d90cc2d00.zip?f=The%20Bibites%20x32%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/mt5m43jw), [Torrent file](/Torrents/The%20Bibites%20x32%201.3%20alpha2.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/8f/8d/8f8db2a86af7aa0215ba4dac7e93aac8c2a4b3a3554b09e6bf94f20d90cc2d00.zip?f=The%20Bibites%20x32%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/mt5m43jw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha2.zip.torrent)
 
 1.3 alpha2 - Mac
 
-[Kemono download](https://c1.kemono.su/data/26/f2/26f21e5ce4b08cc029b0cf74bbd62334cdc09c451cc073b52d5380f0c493925b.zip?f=The%20Bibites%20Mac%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/5enrrjmx), [Torrent file](/Torrents/The%20Bibites%201.3%20alpha2%20-%20Mac.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/26/f2/26f21e5ce4b08cc029b0cf74bbd62334cdc09c451cc073b52d5380f0c493925b.zip?f=The%20Bibites%20Mac%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/5enrrjmx), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%201.3%20alpha2%20-%20Mac.zip.torrent)
 
 1.3 alpha2 - Linux
 
-[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha2.zip.torrent)
+[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha2.zip.torrent)
 
 1.3 alpha - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Windows 32x
 
-[Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
+[Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Mac
 
-[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Linux
 
-[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
 
 1.2 - Windows and Mac
 
-[Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](/Torrents/The%20Bibites%20v1.2.zip.torrent)
+[Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.2.zip.torrent)
 
 1.1 - Windows
 
-[Kemono download](https://c1.kemono.su/data/ce/90/ce9067d2a654643940570615d9cd2a5dd11b2a7a1f9dd6aa325d463f0dda44b4.zip?f=The%20Bibites%20v1.1.zip), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](/Torrents/The%20Bibites%20v1.1.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/ce/90/ce9067d2a654643940570615d9cd2a5dd11b2a7a1f9dd6aa325d463f0dda44b4.zip?f=The%20Bibites%20v1.1.zip), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.1.zip.torrent)
