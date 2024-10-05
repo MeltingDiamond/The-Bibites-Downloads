@@ -46,123 +46,243 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6a15 - Windows 64x
 
+[Kemono download](
+
 0.6a15 - Windows 32x
+
+[Kemono download](
 
 0.6a15 - Mac Universal
 
+[Kemono download](
+
 0.6a15 - Linux
+
+[Kemono download](
 
 0.6a14 - Windows 64x
 
+[Kemono download](
+
 0.6a14 - Windows 32x
+
+[Kemono download](
 
 0.6a14 - Mac Universal
 
+[Kemono download](
+
 0.6a14 - Linux
+
+[Kemono download](
 
 0.6a13 - Windows 64x
 
+[Kemono download](
+
 0.6a13 - Windows 32x
+
+[Kemono download](
 
 0.6a13 - Mac Universal
 
+[Kemono download](
+
 0.6a13 - Linux
+
+[Kemono download](
 
 0.6a12 - Windows 64x
 
+[Kemono download](
+
 0.6a12 - Windows 32x
+
+[Kemono download](
 
 0.6a12 - Mac Universal
 
+[Kemono download](
+
 0.6a12 - Linux
+
+[Kemono download](
 
 0.6a11 - Windows 64x
 
+[Kemono download](
+
 0.6a11 - Windows 32x
+
+[Kemono download](
 
 0.6a11 - Mac Universal
 
+[Kemono download](
+
 0.6a11 - Linux
+
+[Kemono download](
 
 0.6a10 - Windows 64x
 
+[Kemono download](
+
 0.6a10 - Windows 32x
+
+[Kemono download](
 
 0.6a10 - Mac Universal
 
+[Kemono download](
+
 0.6a10 - Linux
+
+[Kemono download](
 
 0.6a9 - Windows 64x
 
+[Kemono download](
+
 0.6a9 - Windows 32x
+
+[Kemono download](
 
 0.6a9 - Mac Universal
 
+[Kemono download](
+
 0.6a9 - Linux
+
+[Kemono download](
 
 0.6a8 - Windows 64x
 
+[Kemono download](
+
 0.6a8 - Windows 32x
+
+[Kemono download](
 
 0.6a8 - Mac Universal
 
+[Kemono download](
+
 0.6a8 - Linux
+
+[Kemono download](
 
 0.6a7 hotfix - Windows 64x
 
+[Kemono download](
+
 0.6a7 hotfix - Windows 32x
+
+[Kemono download](
 
 0.6a7 hotfix - Mac Universal
 
+[Kemono download](
+
 0.6a7 hotfix - Linux
+
+[Kemono download](
 
 0.6a7 - Windows 64x
 
+[Kemono download](
+
 0.6a7 - Windows 32x
+
+[Kemono download](
 
 0.6a7 - Mac Universal
 
+[Kemono download](
+
 0.6a7 - Linux
+
+[Kemono download](
 
 0.6a6 - Windows 64x
 
+[Kemono download](
+
 0.6a6 - Windows 32x
+
+[Kemono download](
 
 0.6a6 - Mac Universal
 
+[Kemono download](
+
 0.6a6 - Linux
+
+[Kemono download](
 
 0.6a5 - Windows 64x
 
+[Kemono download](
+
 0.6a5 - Windows 32x
+
+[Kemono download](
 
 0.6a5 - Mac Universal
 
+[Kemono download](
+
 0.6a5 - Linux
+
+[Kemono download](
 
 0.6a4 - Windows 64x
 
+[Kemono download](
+
 0.6a4 - Windows 32x
+
+[Kemono download](
 
 0.6a4 - Mac Universal
 
+[Kemono download](
+
 0.6a4 - Linux
+
+[Kemono download](
 
 0.6a3 - Windows 64x
 
+[Kemono download](
+
 0.6a3 - Windows 32x
+
+[Kemono download](
 
 0.6a3 - Mac Universal
 
+[Kemono download](
+
 0.6a3 - Linux
+
+[Kemono download](
 
 0.6a2 - Windows 64x 
 
+[Kemono download](https://n2.kemono.su/data/c7/4a/c74a11df3ff7ee0ba806ca94fb0252047cd374e33f6b55406fa13337d12a715b.zip?f=The%20Bibites%200.6a2%20-%20Windows%2064x.zip)
+
 0.6a2 - Windows 32x
+
+[Kemono download](https://n1.kemono.su/data/1c/11/1c119eaed8dcf9afdbd865ccca8d666e85d8b945d6d4afd9d5563b8d4fc7f3b1.zip?f=The%20Bibites%200.6a2%20-%20Windows%2032x.zip)
 
 0.6a2 - Mac Universal
 
+[Kemono download](https://n2.kemono.su/data/56/72/5672ed8b7aa6ae1d309e5e1dac48ab79430694ecf2468a26647b08c8cd5d6fbb.zip?f=The%20Bibites%200.6a2%20-%20Mac%20Universal.zip)
+
 0.6a2 - Linux
+
+[Kemono download](https://n2.kemono.su/data/d1/02/d10275dcb4b5bf3e59c72a1d2a46c01165cd0f0016e3be6b0ffccb108f2d0812.zip?f=The%20Bibites%200.6a2%20-%20Linux.zip)
 
 0.6a1 - Windows 64x 
 
