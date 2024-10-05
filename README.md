@@ -10,17 +10,17 @@ Thanks to tedeni for compiling a complete changelog for each version up to 0.6a1
 If you want to see other files that are released by Leo Caussan you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
 
 ### Quick link to specific version:
-- [0.6.0](#0.6.0)
-- [0.5.1](#0.5.1)
-- [0.5.0](#0.5.0)
-- [0.4.3](#0.4.3)
-- [0.4.2](#0.4.2)
-- [0.4.1](#0.4.1)
-- [0.4.0](#0.4.0)
-- [0.3.1](#0.3.1)
-- [0.3.0](#0.3.0)
+- [0.6.0](#060)
+- [0.5.1](#051)
+- [0.5.0](#050)
+- [0.4.3](#043)
+- [0.4.2](#042)
+- [0.4.1](#041)
+- [0.4.0](#040)
+- [0.3.1](#031)
+- [0.3.0](#030)
 - [BibiteVirus alpha](#BibiteVirus-alpha)
-- [1.x](#1.x)
+- [1.x](#1x)
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.0
