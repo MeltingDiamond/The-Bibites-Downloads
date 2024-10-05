@@ -1,14 +1,26 @@
 [The Bibites Itch page](https://thebibites.itch.io/the-bibites) here you can find the latest public version of the game.
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
-
-If the torrent does not download try a none torrent download.
+If the torrent does not download try a none torrent download. 
 
 If you can't unzip an archive you can try [7-Zip](https://7-zip.org/)
 
 Thanks to tedeni for compiling a complete changelog for each version up to 0.6a11. Changelog can be found [here](/Changelogs/The_Bibites_All_Changelogs.txt).
 
-If you want to see other files that are released by Leo Caussan you can [click here](/Other Files)
+If you want to see other files that are released by Leo Caussan you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
+
+### Quick link to specific version:
+- [0.6.0](#0.6.0)
+- [0.5.1](#0.5.1)
+- [0.5.0](#0.5.0)
+- [0.4.3](#0.4.3)
+- [0.4.2](#0.4.2)
+- [0.4.1](#0.4.1)
+- [0.4.0](#0.4.0)
+- [0.3.1](#0.3.1)
+- [0.3.0](#0.3.0)
+- [BibiteVirus alpha](#BibiteVirus-alpha)
+- [1.x](#1.x)
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.0
@@ -301,6 +313,7 @@ Here is the list of all versions tracked with download links, if any of the link
 0.6a1 - Linux
 
 [Kemono download](https://n3.kemono.su/data/6a/3d/6a3dc9a32890bb708545c68479dda9435a35a27b6e4e9311385c6e80fe528eb4.zip?f=The%20Bibites%200.6a1%20-%20Linux.zip)
+
 
 # 0.5.1
 
