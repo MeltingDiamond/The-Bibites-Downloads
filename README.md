@@ -24,8 +24,6 @@ If you want to see other files that are released by Leo Caussan you can [click h
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.0
-Remaining 0.6aX (alphas) download links will be added soon.
-
 0.6.0 - Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/n7112kbd3msmrwcs026wb/The-Bibites-0.6.0-Windows-64x.zip?rlkey=jn5ks3hdovgdxmhk5uc6ylpfn&st=aqte8klb&dl=0), [Magnet URL for torrent](https://tinyurl.com/47z7ycxd), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.0%20-%20Windows%2064x.zip.torrent)
@@ -60,15 +58,15 @@ Remaining 0.6aX (alphas) download links will be added soon.
 
 0.6a17 - Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Dropbox Download](https://www.dropbox.com/scl/fi/b6xwmqe6ap53hwlt3g22x/The-Bibites-06a17-Windows-32x.zip?rlkey=irfpwalpcg4qdsetnoqh87viw&dl=0)
 
 0.6a17 - Mac Universal
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Dropbox Download](https://www.dropbox.com/scl/fi/3npmqmgv69gxtyx8r979t/The-Bibites-06a17-Mac-Universal.zip?rlkey=6yobemsxc4vbjg302eilrnkfm&dl=0)
 
 0.6a17 - Linux
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Dropbox Download](https://www.dropbox.com/scl/fi/p0pkwh413hlrtlv81rnxa/The-Bibites-06a17-Linux.zip?rlkey=tewk5zreowlozcdtr0iumt4w3&dl=0)
 
 0.6a16 - Windows 64x
 
