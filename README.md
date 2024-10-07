@@ -24,6 +24,22 @@ If you want to see other files that are released by Leo Caussan you can [click h
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.0
+0.6.0.1 - Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=0)
+
+0.6.0.1 - Windows 32x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/ud94c3t8q0xdbz5l5fk8z/The-Bibites-0.6.0.1-Windows-32x.zip?rlkey=khwtep8uisp0gyjdgakvnhtn0&st=i0wydnd8&dl=0)
+
+0.6.0.1 - Mac Universal
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/igxy7fq16yl7ieqjh994v/The-Bibites-0.6.0.1-Mac-Universal.zip?rlkey=wfquramlnyf77af2znrbljwbh&st=urrvwiue&dl=0)
+
+0.6.0.1 - Linux
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/vflvk4x6bf2thohddftqj/The-Bibites-0.6.0.1-Linux.zip?rlkey=ubn7srnx2nspfwb5wy95r1a5j&st=1bjvg715&dl=0)
+
 0.6.0 - Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/n7112kbd3msmrwcs026wb/The-Bibites-0.6.0-Windows-64x.zip?rlkey=jn5ks3hdovgdxmhk5uc6ylpfn&st=aqte8klb&dl=0), [Magnet URL for torrent](https://tinyurl.com/47z7ycxd), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.0%20-%20Windows%2064x.zip.torrent)
