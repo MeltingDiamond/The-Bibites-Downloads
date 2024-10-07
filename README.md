@@ -56,7 +56,7 @@ Remaining 0.6aX (alphas) download links will be added soon.
 
 0.6a17 - Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Dropbox Download](https://www.dropbox.com/scl/fi/5fscaszovcdpjkrxnyoom/The-Bibites-0.6a17-Windows-64x.zip?rlkey=6l9c51m7cxk9goh5gjheyi3i4&st=vlgu5my5&dl=0)
 
 0.6a17 - Windows 32x
 
