@@ -26,6 +26,14 @@ Here is the list of all versions tracked with download links, if any of the link
 # 0.6.0
 0.6.0 and 0.6aX (alphas) download links will be added soon.
 
+0.6.0 - Windows 32x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/sr7nf897iffw3ilap5jw3/The-Bibites-0.6.0-Windows-32x.zip?rlkey=0xhj2g98xltv0i4bx2i2zjuyh&st=yqzgdu10&dl=0)
+
+0.6.0 - Linux
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/5v70odjhgjcdxp0zpysau/The-Bibites-0.6.0-Linux.zip?rlkey=tnjm134ce8jpzk1qlsym02pi9&st=bf4tbak6&dl=0)
+
 0.6.0 RC - Windows 64x
 
 0.6.0 RC - Windows 32x
