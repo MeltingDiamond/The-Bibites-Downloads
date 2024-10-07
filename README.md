@@ -913,7 +913,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Mac Universal
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+[Softonic download](https://the-bibites.en.softonic.com/mac/download)
 
 0.3.0 - Linux
 
