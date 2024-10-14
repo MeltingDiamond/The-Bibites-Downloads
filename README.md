@@ -935,7 +935,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3b3 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/36/15/3615ff111798875179fad132cce9caf7b3b93bd128acd70549d17daee51e61b7.zip?f=The%20Bibites%200.3b3%20-%20Windows%2064x.zip)
+[Kemono download](https://c4.kemono.su/data/36/15/3615ff111798875179fad132cce9caf7b3b93bd128acd70549d17daee51e61b7.zip?f=The%20Bibites%200.3b3%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/4sx84pxb), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3b3%20-%20Windows%2064x.zip.torrent)
 
 0.3b3 - Mac Universal
 
@@ -1031,7 +1031,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Mac
 
-[Kemono download](https://c4.kemono.su/data/e2/26/e226e45b11fb6757ca9070048e515abea4d646755ae2eea15c2e73211ccfe1c1.zip?f=Bibites%200.3a5%20for%20mac.zip)
+[Kemono download](https://c4.kemono.su/data/e2/26/e226e45b11fb6757ca9070048e515abea4d646755ae2eea15c2e73211ccfe1c1.zip?f=Bibites%200.3a5%20for%20mac.zip), [Magnet URL for torrent](https://tinyurl.com/3kwnntas), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20mac.zip.torrent)
 
 # BibiteVirus alpha
 
