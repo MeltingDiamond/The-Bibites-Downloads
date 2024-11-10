@@ -2,6 +2,10 @@ Any file that isn't The Bibites, but is released by Leo Caussan or Omnia Studios
 
 Anything that can be uploaded to github will be uploaded.
 
+# Not version specific
+
+[Help on The Bibites interface - pdf](https://drive.google.com/file/d/1-6AyPj3MMdWPcam4Uq-2ofupDO9vKrZP/view)
+
 # 0.6a2
 
 [A tale of 3 Islands - scenario](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Other%20Files/0.6a2/A%20tale%20of%203%20Islands.zip)
