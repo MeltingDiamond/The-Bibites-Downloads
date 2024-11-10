@@ -1,4 +1,5 @@
-[The Bibites Itch page](https://thebibites.itch.io/the-bibites) here you can find the latest public version of the game.
+[The Bibites Itch page](https://thebibites.itch.io/the-bibites) (free) here you can find the latest public version of the game.
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid) (as of writing this The Bibites is not released on steam. `Planned Release Date: 2024`)
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
 If the torrent does not download try a none torrent download. 
@@ -19,7 +20,7 @@ If you want to see other files that are released by Leo Caussan you can [click h
 - [0.4.0](#040)
 - [0.3.1](#031)
 - [0.3.0](#030)
-- [BibiteVirus alpha](#BibiteVirus-alpha)
+- [BibiteVirus alpha](#bibitevirus-alpha)
 - [1.x](#1x)
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
@@ -104,11 +105,11 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6a15 - Windows 64x
 
-[Kemono download](https://n2.kemono.su/data/6d/44/6d44ad13201cfd27da1a5879e10bc8adc10548ac465e3677f8f75afbc8eb0bec.zip?f=The%20Bibites%200.6a15%20-%20Windows%2064x.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/9nkpwcnkeof9jko2iuk9x/The-Bibites-0.6a15-Windows-64x.zip?rlkey=okofdhti6wai9k23kkhgmb8f4&st=rspxs506&dl=0), [Kemono download](https://n2.kemono.su/data/6d/44/6d44ad13201cfd27da1a5879e10bc8adc10548ac465e3677f8f75afbc8eb0bec.zip?f=The%20Bibites%200.6a15%20-%20Windows%2064x.zip)
 
 0.6a15 - Windows 32x
 
-[Kemono download](https://n4.kemono.su/data/7a/91/7a91a2aff18833c87d490b662daefe7ff4d171dadfc7150e45f28200a9c052cb.zip?f=The%20Bibites%200.6a15%20-%20Windows%2032x.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/45kneaw9cw1cvsrwbu2no/The-Bibites-0.6a15-Windows-32x.zip?rlkey=jillwwf5957xhy6h12nnk7e30&st=4vkzyk53&dl=0), [Kemono download](https://n4.kemono.su/data/7a/91/7a91a2aff18833c87d490b662daefe7ff4d171dadfc7150e45f28200a9c052cb.zip?f=The%20Bibites%200.6a15%20-%20Windows%2032x.zip)
 
 0.6a15 - Mac Universal
 
@@ -543,7 +544,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.5.0a3 - Windows 64x
 
-[Kemono download](https://c3.kemono.su/data/66/28/6628be31e7a14082f250c2a779d77275c2078f2809b318efa8f789733492eeaa.zip?f=The%20Bibites%200.5.0a3%20-%20Windows%2064x.zip), [Google Drive](https://drive.google.com/file/d/1aBgVsb7txw5YkW_vpGh9kqB_w9FBvzoM/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1aBgVsb7txw5YkW_vpGh9kqB_w9FBvzoM/view?usp=sharing), [Kemono download](https://c3.kemono.su/data/66/28/6628be31e7a14082f250c2a779d77275c2078f2809b318efa8f789733492eeaa.zip?f=The%20Bibites%200.5.0a3%20-%20Windows%2064x.zip)
 
 0.5.0a3 - Windows 32x
 
@@ -630,7 +631,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.3a1 - Linux
 
-[Kemono download](https://c5.kemono.su/data/c4/99/c49953acc3ba9462850edf2b91813034c35ab4af0fad49c9924ffb7068ac9c61.zip?f=The%20Bibites%200.4.3a1%20-%20Linux.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/8l7wp4l1ckopmyygjyumi/The-Bibites-0.4.3a1-Linux.zip?rlkey=vq9u35cvuobqmrsso4ia99leg&st=lvdpuhrm&dl=0), [Kemono download](https://c5.kemono.su/data/c4/99/c49953acc3ba9462850edf2b91813034c35ab4af0fad49c9924ffb7068ac9c61.zip?f=The%20Bibites%200.4.3a1%20-%20Linux.zip)
 
 
 # 0.4.2
@@ -697,7 +698,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2a1 - Linux
 
-[Kemono download](https://c6.kemono.su/data/ee/1c/ee1cd403e24b6809a7f97288d58fe15d05b03ba4f900c6ce5c691b7103e8b030.zip?f=The%20Bibites%200.4.2a1%20-%20Linux.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/1bv58e8z7n421x6t9zftz/The-Bibites-0.4.2a1-Linux.zip?rlkey=o41l56aw7yod8h50ueyljnnpm&st=jtunvw4g&dl=0), [Kemono download](https://c6.kemono.su/data/ee/1c/ee1cd403e24b6809a7f97288d58fe15d05b03ba4f900c6ce5c691b7103e8b030.zip?f=The%20Bibites%200.4.2a1%20-%20Linux.zip)
 
 
 # 0.4.1
@@ -716,7 +717,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.1 - Linux
 
-[Kemono download](https://c6.kemono.su/data/06/42/064241850ca2728ac7a6b174bc275af7a420f4b0903a7b10e020b483a90a236e.zip?f=The%20Bibites%200.4.1%20-%20Linux.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/39we6k5smqkzqwjnx8z59/The-Bibites-0.4.1-Linux.zip?rlkey=hch3e049dnubfrz10kkyu8rlw&st=86uh7y6x&dl=0), [Kemono download](https://c6.kemono.su/data/06/42/064241850ca2728ac7a6b174bc275af7a420f4b0903a7b10e020b483a90a236e.zip?f=The%20Bibites%200.4.1%20-%20Linux.zip)
 
 
 # 0.4.0
@@ -879,7 +880,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4a1 - Linux
 
-[Kemono download](https://c5.kemono.su/data/d0/4f/d04f1ad4a3ff34444271caa020533bdd2b0c5e89c932819743e0fa467bd6ae16.zip?f=The%20Bibites%200.4a1%20-%20Linux.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/31sd127mp44f2yfhsciui/The-Bibites-0.4a1-Linux.zip?rlkey=eltb1uc1rfkp9jbkova3jzg01&st=3e62yrib&dl=0), [Kemono download](https://c5.kemono.su/data/d0/4f/d04f1ad4a3ff34444271caa020533bdd2b0c5e89c932819743e0fa467bd6ae16.zip?f=The%20Bibites%200.4a1%20-%20Linux.zip)
 
 
 # 0.3.1
@@ -921,7 +922,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+[Google Drive](https://drive.google.com/file/d/15PcHUzE7MKDW9stTxUrMYOLqFNUp28Uv/view)
 
 0.3.0 - Windows 32x
 
@@ -1029,7 +1030,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Windows
 
-[Kemono download](https://c1.kemono.su/data/b6/51/b6518e73c069314ea00f54aa935d465ecd516910779a65e3f3d28a2df0c83aa1.bin?f=Bibites%200.3a5%20for%20windows.rar)
+[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=0), [Kemono download](https://c1.kemono.su/data/b6/51/b6518e73c069314ea00f54aa935d465ecd516910779a65e3f3d28a2df0c83aa1.bin?f=Bibites%200.3a5%20for%20windows.rar)
 
 0.3a5 - Mac
 
@@ -1110,4 +1111,4 @@ BibiteVirus alpha 1 - Windows
 
 1.1 - Windows
 
-[Kemono download](https://c1.kemono.su/data/ce/90/ce9067d2a654643940570615d9cd2a5dd11b2a7a1f9dd6aa325d463f0dda44b4.zip?f=The%20Bibites%20v1.1.zip), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.1.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/mfqbltsvbb8ommddwqexm/The-Bibites-v1.1.zip?rlkey=o6scostjqbidul9cqcmcippst&st=7ifrosrs&dl=0), [Kemono download](https://c1.kemono.su/data/ce/90/ce9067d2a654643940570615d9cd2a5dd11b2a7a1f9dd6aa325d463f0dda44b4.zip?f=The%20Bibites%20v1.1.zip), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.1.zip.torrent)
