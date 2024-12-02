@@ -27,7 +27,7 @@ Here is the list of all versions tracked with download links, if any of the link
 # 0.6.0
 0.6.0.1 - Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=0)
+[Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=0), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=0)
 
 0.6.0.1 - Windows 32x
 
