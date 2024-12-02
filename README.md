@@ -724,7 +724,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.0 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/cf/82/cf82eed6f70c4316a445dffba21b92b9e5872733e2a5239536afe9745c5c6c5c.zip?f=The%20Bibites%200.4.0%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3m4wetzc), [Torrent file]([/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent))
+[Kemono download](https://c6.kemono.su/data/cf/82/cf82eed6f70c4316a445dffba21b92b9e5872733e2a5239536afe9745c5c6c5c.zip?f=The%20Bibites%200.4.0%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/3m4wetzc), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.0%20-%20Windows%2064x.zip.torrent)
 
 0.4.0 - Windows 32x
 
