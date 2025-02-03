@@ -2,7 +2,7 @@
 
 [The Bibites Itch page](https://thebibites.itch.io/the-bibites) (free) here you can find the latest public version of the game.
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid) (as of writing this The Bibites is not released on steam. `Planned Release Date: 2024`)
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid) (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
 
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
 
