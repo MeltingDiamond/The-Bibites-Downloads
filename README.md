@@ -2,9 +2,11 @@
 
 [The Bibites Itch page](https://thebibites.itch.io/the-bibites) (free) here you can find the latest public version of the game.
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid) (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
-
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
+
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
+
+[The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in a for example a17 0.6a17)
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
 If the torrent does not download try a none torrent download. 
@@ -13,7 +15,7 @@ If you can't unzip an archive you can try [7-Zip](https://7-zip.org/)
 
 Thanks to tedeni for compiling a complete changelog for each version up to 0.6a11. Changelog can be found [here](/Changelogs/The_Bibites_All_Changelogs.txt).
 
-If you want to see other files that are released by Leo Caussan you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
+If you want to see other files that are released by Leo Caussan or Omnia Studios you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
 
 ### Quick link to specific version:
 - [0.6.0](#060)
@@ -1035,7 +1037,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Windows
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [Kemono download](https://c1.kemono.su/data/b6/51/b6518e73c069314ea00f54aa935d465ecd516910779a65e3f3d28a2df0c83aa1.bin?f=Bibites%200.3a5%20for%20windows.rar)
+[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [Kemono download](https://c1.kemono.su/data/b6/51/b6518e73c069314ea00f54aa935d465ecd516910779a65e3f3d28a2df0c83aa1.bin?f=Bibites%200.3a5%20for%20windows.rar), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20windows.rar.torrent)
 
 0.3a5 - Mac
 
