@@ -1047,11 +1047,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 BibiteVirus alpha 4 - Windows
 
-[Kemono download](https://c4.kemono.su/data/dc/59/dc592d698d1cccd3418157b00b153ac1cb360cd09bfedc53cc2d6f9660a65568.zip?f=BibitesVirus%20alpha%204.zip), [Magnet URL for torrent](https://tinyurl.com/2kbat5yf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibitesVirus%20alpha%204.zip.torrent)
+[Kemono download](https://c4.kemono.su/data/dc/59/dc592d698d1cccd3418157b00b153ac1cb360cd09bfedc53cc2d6f9660a65568.zip?f=BibitesVirus%20alpha%204.zip), [Magnet URL for torrent](https://tinyurl.com/2kbat5yf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%204.zip.torrent)
 
 BibiteVirus alpha 3 - Windows
 
-[Kemono download](https://c1.kemono.su/data/04/d5/04d5274f5700425c1a5dd05bd418dff1a5459f84966f90e9025b4c765bef3387.zip?f=BibitesVirus%20alpha%203.zip), [Magnet URL for torrent](https://tinyurl.com/yxmamuhf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibitesVirus%20alpha%203.zip.torrent)
+[Kemono download](https://c1.kemono.su/data/04/d5/04d5274f5700425c1a5dd05bd418dff1a5459f84966f90e9025b4c765bef3387.zip?f=BibitesVirus%20alpha%203.zip), [Magnet URL for torrent](https://tinyurl.com/yxmamuhf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%203.zip.torrent)
 
 BibiteVirus alpha 2 - Windows
 
