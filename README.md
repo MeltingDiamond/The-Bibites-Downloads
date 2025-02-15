@@ -6,7 +6,7 @@
 
 [The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) there is a free demo as of 15.02.2025. Either staying forever or until it releases (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
 
-[The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in a for example a17 0.6a17)
+[The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in for example a17, 0.6a17)
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
 If the torrent does not download try a none torrent download. 
@@ -36,6 +36,18 @@ Here is the list of all versions tracked with download links, if any of the link
 0.6.1a5 (The Bibites Demo) - Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
+
+0.6.1a5 (The Bibites Demo) - Windows 32x
+
+Version not missing, just has not been added
+
+0.6.1a5 (The Bibites Demo) - Mac Universal
+
+Version not missing, just has not been added
+
+0.6.1a5 (The Bibites Demo) - Linux
+
+Version not missing, just has not been added
 
 
 # 0.6.0
