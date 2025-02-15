@@ -47,7 +47,7 @@ Version not missing, just has not been added
 
 0.6.1a5 (The Bibites Demo) - Linux
 
-Version not missing, just has not been added
+[Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1)
 
 
 # 0.6.0
