@@ -4,7 +4,7 @@
 
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) there is a free demo as of 15.02.2025. Either staying forever or until it releases (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
 
 [The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in a for example a17 0.6a17)
 
@@ -18,6 +18,7 @@ Thanks to tedeni for compiling a complete changelog for each version up to 0.6a1
 If you want to see other files that are released by Leo Caussan or Omnia Studios you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
 
 ### Quick link to specific version:
+- [0.6.1](#061)
 - [0.6.0](#060)
 - [0.5.1](#051)
 - [0.5.0](#050)
@@ -31,6 +32,11 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 - [1.x](#1x)
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
+# 0.6.1
+0.6.1a5 (The Bibites Demo) - Windows 64x
+[Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
+
+
 # 0.6.0
 0.6.0.1 - Windows 64x
 
