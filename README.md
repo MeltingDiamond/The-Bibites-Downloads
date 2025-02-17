@@ -39,11 +39,11 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.1a5 (The Bibites Demo) - Windows 32x
 
-Version not missing, just has not been added
+[Dropbox Download](https://www.dropbox.com/scl/fi/774g8qew5vfdnxjmzfgb2/The-Bibites-Demo-Windows-32x.zip?rlkey=gbfeu9yechequpl8l7zr7uv93&st=lxs3vz8n&dl=1)
 
 0.6.1a5 (The Bibites Demo) - Mac Universal
 
-Version not missing, just has not been added
+[Dropbox Download](https://www.dropbox.com/scl/fi/myaolj9wevsc8gbyw3tpk/The-Bibites-Demo-Mac-Universal.zip?rlkey=hyqfjk61g3ol0k97b8b7ywk2j&st=xiprktz0&dl=1)
 
 0.6.1a5 (The Bibites Demo) - Linux
 
