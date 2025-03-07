@@ -51,19 +51,19 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.1a5 (The Bibites Demo) - Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1), [Steam Download - will download the version for your os](https://tinyurl.com/m2yhhr8b) (Might not always be 0.6.1a5, if it is not use dropbox download)
+[Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
 
 0.6.1a5 (The Bibites Demo) - Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/774g8qew5vfdnxjmzfgb2/The-Bibites-Demo-Windows-32x.zip?rlkey=gbfeu9yechequpl8l7zr7uv93&st=lxs3vz8n&dl=1), [Steam Download - will download the version for your os](https://tinyurl.com/m2yhhr8b) (Might not always be 0.6.1a5, if it is not use dropbox download)
+[Dropbox Download](https://www.dropbox.com/scl/fi/774g8qew5vfdnxjmzfgb2/The-Bibites-Demo-Windows-32x.zip?rlkey=gbfeu9yechequpl8l7zr7uv93&st=lxs3vz8n&dl=1)
 
 0.6.1a5 (The Bibites Demo) - Mac Universal
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/myaolj9wevsc8gbyw3tpk/The-Bibites-Demo-Mac-Universal.zip?rlkey=hyqfjk61g3ol0k97b8b7ywk2j&st=xiprktz0&dl=1), [Steam Download - will download the version for your os](https://tinyurl.com/m2yhhr8b) (Might not always be 0.6.1a5, if it is not use dropbox download)
+[Dropbox Download](https://www.dropbox.com/scl/fi/myaolj9wevsc8gbyw3tpk/The-Bibites-Demo-Mac-Universal.zip?rlkey=hyqfjk61g3ol0k97b8b7ywk2j&st=xiprktz0&dl=1)
 
 0.6.1a5 (The Bibites Demo) - Linux
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1), [Steam Download - will download the version for your os](https://tinyurl.com/m2yhhr8b) (Might not always be 0.6.1a5, if it is not use dropbox download)
+[Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1)
 
 
 # 0.6.0
