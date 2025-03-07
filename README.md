@@ -4,7 +4,7 @@
 
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) there is a free demo as of 15.02.2025. Either staying forever or until it releases (as of writing this The Bibites is not released on steam. `Planned Release Date: 5 Mar, 2025`)
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) there is a free demo as of 15.02.2025. Either staying forever or until it releases.
 
 [The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in for example a17, 0.6a17)
 
@@ -33,6 +33,18 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.1
+0.6.1 Hotfix - Itch Windows 64x
+[Dropbox Download](https://www.dropbox.com/scl/fi/vnm6342mp9ascvgm0h1tf/The-Bibites-0.6.1-Hotfix-Windows-64x.zip?rlkey=kfq4wpc0pnx39ib60dfmmlm9q&st=ny8ji0a3&dl=1)
+
+0.6.1 Hotfix - Itch Windows 32x
+[Dropbox Download](https://www.dropbox.com/scl/fi/p0th32417acpgb57u3d98/The-Bibites-0.6.1-Hotfix-Windows-32x.zip?rlkey=f97tng8qzz08rb2a8l5w3c1na&st=e2qy1zbu&dl=1)
+
+0.6.1 Hotfix - Itch Mac Universal
+[Dropbox Download](https://www.dropbox.com/scl/fi/yuh52n0z8i71wgmfimer5/The-Bibites-0.6.1-Hotfix-Mac-Universal.zip?rlkey=vwq0pjoltcarjmlftyhupfmvz&st=av6rsiaj&dl=1)
+
+0.6.1 Hotfix - Itch Linux
+[Dropbox Download](https://www.dropbox.com/scl/fi/wt4w4jleq9gtlow8ln4c5/The-Bibites-0.6.1-Hotfix-Linux.zip?rlkey=i070a3bhwn4962rk8wyy48tyq&st=qxa9m37n&dl=1)
+
 0.6.1a5 (The Bibites Demo) - Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1), [Steam Download - will download the version for your os](https://tinyurl.com/m2yhhr8b) (Might not always be 0.6.1a5, if it is not use dropbox download)
