@@ -49,22 +49,33 @@ Here is the list of all versions tracked with download links, if any of the link
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/wt4w4jleq9gtlow8ln4c5/The-Bibites-0.6.1-Hotfix-Linux.zip?rlkey=i070a3bhwn4962rk8wyy48tyq&st=qxa9m37n&dl=1)
 
-0.6.1a5 (The Bibites Demo) - Windows 64x
+0.6.1a5 (The Bibites Demo) - Steam Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
 
-0.6.1a5 (The Bibites Demo) - Windows 32x
+0.6.1a5 (The Bibites Demo) - Steam Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/774g8qew5vfdnxjmzfgb2/The-Bibites-Demo-Windows-32x.zip?rlkey=gbfeu9yechequpl8l7zr7uv93&st=lxs3vz8n&dl=1)
 
-0.6.1a5 (The Bibites Demo) - Mac Universal
+0.6.1a5 (The Bibites Demo) - Steam Mac Universal
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/myaolj9wevsc8gbyw3tpk/The-Bibites-Demo-Mac-Universal.zip?rlkey=hyqfjk61g3ol0k97b8b7ywk2j&st=xiprktz0&dl=1)
 
-0.6.1a5 (The Bibites Demo) - Linux
+0.6.1a5 (The Bibites Demo) - Steam Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1)
 
+0.6.1a5 (The Bibites Demo) - Steam Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
+
+0.6.1a1 - Itch Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/v69yyletn14dx9m49yg8l/The-Bibites-0.6.1a1-Windows-64x.zip?rlkey=16atytrtgknbbq62sj9o6gfgh&st=hjd3mv8n&dl=1)
+
+0.6.1a1 - Itch Windows 32x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/yyrqeyuf20yiw8ysf3cpm/The-Bibites-0.6.1a1-Windows-32x.zip?rlkey=sr5xu3wux0r0aqlmzbdtezlmp&st=nplue7x7&dl=1)
 
 # 0.6.0
 0.6.0.1 - Windows 64x
@@ -1068,7 +1079,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a6 - Linux
 
-[Kemono download](https://c1.kemono.su/data/57/3e/573e1cce9984684ad31897c9cb38960828fc404a7d8b174b62601a273976aa46.zip?f=The%20Bibites%200.3a6%20-%20Linux.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/05r8h12t5u8udk7xm7c1g/The-Bibites-0.3a6-Linux.zip?rlkey=xi839icchdcs9rci8tc1gxu8e&st=s0tsahxj&dl=1), [Kemono download](https://c1.kemono.su/data/57/3e/573e1cce9984684ad31897c9cb38960828fc404a7d8b174b62601a273976aa46.zip?f=The%20Bibites%200.3a6%20-%20Linux.zip)
 
 0.3a5 - Windows
 
