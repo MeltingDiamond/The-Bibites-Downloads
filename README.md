@@ -123,11 +123,11 @@ missing because I am lazy. if you have this version please share a download link
 
 0.6.1a1 - Itch Mac Universal
 
-missing because I am lazy. if you have this version please share a download link.
+[Dropbox Download](https://www.dropbox.com/scl/fi/xql0z1yjz1xvndduc8g69/The-Bibites-0.6.1a1-Mac-Universal.zip?rlkey=f56iwd3o1a2cgo45dcexixhhg&st=kgw0m480&dl=1), [Kemono download](https://n2.kemono.su/data/9a/63/9a63ee9de84e40d115ce9f544d32f32c1513d7e87cb570ee1b8dde5368d72ce5.zip?f=The+Bibites+0.6.1a1+-+Mac+Universal.zip)
 
 0.6.1a1 - Itch Linux
 
-missing because I am lazy. if you have this version please share a download link.
+[Dropbox Download](https://www.dropbox.com/scl/fi/3vmkz5xh0uqr7ey7i6jj7/The-Bibites-0.6.1a1-Linux.zip?rlkey=oco49zx7dm4ii6l33891rvo7a&st=380fw14s&dl=1), [Kemono download](https://n2.kemono.su/data/6a/0b/6a0b7c1a9b95a616c2fee1661d391ac98b25820ab5edd7d98fcadba9ab493907.zip?f=The+Bibites+0.6.1a1+-+Linux.zip)
 
 # 0.6.0
 0.6.0.1 - Windows 64x
