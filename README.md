@@ -65,9 +65,53 @@ Here is the list of all versions tracked with download links, if any of the link
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1)
 
-0.6.1a5 (The Bibites Demo) - Steam Windows 64x
+0.6.1a4 - Itch Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a4 - Itch Windows 32x
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a4 - Itch Mac Universal
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a4 - Itch Linux
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a3 - Itch Windows 64x
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a3 - Itch Windows 32x
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a3 - Itch Mac Universal
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a3 - Itch Linux
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a2 - Itch Windows 64x
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a2 - Itch Windows 32x
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a2 - Itch Mac Universal
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a2 - Itch Linux
+
+missing because I am lazy. if you have this version please share a download link.
 
 0.6.1a1 - Itch Windows 64x
 
@@ -76,6 +120,14 @@ Here is the list of all versions tracked with download links, if any of the link
 0.6.1a1 - Itch Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yyrqeyuf20yiw8ysf3cpm/The-Bibites-0.6.1a1-Windows-32x.zip?rlkey=sr5xu3wux0r0aqlmzbdtezlmp&st=nplue7x7&dl=1)
+
+0.6.1a1 - Itch Mac Universal
+
+missing because I am lazy. if you have this version please share a download link.
+
+0.6.1a1 - Itch Linux
+
+missing because I am lazy. if you have this version please share a download link.
 
 # 0.6.0
 0.6.0.1 - Windows 64x
