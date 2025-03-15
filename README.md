@@ -18,6 +18,7 @@ Thanks to tedeni for compiling a complete changelog for each version up to 0.6a1
 If you want to see other files that are released by Leo Caussan or Omnia Studios you can [click here](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/Other%20Files)
 
 ### Quick link to specific version:
+- [Modified versions](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/modified%20versions)
 - [0.6.1](#061)
 - [0.6.0](#060)
 - [0.5.1](#051)
