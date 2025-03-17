@@ -100,19 +100,19 @@ missing because I am lazy. if you have this version please share a download link
 
 0.6.1a2 - Itch Windows 64x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n1.kemono.su/data/c6/79/c67901d98771b5c268f47c85a671b6785a5cfaf0d95d98e563d2cf090b4f3e6c.zip?f=The+Bibites+0.6.1a2+-+Windows+64x.zip)
 
 0.6.1a2 - Itch Windows 32x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n3.kemono.su/data/12/06/120631ff143d75bae88df268dd5db21a0c04a7f1660e779a55709aefc5d6b7d6.zip?f=The+Bibites+0.6.1a2+-+Windows+32x.zip)
 
 0.6.1a2 - Itch Mac Universal
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n4.kemono.su/data/9f/ed/9fed00897dca54153533415cf3bffd8579e33b47912264bd14c9146c0b8f7561.zip?f=The+Bibites+0.6.1a2+-+Mac+Universal.zip)
 
 0.6.1a2 - Itch Linux
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n2.kemono.su/data/52/9b/529b798757d40cd73902de1e0d5d22b0545ab7d6263a17a84274d386e9272934.zip?f=The+Bibites+0.6.1a2+-+Linux.zip)
 
 0.6.1a1 - Itch Windows 64x
 
