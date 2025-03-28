@@ -68,35 +68,35 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.1a4 - Itch Windows 64x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n4.kemono.su/data/95/45/95456b58780ea9e5f1644aa137a1ec2c1b69420a39877173531f3e45e7f37e5d.zip?f=The+Bibites+0.6.1a4+-+Windows+64x.zip)
 
 0.6.1a4 - Itch Windows 32x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n3.kemono.su/data/74/24/7424cb556ff31ffc101a73c3e71c71ae79ec39bfe0849ca8cc8d982b361755e6.zip?f=The+Bibites+0.6.1a4+-+Windows+32x.zip)
 
 0.6.1a4 - Itch Mac Universal
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n1.kemono.su/data/fc/38/fc381317865d01cd2596402edf76c3c3c30c329d13b3b3d325cf7b68da3ae6eb.zip?f=The+Bibites+0.6.1a4+-+Mac+Universal.zip)
 
 0.6.1a4 - Itch Linux
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n1.kemono.su/data/8c/f7/8cf756fad80bd1e7d6392a67cb0fa0fe8ca856c63f0138cdc3fbe218360a064b.zip?f=The+Bibites+0.6.1a4+-+Linux.zip)
 
 0.6.1a3 - Itch Windows 64x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n2.kemono.su/data/71/f2/71f27a999eca51f07daa09309e8165ee415fcadccc5a4a8cc3f65d78236dcd6e.zip?f=The+Bibites+0.6.1a3+-+Windows+64x.zip)
 
 0.6.1a3 - Itch Windows 32x
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n1.kemono.su/data/d8/07/d8071af3b9d3af287b1c3026a6378e667848ba1596dc089115ecf0866659f235.zip?f=The+Bibites+0.6.1a3+-+Windows+32x.zip)
 
 0.6.1a3 - Itch Mac Universal
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n2.kemono.su/data/29/c1/29c1a297512bff86d722a46250efa7e46fba85453165a8a3a4a35f7c0610bc4e.zip?f=The+Bibites+0.6.1a3+-+Mac+Universal.zip)
 
 0.6.1a3 - Itch Linux
 
-missing because I am lazy. if you have this version please share a download link.
+[Kemono download](https://n1.kemono.su/data/b0/9e/b09ec52ae480d0b1d9c0f5c5a03cecb3be88f9096256db16e01e51d2c61a2d29.zip?f=The+Bibites+0.6.1a3+-+Linux.zip)
 
 0.6.1a2 - Itch Windows 64x
 
