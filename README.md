@@ -50,6 +50,38 @@ Here is the list of all versions tracked with download links, if any of the link
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/wt4w4jleq9gtlow8ln4c5/The-Bibites-0.6.1-Hotfix-Linux.zip?rlkey=i070a3bhwn4962rk8wyy48tyq&st=qxa9m37n&dl=1)
 
+0.6.1a7 - Itch Windows 64x
+
+Missing. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a7 - Itch Windows 32x
+
+Missing. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a7 - Itch Mac Universal
+
+Missing. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a7 - Itch Linux
+
+Missing. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a6 (The Bibites Demo) - Steam Windows 64x
+
+Not sure if this was downloadable. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a6 (The Bibites Demo) - Steam Windows 32x
+
+Not sure if this was downloadable. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a6 (The Bibites Demo) - Steam Mac Universal
+
+Not sure if this was downloadable. If you got this version please message or ping @melting_diamond on discord.
+
+0.6.1a6 (The Bibites Demo) - Steam Linux
+
+Not sure if this was downloadable. If you got this version please message or ping @melting_diamond on discord.
+
 0.6.1a5 (The Bibites Demo) - Steam Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yt0qd3huau8i4bxbt0813/The-Bibites-Demo-Windows-64x.zip?rlkey=klej7tfc7tlc7xs6jmplcvclm&st=menhoo0i&dl=1)
