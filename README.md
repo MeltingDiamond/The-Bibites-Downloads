@@ -1067,7 +1067,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 64x
 
-[Google Drive](https://drive.google.com/file/d/15PcHUzE7MKDW9stTxUrMYOLqFNUp28Uv/view)
+[Google Drive](https://drive.google.com/file/d/15PcHUzE7MKDW9stTxUrMYOLqFNUp28Uv/view), [Dropbox Download](https://www.dropbox.com/scl/fi/h0cn2yz4ch5h1l7h487qy/The-Bibites-0.3.zip?rlkey=6t058rfifhuvdnh2jzyyognma&st=v1283tlq&dl=1)
 
 0.3.0 - Windows 32x
 
