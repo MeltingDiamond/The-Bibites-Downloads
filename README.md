@@ -4,7 +4,7 @@
 
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) there is a free demo as of 15.02.2025. Either staying forever or until it releases.
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) this is the same as the Itch version, but it includes steam integration (workshop).
 
 [The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in for example a17, 0.6a17)
 
