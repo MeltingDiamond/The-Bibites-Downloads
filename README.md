@@ -35,8 +35,10 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.2
-0.6.2 is beeing worked on: https://www.patreon.com/c/thebibites/posts <br>
+0.6.2 is being worked on: https://www.patreon.com/c/thebibites/posts <br>
 If you pay for patreon you can download it using the links below
+
+[0.6.2a2 - patreon](https://www.patreon.com/posts/bibites-0-6-2-2-129769972)
 
 [0.6.2a1 - patreon](https://www.patreon.com/posts/bibites-0-6-2-1-125951593) 
 
