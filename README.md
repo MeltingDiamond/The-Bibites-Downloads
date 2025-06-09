@@ -45,7 +45,7 @@ If you pay for patreon you can download it using the links below
 # 0.6.1
 0.6.1 Hotfix - Itch Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=123811623&m=432807471), [Dropbox Download](https://www.dropbox.com/scl/fi/vnm6342mp9ascvgm0h1tf/The-Bibites-0.6.1-Hotfix-Windows-64x.zip?rlkey=kfq4wpc0pnx39ib60dfmmlm9q&st=ny8ji0a3&dl=1)
+[Free Patreon download](https://www.patreon.com/file?h=123811623&m=432807471), [Dropbox Download](https://www.dropbox.com/scl/fi/vnm6342mp9ascvgm0h1tf/The-Bibites-0.6.1-Hotfix-Windows-64x.zip?rlkey=kfq4wpc0pnx39ib60dfmmlm9q&st=ny8ji0a3&dl=1), [Magnet URL for torrent](https://tinyurl.com/4szwehm4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.1%20Hotfix%20-%20Windows%2064x.zip.torrent)
 
 0.6.1 Hotfix - Itch Windows 32x
 
