@@ -35,13 +35,53 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.2
-0.6.2 is being worked on: https://www.patreon.com/c/thebibites/posts <br>
-If you pay for patreon you can download it using the links below
+0.6.2 - Itch Windows 64x
 
-[0.6.2a2 - patreon](https://www.patreon.com/posts/bibites-0-6-2-2-129769972)
+[Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789844)
 
-[0.6.2a1 - patreon](https://www.patreon.com/posts/bibites-0-6-2-1-125951593) 
+0.6.2 - Itch Windows 32x
 
+[Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789836)
+
+0.6.2 - Itch Mac Universal
+
+[Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789847)
+
+0.6.2 - Itch Linux
+
+[Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789839)
+
+0.6.2a2 - Itch Windows 64x
+
+[Kemono download](https://n3.kemono.su/data/6c/96/6c964d7c891a1fef61ce6e2f85b4f2f964bee24243a6060d27bc4f66fc1e27c3.bin?f=The+Bibites+0.6.2a2+-+Windows+64x.zip)
+
+0.6.2a2 - Itch Windows 32x
+
+[Kemono download](https://n2.kemono.su/data/a5/4a/a54a5c0322ba102ca859c00f61ac6ca3683d576467ea3ea222973ae700a12cad.bin?f=The+Bibites+0.6.2a2+-+Windows+32x.zip)
+
+0.6.2a2 - Itch Mac Universal
+
+[Kemono download](https://n1.kemono.su/data/d1/e9/d1e9563bdf401c0b555f24264eb58bb5d9a49981fd65536ed3723bf4e21fd82a.bin?f=The+Bibites+0.6.2a2+-+Mac+Universal.zip)
+
+0.6.2a2 - Itch Linux
+
+[Kemono download](https://n3.kemono.su/data/da/e4/dae44f7440ffd21e5a4ff2ab22706ed1c6139a806c7c7fcacd10ecfab9f69674.bin?f=The+Bibites+0.6.2a2+-+Linux.zip)
+
+0.6.2a1 - Itch Windows 64x
+
+[Kemono download](https://n3.kemono.su/data/e3/48/e348a49854bdfe59cf3632a7d99415a4eb062494ae305e1af106014dff116a02.bin?f=The+Bibites+0.6.2a1+-+Windows+64x.zip) 
+
+0.6.2a1 - Itch Windows 32x
+
+[Kemono download](https://n3.kemono.su/data/84/c3/84c3a89832297ffd513e1ecf8268e8fd1ffaa42cc46de651d487f9f1fcd7b650.bin?f=The+Bibites+0.6.2a1+-+Windows+32x.zip)
+
+0.6.2a1 - Itch Mac Universal
+
+[Kemono download](https://n1.kemono.su/data/d6/4d/d64df4f4422efa72a5f7cb058c4bb61caac4e302618428952395381019a6eb55.bin?f=The+Bibites+0.6.2a1+-+Mac+Universal.zip)
+
+0.6.2a1 - Itch Linux
+
+[Kemono download](https://n1.kemono.su/data/49/3a/493a3f1902f7ebae8a467f1b9492135493054ae24f6f94414035efc772f1ae9c.bin?f=The+Bibites+0.6.2a1+-+Linux.zip)
 # 0.6.1
 0.6.1 Hotfix - Itch Windows 64x
 
@@ -61,19 +101,19 @@ If you pay for patreon you can download it using the links below
 
 0.6.1a7 - Itch Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Kemono download](https://n3.kemono.su/data/64/91/64915e07c7570e06dde644d81f9c6f10ad0bc05c9c7fec735e150bde609d2382.bin?f=The+Bibites+0.6.1a7+-+Windows+64x.zip)
 
 0.6.1a7 - Itch Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Kemono download](https://n2.kemono.su/data/ac/da/acda1eb6e627932de9fc7faaddfd0f0c4514fd3b76453d4e0f50b8a587694e6a.bin?f=The+Bibites+0.6.1a7+-+Windows+32x.zip)
 
 0.6.1a7 - Itch Mac Universal
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Kemono download](https://n3.kemono.su/data/3d/cd/3dcdfba3c83f460de7bd7671568107e432af363e60f7f442efe5246639af220a.bin?f=The+Bibites+0.6.1a7+-+Mac+Universal.zip)
 
 0.6.1a7 - Itch Linux
 
-Missing. If you got this version please message or ping @melting_diamond on discord.
+[Kemono download](https://n3.kemono.su/data/21/71/217159d7f593133511024447abb288c41f28ec18943b050c883457ad7c432460.bin?f=The+Bibites+0.6.1a7+-+Linux.zip)
 
 0.6.1a6 (The Bibites Demo) - Steam Windows 64x
 
