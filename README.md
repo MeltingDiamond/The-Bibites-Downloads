@@ -35,6 +35,22 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.2
+0.6.2.1 - Itch Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/3d6ryf8wcmxmjvm1mg4d2/The-Bibites-0.6.2.1-Windows-64x.zip?rlkey=6i19c57f92eyc9abq1mywjec9&st=7bwg1z4w&dl=1)
+
+0.6.2.1 - Itch Windows 32x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/juxur8frvpqv17sgfpohf/The-Bibites-0.6.2.1-Windows-32x.zip?rlkey=sllcjpt7dy4j394dutbsuh3e5&st=dmxzyc13&dl=1)
+
+0.6.2.1 - Itch Mac Universal
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/bk8wimm5ufpdnqfidzq89/The-Bibites-0.6.2.1-Mac-Universal.zip?rlkey=7usuij1lwzihnm3pk6i9dxwwp&st=yyskpl0b&dl=1)
+
+0.6.2.1 - Itch Linux
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/cjcffp44jccga6pnutia2/The-Bibites-0.6.2.1-Linux.zip?rlkey=lcfifcurbdz6xr18xx5ljy5b5&st=hcyxonxb&dl=1)
+
 0.6.2 - Itch Windows 64x
 
 [Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789844)
