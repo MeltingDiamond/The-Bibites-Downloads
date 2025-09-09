@@ -19,6 +19,7 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 ### Quick link to specific version:
 - [Modified versions](https://github.com/MeltingDiamond/The-Bibites-Downloads/tree/main/modified%20versions)
+- [0.6.3](#063)
 - [0.6.2](#062)
 - [0.6.1](#061)
 - [0.6.0](#060)
@@ -34,6 +35,10 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 - [1.x](#1x)
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
+# 0.6.3
+For people paying for alpha access<br>
+[0.6.3a1](https://www.patreon.com/posts/bibites-0-6-3-1-136954990)
+
 # 0.6.2
 0.6.2.1 - Itch Windows 64x
 
