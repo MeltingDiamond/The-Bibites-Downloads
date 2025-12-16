@@ -1135,7 +1135,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 32x
 
-[Softonic download](https://the-bibites.en.softonic.com/download), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
+[Softonic download](https://en.softonic.com/download/the-bibites/windows/post-download/v/0.3.0?dt=internalDownload), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
 
 0.3.0 - Mac Universal
 
