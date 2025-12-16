@@ -1312,7 +1312,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha - Linux
 
-[Kemono download](https://c4.kemono.su/data/a7/8d/a78dfbe213dcc953d85a9873127d2a64f6dd45f97be9edef9371f6965cf8c9f1.zip?f=The%20Bibites%20Linux%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/t3g1n7za5xtd5n8ll9nsg/The-Bibites-Linux-1.3-alpha.zip?rlkey=2sp2winr4lcv4rd32iim4qln9&st=j1a3nvus&dl=1), [Magnet URL for torrent](https://tinyurl.com/37c6evvy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha.zip.torrent)
 
 1.2 - Windows and Mac
 
