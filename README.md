@@ -1268,7 +1268,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha3 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/aa/f4/aaf4a4f6af1e158bfe431d9e77695ca121b7f7f60f24769e776977d0ca35e8e8.zip?f=The%20Bibites%20x64%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/3m9ypzs2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha3.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/m86zj6ynj2tuk0r1qmfnj/The-Bibites-x64-1.3-alpha3.zip?rlkey=p9wke4p1iflgegu9omah2rvrj&st=ovo2h2jf&dl=1), [Magnet URL for torrent](https://tinyurl.com/3m9ypzs2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Windows 32x
 
