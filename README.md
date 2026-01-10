@@ -1309,7 +1309,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha - Mac
 
-[Kemono download](https://c1.kemono.su/data/a5/02/a502b71c5dd40115eb590e9e9191e8dc960e350573dcd1cb8dc11ef9a761b0e3.zip?f=The%20Bibites%20Mac%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=0), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Linux
 
@@ -1317,8 +1317,8 @@ BibiteVirus alpha 1 - Windows
 
 1.2 - Windows and Mac
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/97pgbbjw6ffprtloffrbw/The-Bibites-v1.2.zip?rlkey=7cs4trb1cwerh4kv9pwl13239&st=5qjay3uc&dl=1), [Kemono download](https://c5.kemono.su/data/fc/75/fc75581f8d74b60872c5bd7a8c35b07824d148c41b66e5534c1725ad2c0961fb.zip?f=The%20Bibites%20v1.2.zip), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.2.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/97pgbbjw6ffprtloffrbw/The-Bibites-v1.2.zip?rlkey=7cs4trb1cwerh4kv9pwl13239&st=5qjay3uc&dl=1), [Magnet URL for torrent](https://tinyurl.com/2u27pafe), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.2.zip.torrent)
 
 1.1 - Windows
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/mfqbltsvbb8ommddwqexm/The-Bibites-v1.1.zip?rlkey=o6scostjqbidul9cqcmcippst&st=7ifrosrs&dl=1), [Kemono download](https://c1.kemono.su/data/ce/90/ce9067d2a654643940570615d9cd2a5dd11b2a7a1f9dd6aa325d463f0dda44b4.zip?f=The%20Bibites%20v1.1.zip), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.1.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/mfqbltsvbb8ommddwqexm/The-Bibites-v1.1.zip?rlkey=o6scostjqbidul9cqcmcippst&st=7ifrosrs&dl=1), [Magnet URL for torrent](https://tinyurl.com/4chp8ea4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20v1.1.zip.torrent)
