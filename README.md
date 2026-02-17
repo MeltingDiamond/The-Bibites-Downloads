@@ -37,6 +37,7 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.3
 For people paying for alpha access<br>
+[0.6.3a4 (rc)](https://www.patreon.com/posts/bibites-0-6-3-151000694)
 [0.6.3a3](https://www.patreon.com/posts/bibites-0-6-3-3-145548544)
 [0.6.3a2](https://www.patreon.com/posts/bibites-0-6-3-2-139822733)
 [0.6.3a1](https://www.patreon.com/posts/bibites-0-6-3-1-136954990)
