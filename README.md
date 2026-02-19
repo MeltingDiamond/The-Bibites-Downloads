@@ -600,7 +600,7 @@ Not sure if this was downloadable. If you got this version please message or pin
 
 0.5.1a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/15/46/1546ff1144030ccafb683f2e10b511a6760702d0961f3c091a2cd939b43d9b7b.zip?f=The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/0xr0ljq13vp7lmeo8iijm/The-Bibites-0.5.1a5-Mac-Universal.zip?rlkey=pkjgpqpennknvswwl0aneoo7w&st=o9zjcc5z&dl=0), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a5 - Linux
 
