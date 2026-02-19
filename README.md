@@ -1302,11 +1302,11 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/40/63/4063a740bfcb6796b2cfee9cfc2d4afb5e95fedec0c0124ef06acd11789de337.zip?f=The%20Bibites%2064x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/2vwh5u74s655yt5k7em7h/The-Bibites-64x-1.3-alpha.zip?rlkey=xx15714lufcd0ea7a84ug9rpp&st=x485d063&dl=0), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Windows 32x
 
-[Kemono download](https://c2.kemono.su/data/13/18/1318d357ffd503cb26f92dfcb852835cce274b5cde97f6fa5c7d15d00f74c231.zip?f=The%20Bibites%2032x%201.3%20alpha.zip), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/819ezsl4y1yi5tk6px7eo/The-Bibites-32x-1.3-alpha.zip?rlkey=zig9bnqtpqk3w008b0yttzwp9&st=7s053j6s&dl=0), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Mac
 
