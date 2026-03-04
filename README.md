@@ -36,11 +36,85 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.3
-For people paying for alpha access<br>
-[0.6.3a4 (rc)](https://www.patreon.com/posts/bibites-0-6-3-151000694)
-[0.6.3a3](https://www.patreon.com/posts/bibites-0-6-3-3-145548544)
-[0.6.3a2](https://www.patreon.com/posts/bibites-0-6-3-2-139822733)
-[0.6.3a1](https://www.patreon.com/posts/bibites-0-6-3-1-136954990)
+0.6.3 - Itch Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/edathttt0hlagc5ri0jx4/The-Bibites-0.6.3-Windows-64x.zip?rlkey=92z3m3f4jgqf2qtm79de8n3n2&st=9pf6il1c&dl=1)
+
+0.6.3 - Itch Windows 32x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/n3hjm28fkr6t44syu5fqs/The-Bibites-0.6.3-Windows-32x.zip?rlkey=fpix6avd9h96u5dflc29c5pc3&st=cgg2jm3g&dl=1)
+
+0.6.3 - Itch Mac Universal
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/8cbb3dxxuddub4cn3cfmn/The-Bibites-0.6.3-Mac-Universal.zip?rlkey=mpkymtl5i3wjcffrj0akta64x&st=nzlsdh3k&dl=1)
+
+0.6.3 - Itch Linux
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/0io1q8p9kceqfrbfjec1g/The-Bibites-0.6.3-Linux.zip?rlkey=y6zqrqfw2mkntq6ds2hw3ezpq&st=9ctatjwp&dl=1)
+
+0.6.3 alpha 4 - Itch Windows 64x
+
+[Dropbox Download]()
+
+0.6.3 alpha 4 - Itch Windows 32x
+
+[Dropbox Download]()
+
+0.6.3 alpha 4 - Itch Mac Universal
+
+[Dropbox Download]()
+
+0.6.3 alpha 4 - Itch Linux
+
+[Dropbox Download]()
+
+0.6.3 alpha 3 - Itch Windows 64x
+
+[Dropbox Download]()
+
+0.6.3 alpha 3 - Itch Windows 32x
+
+[Dropbox Download]()
+
+0.6.3 alpha 3 - Itch Mac Universal
+
+[Dropbox Download]()
+
+0.6.3 alpha 3 - Itch Linux
+
+[Dropbox Download]()
+
+0.6.3 alpha 2 - Itch Windows 64x
+
+[Dropbox Download]()
+
+0.6.3 alpha 2 - Itch Windows 32x
+
+[Dropbox Download]()
+
+0.6.3 alpha 2 - Itch Mac Universal
+
+[Dropbox Download]()
+
+0.6.3 alpha 2 - Itch Linux
+
+[Dropbox Download]()
+
+0.6.3 alpha 1 - Itch Windows 64x
+
+[Dropbox Download]()
+
+0.6.3 alpha 1 - Itch Windows 32x
+
+[Dropbox Download]()
+
+0.6.3 alpha 1 - Itch Mac Universal
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/q7k6l81nc5zjfcvwga3c4/The-Bibites-0.6.3-Alpha-1-Mac-Universal.zip?rlkey=9c9kx9emo9ajkcd39qedxpotg&st=a8nvyei2&dl=1)
+
+0.6.3 alpha 1 - Itch Linux
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/33ftpzdx5befnghh2vgup/The-Bibites-0.6.3-Alpha-1-Linux.zip?rlkey=vnwfcwbcwjze27ajh81qhsb6b&st=3r9fyto5&dl=1)
 
 # 0.6.2
 0.6.2.1 - Itch Windows 64x
@@ -600,7 +674,7 @@ Not sure if this was downloadable. If you got this version please message or pin
 
 0.5.1a5 - Mac Universal
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/0xr0ljq13vp7lmeo8iijm/The-Bibites-0.5.1a5-Mac-Universal.zip?rlkey=pkjgpqpennknvswwl0aneoo7w&st=o9zjcc5z&dl=0), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/0xr0ljq13vp7lmeo8iijm/The-Bibites-0.5.1a5-Mac-Universal.zip?rlkey=pkjgpqpennknvswwl0aneoo7w&st=o9zjcc5z&dl=1), [Magnet URL for torrent](https://tinyurl.com/u2xcv9cy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1a5%20-%20Mac%20Universal.zip.torrent)
 
 0.5.1a5 - Linux
 
@@ -1274,43 +1348,43 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha3 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/70/ee/70eea38c06d5ad77c032ed4db66b1498110eb57a29db6e322b62f05c8ab58e49.zip?f=The%20Bibites%20x32%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/5psvj6wz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha3.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/98in279gxzvuyhc2zmbkz/The-Bibites-x32-1.3-alpha3.zip?rlkey=s0c5c4io4ijqa1qk91j8f4sge&st=sxrj0bvc&dl=1), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Mac
 
-[Kemono download](https://c4.kemono.su/data/bc/b8/bcb8e7c84ef73e6317cf972f63612ab61badd36477dacd6b45d8d0a711716871.zip?f=The%20Bibites%20Mac%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/2eywjpb9), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha3.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/wusgtnvgpr1npmrzrhtvh/The-Bibites-Mac-1.3-alpha3.zip?rlkey=6727081gjxgyag41vvgk6lk1f&st=od33a44w&dl=1), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha3.zip.torrent)
 
 1.3 alpha3 - Linux
 
-[Kemono download](https://c6.kemono.su/data/e1/b0/e1b0780e9255867bade6e6fc4cd22bb8b30ef35fa1fcc06d9bd6d7ed9f18e888.zip?f=The%20Bibites%20Linux%201.3%20alpha3.zip), [Magnet URL for torrent](https://tinyurl.com/mryyzkr4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha3.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/9xoybo59gv5dqam8piiyl/The-Bibites-Linux-1.3-alpha3.zip?rlkey=n3jbdd54viq5zaa7zcj3sz047&st=6b5dof22&dl=1), [Magnet URL for torrent](https://tinyurl.com/mryyzkr4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha3.zip.torrent)
 
 1.3 alpha2 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/4c/75/4c75c879b425002743695b61e4c670eb7947adc016cf623aac8d01e82ca01966.zip?f=The%20Bibites%20x64%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/y7ndc9px), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha2.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/olbtiwodjfu637dtyl4pv/The-Bibites-x64-1.3-alpha2.zip?rlkey=1kg5c0annbc19txkz2mlepyfo&st=x0hrhc98&dl=1), [Magnet URL for torrent](https://tinyurl.com/y7ndc9px), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x64%201.3%20alpha2.zip.torrent)
 
 1.3 alpha2 - Windows 32x
 
-[Kemono download](https://c4.kemono.su/data/8f/8d/8f8db2a86af7aa0215ba4dac7e93aac8c2a4b3a3554b09e6bf94f20d90cc2d00.zip?f=The%20Bibites%20x32%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/mt5m43jw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha2.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/ql4ycy4a144lbbszx8f6v/The-Bibites-x32-1.3-alpha2.zip?rlkey=2rxekuom16tpj6w2d8vmnxf1n&st=si4ncwlu&dl=1), [Magnet URL for torrent](https://tinyurl.com/mt5m43jw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20x32%201.3%20alpha2.zip.torrent)
 
 1.3 alpha2 - Mac
 
-[Kemono download](https://c1.kemono.su/data/26/f2/26f21e5ce4b08cc029b0cf74bbd62334cdc09c451cc073b52d5380f0c493925b.zip?f=The%20Bibites%20Mac%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/5enrrjmx), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%201.3%20alpha2%20-%20Mac.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/530k8zdyog6j1lpob5o3r/The-Bibites-Mac-1.3-alpha2.zip?rlkey=h5k7h6gk0h5i1ocbmgbo1d09m&st=x974qcou&dl=1), [Magnet URL for torrent](https://tinyurl.com/5enrrjmx), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%201.3%20alpha2%20-%20Mac.zip.torrent)
 
 1.3 alpha2 - Linux
 
-[Kemono download](https://c6.kemono.su/data/aa/ef/aaef2d35a89697dde92261c65e04ae9d3a5c11284883c7609800161b0a419ab5.zip?f=The%20Bibites%20Linux%201.3%20alpha2.zip), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha2.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/vuq7pv3kxwvqwblsuuzpv/The-Bibites-Linux-1.3-alpha2.zip?rlkey=gu519yjmcsc1ij5o3vph016jl&st=y1yz8wcw&dl=1), [Magnet URL for torrent](https://tinyurl.com/3mwj7unp), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Linux%201.3%20alpha2.zip.torrent)
 
 1.3 alpha - Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/2vwh5u74s655yt5k7em7h/The-Bibites-64x-1.3-alpha.zip?rlkey=xx15714lufcd0ea7a84ug9rpp&st=x485d063&dl=0), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/2vwh5u74s655yt5k7em7h/The-Bibites-64x-1.3-alpha.zip?rlkey=xx15714lufcd0ea7a84ug9rpp&st=x485d063&dl=1), [Magnet URL for torrent](https://tinyurl.com/mrx2jakw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2064x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/819ezsl4y1yi5tk6px7eo/The-Bibites-32x-1.3-alpha.zip?rlkey=zig9bnqtpqk3w008b0yttzwp9&st=7s053j6s&dl=0), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/819ezsl4y1yi5tk6px7eo/The-Bibites-32x-1.3-alpha.zip?rlkey=zig9bnqtpqk3w008b0yttzwp9&st=7s053j6s&dl=1), [Magnet URL for torrent](https://tinyurl.com/yck6nyz2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%2032x%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Mac
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=0), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=1), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Linux
 
