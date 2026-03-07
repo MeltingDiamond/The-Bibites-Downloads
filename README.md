@@ -1315,7 +1315,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Windows
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20windows.rar.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBR_q944P_6SIAxIHylyKqtAetsltBvovo_-1B2GIYLiok?e=UU3ltE), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20windows.rar.torrent)
 
 0.3a5 - Mac
 
