@@ -102,11 +102,11 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.3 alpha 1 - Itch Windows 64x
 
-[Dropbox Download]()
+[Dropbox Download](https://www.dropbox.com/scl/fi/0v5z7yfphowbz936wvyhc/The-Bibites-0.6.3-Alpha-1-Windows-64x.zip?rlkey=qm2xyfi29o0mhhupyggdeeg80&st=0a87fsop&dl=1)
 
 0.6.3 alpha 1 - Itch Windows 32x
 
-[Dropbox Download]()
+[Dropbox Download](https://www.dropbox.com/scl/fi/9xb35abd1zkynh5agqf5u/The-Bibites-0.6.3-Alpha-1-Windows-32x.zip?rlkey=aa7d9pm4bted45fksk0puwl4h&st=rt3imrlt&dl=1)
 
 0.6.3 alpha 1 - Itch Mac Universal
 
@@ -312,7 +312,7 @@ Not sure if this was downloadable. If you got this version please message or pin
 # 0.6.0
 0.6.0.1 - Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982341), [Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=1), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=1)
+[Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982341), [Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDbgVhkpT0WQbMW-u7LgaHvAQGINpd7iejoBYznivMyTeM?e=361Sss), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=1)
 
 0.6.0.1 - Windows 32x
 
@@ -923,7 +923,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=1), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
+[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBz_x0_2-oGTq3UocCmgvbwAeqWzvfGqMs-19GoONDwji4?e=rMExAT), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
 
 0.4.2 - Windows 32x
 
@@ -990,7 +990,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.1 - Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=64392642&m=146860838), [Dropbox Download](https://www.dropbox.com/scl/fi/6f3zq6vw6l317zgu3hyby/The-Bibites-0.4.1-Windows-64x.zip?rlkey=7f5908947spsj77uzblny84i6&st=r99xr3im&dl=1), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
+[Free Patreon download](https://www.patreon.com/file?h=64392642&m=146860838), [Dropbox Download](https://www.dropbox.com/scl/fi/6f3zq6vw6l317zgu3hyby/The-Bibites-0.4.1-Windows-64x.zip?rlkey=7f5908947spsj77uzblny84i6&st=r99xr3im&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCrNdLUxRV3SbzTaNWXMsB4AWI1DS6C_ykYzvh26aXe4dc?e=2HOlyy), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
 
 0.4.1 - Windows 32x
 
@@ -1303,11 +1303,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a6 - Windows 32x
 
-[Kemono download](https://c4.kemono.su/data/4f/1b/4f1bb02117b0ac4972cd8157a4b73ea55ffd5e4e614b648d9deba58648410b6b.zip?f=The%20Bibites%200.3a6%20-%20Windows%2032x.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/02woo8a92o079hwwab6l4/The-Bibites-0.3a6-Windows-32x.zip?rlkey=srcosx4f0dakoesrwvz5q5vfi&st=z1g0muq5&dl=1)
 
 0.3a6 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/7b/fa/7bfa1e8676b0f7fe131297998d9055ae46caf0a8a09622afffb9c1b5ab122993.zip?f=The%20Bibites%200.3a6%20-%20Mac%20Universal.zip)
+[Dropbox Download](https://www.dropbox.com/scl/fi/nx7hw7h35ozxq7kem36x8/The-Bibites-0.3a6-Mac-Universal.zip?rlkey=034l0zvhgl184rnst9rv3ta2g&st=kkk9oyac&dl=1)
 
 0.3a6 - Linux
 
@@ -1319,25 +1319,25 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Mac
 
-[Kemono download](https://c4.kemono.su/data/e2/26/e226e45b11fb6757ca9070048e515abea4d646755ae2eea15c2e73211ccfe1c1.zip?f=Bibites%200.3a5%20for%20mac.zip), [Magnet URL for torrent](https://tinyurl.com/3kwnntas), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20mac.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/yqbymq0ehuts5fvodw74e/Bibites-0.3a5-for-mac.zip?rlkey=2rt1j8cjke75kvh4b1cfplcml&st=ee3qvtg2&dl=1), [Magnet URL for torrent](https://tinyurl.com/3kwnntas), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20mac.zip.torrent)
 
 # BibiteVirus alpha
 
 BibiteVirus alpha 4 - Windows
 
-[Kemono download](https://c4.kemono.su/data/dc/59/dc592d698d1cccd3418157b00b153ac1cb360cd09bfedc53cc2d6f9660a65568.zip?f=BibitesVirus%20alpha%204.zip), [Magnet URL for torrent](https://tinyurl.com/2kbat5yf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%204.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/ca9unm21s93ehfuegcj6o/BibitesVirus-alpha-4.zip?rlkey=oivio5s11mr9j2ee5os9b2kb7&st=17l1nu0y&dl=1), [Magnet URL for torrent](https://tinyurl.com/2kbat5yf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%204.zip.torrent)
 
 BibiteVirus alpha 3 - Windows
 
-[Kemono download](https://c1.kemono.su/data/04/d5/04d5274f5700425c1a5dd05bd418dff1a5459f84966f90e9025b4c765bef3387.zip?f=BibitesVirus%20alpha%203.zip), [Magnet URL for torrent](https://tinyurl.com/yxmamuhf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%203.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/1d07jana4w9tfmhe3nvw1/BibitesVirus-alpha-3.zip?rlkey=6ng5rjre9di6k7wtbl517ano8&st=39ake2nw&dl=1), [Magnet URL for torrent](https://tinyurl.com/yxmamuhf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%203.zip.torrent)
 
 BibiteVirus alpha 2 - Windows
 
-[Kemono download](https://c5.kemono.su/data/df/3e/df3eb69fcace5d01a7d2188700a7e17f5aa5e4def0a443cbd1a41d3c345c8fde.zip?f=BibiteVirus%20alpha%202.zip), [Magnet URL for torrent](https://tinyurl.com/34x739z5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%202.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/svo69rvyggacher4r7lj7/BibiteVirus-alpha-2.zip?rlkey=qiv92ahrd2bji8jvenk0cpksa&st=hv8e8y02&dl=1), [Magnet URL for torrent](https://tinyurl.com/34x739z5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%202.zip.torrent)
 
 BibiteVirus alpha 1 - Windows
 
-[Kemono download](https://c4.kemono.su/data/59/98/5998ab7c400a6931256baeedd19d7338ea12c83beb65316b26de66fc86fe1486.zip?f=BibiteVirus%20alpha%201.zip), [Magnet URL for torrent](https://tinyurl.com/3yw7upuz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%201.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/gbjc8ri54pveg4foh91nr/BibiteVirus-alpha-1.zip?rlkey=61zev5nz1urzw2qorqu27908k&st=8luqob2y&dl=1), [Magnet URL for torrent](https://tinyurl.com/3yw7upuz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%201.zip.torrent)
 
 
 # 1.x
@@ -1384,7 +1384,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha - Mac
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=1), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=1), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCr58sltacfS6Cfg9W0UvFfAYctS0eOSLEIBNx5SFeHpwA?e=NRuyIF) [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Linux
 
