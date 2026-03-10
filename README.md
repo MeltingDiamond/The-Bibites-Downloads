@@ -1,10 +1,10 @@
-[The Bibites official website](https://www.thebibites.com) has links to up to date places to download the bibites
+[The Bibites official website](https://www.thebibites.com) has links to up to date places to download The Bibites
 
 [The Bibites Itch page](https://thebibites.itch.io/the-bibites) (free) here you can find the latest public version of the game.
 
 [The Bibites Game Jolt page](https://gamejolt.com/games/the-bibites/773311) (free) this page looks like it is not not updated anymore. (As of 15.12.2024 has version 0.5.0 windows 64x)
 
-[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) this is the same as the Itch version, but it includes steam integration (workshop). **You only get alphas by paying for Patreaon.**
+[The Bibites Steam page](https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/) (paid one time) this is the same as the Itch version, but it includes steam integration (workshop). **You only get alphas by paying for Patreon.**
 
 [The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in for example a17, 0.6a17)
 
@@ -70,35 +70,35 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.3 alpha 3 - Itch Windows 64x
 
-[Dropbox Download]()
+[Dropbox Download](https://www.dropbox.com/scl/fi/ee3318rml8u04nn4z304n/The-Bibites-0.6.3-Alpha-3-Windows-64x.zip?rlkey=54hbzyiz3p4u1whzrsi4xlyty&st=ikz457ro&dl=1)
 
 0.6.3 alpha 3 - Itch Windows 32x
 
-[Dropbox Download]()
+[Dropbox Download](https://www.dropbox.com/scl/fi/sz404blgmof16qkqx5ry0/The-Bibites-0.6.3-Alpha-3-Windows-32x.zip?rlkey=v374rxq69mge1i6f214dmir52&st=rb21a3v9&dl=1)
 
 0.6.3 alpha 3 - Itch Mac Universal
 
-[Dropbox Download]()
+[Dropbox Download*](https://n4.kemono.cr/data/1f/44/1f44ac23b183aef6d66d9ffba105a0cf728965c0eee098811091960fa9cc22a1.bin?f=The+Bibites+0.6.3+Alpha+3+-+Mac+Universal.zip)
 
 0.6.3 alpha 3 - Itch Linux
 
-[Dropbox Download]()
+[Dropbox Download*](https://n1.kemono.cr/data/70/6d/706d491861dc19f7cbd9a076addf8d828754294875746f30401e829548225ba7.bin?f=The+Bibites+0.6.3+Alpha+3+-+Linux.zip)
 
 0.6.3 alpha 2 - Itch Windows 64x
 
-[Dropbox Download]()
+[Dropbox Download*](https://n2.kemono.cr/data/be/b0/beb0880ec19b538a306d10569a223e06b8fa49d459cdc2b2da000933c966a97c.bin?f=The+Bibites+0.6.3+Alpha+2+-+Windows+64x.zip)
 
 0.6.3 alpha 2 - Itch Windows 32x
 
-[Dropbox Download]()
+[Dropbox Download*](https://n4.kemono.cr/data/3d/e2/3de2f17e3ecd4b7229eb0195d2ca67ae1155d0b8800aa63f76b8380e060979ce.bin?f=The+Bibites+0.6.3+Alpha+2+-+Windows+32x.zip)
 
 0.6.3 alpha 2 - Itch Mac Universal
 
-[Dropbox Download]()
+[Dropbox Download*](https://n1.kemono.cr/data/fd/6a/fd6ac1d0a0429d606635a6d7a4fc9ab29932a947ff1a116bad8012eaa45c9a37.bin?f=The+Bibites+0.6.3+Alpha+2+-+Mac+Universal.zip)
 
 0.6.3 alpha 2 - Itch Linux
 
-[Dropbox Download]()
+[Dropbox Download](https://n2.kemono.cr/data/5a/fa/5afaf0231d7ddbdb7086713ea627b2d8e5dca27b8983ba1851b87ffbca26560d.bin?f=The+Bibites+0.6.3+Alpha+2+-+Linux.zip)
 
 0.6.3 alpha 1 - Itch Windows 64x
 

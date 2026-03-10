@@ -2475,3 +2475,70 @@ Fixes
 There's still some bug around that I know of, but they were both the harder-to-fix and not-so-damaging kind, so I figured they could wait in order to ship the release today.
 
 
+
+--- The Bibites 0.6 Alpha 12: PERFORMANCE CONTROL (Patreon)
+Published: 2024-05-07
+
+Download The Bibites 0.6a12 - Windows 32x.zip
+Download The Bibites 0.6a12 - Windows 64x.zip
+Download The Bibites 0.6a12 - Mac Universal.zip
+Download The Bibites 0.6a12 - Linux.zip
+
+Content
+
+You can now change the precision of your sims to suit your performance needs!
+
+Basic TPS :  (default: 40 TPS)
+The number of simulation ticks (updates) per second. This encompasses everything aside from rendering and UI interactions, be it physics or bibite systems. Increasing this means the simulation goes slower but is more stable and precise.
+
+Brain Update Factor:  (default: 2X)
+The number of simulation ticks between each bibites brain update. Changing this might impact some systems, as it's also the update factor for most senses.
+
+Vision Lookup Factor:   (default: 10X)
+The number of brain updates between each bibite Field of View entity Check. This decides how often bibites will update their list of seen entities (the heaviest operation of bibite vision). A value of 10 means that every 10 brain updates, bibites will update what entities they see. This can be interpreted analogously as their reaction time, or how long it takes them to realize a new object has entered their field of view.
+
+Vision Sensing Factor:  (default: 5X)
+The number of brain updates between each bibite Field of View senses updates. This decides how often bibites will update their vision neurons. A value of 10 means that every 10 brain updates, bibites will update their plant angles, distance, etc.
+
+More might be coming shortly, but those systems felt like they were the more sensical to allow to be tuned for now.
+Other Changes
+
+    Optimization to vision code, to increase performance
+
+    Added "Compare to" species dropdown in brain and gene species panel
+
+    With brain and genetic distance (non-normalized)
+
+    Added root species (template it spawned from) reference to species info panel
+
+    Gene differences opacity now highlights most important differences
+
+    Added setting to scale easter eggs probability
+
+    Removed cap on target time speed (slider is still maxed at 20x, but a larger value can be entered in the text field)
+
+    Bibites now shouldn't be able to develop new connections to disabled systems (herding, viruses, etc.)
+
+    Added setting to control relative mutation share (sticky 0)
+
+    Removed min-max restrictions on sim size
+
+    Added 50% penalty to egg reabsorption
+
+Fixes
+
+    Fixed bug that would display species distribution approximation even with old sims
+
+    Fixed rect zones preview size
+
+    Capped bibites preview size to reasonable sizes
+
+    Fixed placement issues with certain preview sprite of larger bibites
+
+    Fixed brain sorting algorithm issue with highly interconnected brains
+
+    Fixed bug with randomness generation for mutations that skewed certain connections
+
+    Fixed bug that allowed keys affecting the rest of the game when editing text in settings fields
+
+    Fixed stomachs content not being properly saved
