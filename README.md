@@ -1188,19 +1188,19 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.1a1 - Windows 64x
 
-[Kemono download](https://n1.kemono.cr/data/1b/68/1b680806e7a40956d50607d189b924d60553d9b5fb3aea7a7f0175c9d6c6560f.zip?f=The+Bibites+0.3.1a1+-+Windows+64x.zip), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDkMpXnNlmqSp0VF0o79dhpASfAE0gJDZ0232c4iVKekFc?e=6TmqxK), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
 
 0.3.1a1 - Windows 32x
 
-[Kemono download](https://n3.kemono.cr/data/57/3b/573b9ca9f2049c5c8058c81d7aa95edf2b97851d65f7d3285271a8fcc7627f2e.zip?f=The+Bibites+0.3.1a1+-+Windows+32x.zip), [Magnet URL for torrent](https://tinyurl.com/3fr25kye), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2032x.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCt-8cBjwfiTL8utoYsYVDsAT25rOjRvHBcdfVMUG4Qmtw?e=gsRgi8), [Magnet URL for torrent](https://tinyurl.com/3fr25kye), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2032x.zip.torrent)
 
 0.3.1a1 - Mac Universal
 
-[Kemono download](https://n2.kemono.cr/data/71/5f/715fa17f5ba945279d521744328b531490debb953ebc6eaf6bead7ff31488ad4.zip?f=The+Bibites+0.3.1a1+-+Mac+Universal.zip), [Magnet URL for torrent](https://tinyurl.com/yebder4h), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Mac%20Universal.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQAFzp82z8hPToTxZNm7t82WAU5zv9ZU9FCx_khKjJwfsJY?e=9laCiN), [Magnet URL for torrent](https://tinyurl.com/yebder4h), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Mac%20Universal.zip.torrent)
 
 0.3.1a1 - Linux
 
-[Kemono download](https://n4.kemono.cr/data/8b/f4/8bf4f3f4fc35c3389b3f983cdb51aa0c545605fadae903c148ebe0f745ff863f.zip?f=The+Bibites+0.3.1a1+-+Linux.zip), [Magnet URL for torrent](https://tinyurl.com/bdejbtcf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Linux.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQC1lQkNbf9LQJseZDir7RLsAStuvHm5JlzSJa2KO3UPmhA?e=5fQI9Z), [Magnet URL for torrent](https://tinyurl.com/bdejbtcf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Linux.zip.torrent)
 
 
 # 0.3.0
