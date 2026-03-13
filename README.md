@@ -1323,7 +1323,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 # BibiteVirus alpha
 
-BibiteVirus alpha 4 - Windows
+BibiteVirus alpha 4 (1.3a4) - Windows
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/ca9unm21s93ehfuegcj6o/BibitesVirus-alpha-4.zip?rlkey=oivio5s11mr9j2ee5os9b2kb7&st=17l1nu0y&dl=1), [Magnet URL for torrent](https://tinyurl.com/2kbat5yf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/BibiteVirus%20alpha%204.zip.torrent)
 
