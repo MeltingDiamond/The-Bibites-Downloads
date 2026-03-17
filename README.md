@@ -151,7 +151,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.6.2a2 - Itch Windows 64x
 
-[Kemono download](https://n3.kemono.su/data/6c/96/6c964d7c891a1fef61ce6e2f85b4f2f964bee24243a6060d27bc4f66fc1e27c3.bin?f=The+Bibites+0.6.2a2+-+Windows+64x.zip)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQALbs-J6-vFT55SvTt-nrZ1AbwWq1NUgLI7YVmSQz1fd9U?e=csf1ra)
 
 0.6.2a2 - Itch Windows 32x
 
@@ -1211,11 +1211,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 32x
 
-[Softonic download](https://en.softonic.com/download/the-bibites/windows/post-download/v/0.3.0?dt=internalDownload), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDohs1YdiXYT6ayC0yhP2RyAUGSxBIHrIrb7XhtrusLt3k?e=8tyDrL), [Softonic download](https://en.softonic.com/download/the-bibites/windows/post-download/v/0.3.0?dt=internalDownload), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
 
 0.3.0 - Mac Universal
 
-[Softonic download](https://en.softonic.com/download/the-bibites/mac/post-download), [Magnet URL for torrent](https://tinyurl.com/y6pesf8x), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_mac_v0.3.0.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDvR6o36AIURZjzxS0cCeC1AWyJ2nfMDFMXyMgwiEu_564?e=MDC5yL), [Softonic download](https://en.softonic.com/download/the-bibites/mac/post-download), [Magnet URL for torrent](https://tinyurl.com/y6pesf8x), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_mac_v0.3.0.zip.torrent)
 
 0.3.0 - Linux
 
