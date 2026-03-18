@@ -36,6 +36,13 @@ If you want to see other files that are released by Leo Caussan or Omnia Studios
 
 Here is the list of all versions tracked with download links, if any of the links are not working please report it anywhere:
 # 0.6.3
+0.6.3.1 - Itch Windows 64x
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/5hk74fspw6dddd456fqzw/The-Bibites-0.6.3.1-Windows-64x.zip?rlkey=5nm7btlhzyxnjsd886sqgn83h&st=pcamvoj0&dl=1)
+
+0.6.3.1 - Itch Mac Universal
+
+[Dropbox Download](https://www.dropbox.com/scl/fi/8ldbe2g3ijrkm6ojhahgd/The-Bibites-0.6.3.1-Mac-Universal.zip?rlkey=knkz70fbvnb6tgvv79lmottzt&st=7xrq83qk&dl=1)
 0.6.3 - Itch Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/edathttt0hlagc5ri0jx4/The-Bibites-0.6.3-Windows-64x.zip?rlkey=92z3m3f4jgqf2qtm79de8n3n2&st=9pf6il1c&dl=1)
