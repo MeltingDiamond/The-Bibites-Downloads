@@ -68,67 +68,67 @@ Here is the list of all versions tracked with download links, if any of the link
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/0io1q8p9kceqfrbfjec1g/The-Bibites-0.6.3-Linux.zip?rlkey=y6zqrqfw2mkntq6ds2hw3ezpq&st=9ctatjwp&dl=1), [Google Drive Download](https://drive.google.com/file/d/1zVJaMsUcaG-rCPD-zK55iChPRRh88fV0/view?usp=sharing)
 
-0.6.3 alpha 4 - Itch Windows 64x
+0.6.3 alpha 4 - Patreon Windows 64x
 
 Missing. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Itch Windows 32x
+0.6.3 alpha 4 - Patreon Windows 32x
 
 Missing. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Itch Mac Universal
+0.6.3 alpha 4 - Patreon Mac Universal
 
 Missing. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Itch Linux
+0.6.3 alpha 4 - Patreon Linux
 
 Missing. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 3 - Itch Windows 64x
+0.6.3 alpha 3 - Patreon Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/ee3318rml8u04nn4z304n/The-Bibites-0.6.3-Alpha-3-Windows-64x.zip?rlkey=54hbzyiz3p4u1whzrsi4xlyty&st=ikz457ro&dl=1), [Google Drive Download](https://drive.google.com/file/d/1qwzzmZUnXpxUNcKkOBrl0NgMDiR-IINJ/view?usp=sharing)
 
-0.6.3 alpha 3 - Itch Windows 32x
+0.6.3 alpha 3 - Patreon Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/sz404blgmof16qkqx5ry0/The-Bibites-0.6.3-Alpha-3-Windows-32x.zip?rlkey=v374rxq69mge1i6f214dmir52&st=rb21a3v9&dl=1), [Google Drive Download](https://drive.google.com/file/d/1HaJkFBYJKjtrEQ5aniLpAb_WcQAYiPco/view?usp=sharing)
 
-0.6.3 alpha 3 - Itch Mac Universal
+0.6.3 alpha 3 - Patreon Mac Universal
 
-[Dropbox Download*](https://n4.kemono.cr/data/1f/44/1f44ac23b183aef6d66d9ffba105a0cf728965c0eee098811091960fa9cc22a1.bin?f=The+Bibites+0.6.3+Alpha+3+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1iqlvFIhLH3YlMpK5z6msu1NXPzqc8-bZ/view?usp=sharing)
 
-0.6.3 alpha 3 - Itch Linux
+0.6.3 alpha 3 - Patreon Linux
 
-[Dropbox Download*](https://n1.kemono.cr/data/70/6d/706d491861dc19f7cbd9a076addf8d828754294875746f30401e829548225ba7.bin?f=The+Bibites+0.6.3+Alpha+3+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1COtDucMoIBsvTIwWMbWZ8Lo2JYK5K6rm/view?usp=sharing)
 
-0.6.3 alpha 2 - Itch Windows 64x
+0.6.3 alpha 2 - Patreon Windows 64x
 
-[Dropbox Download*](https://n2.kemono.cr/data/be/b0/beb0880ec19b538a306d10569a223e06b8fa49d459cdc2b2da000933c966a97c.bin?f=The+Bibites+0.6.3+Alpha+2+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/15yj8u7xt-fdi6TOR2lNLBZWOUgssE8Na/view?usp=sharing)
 
-0.6.3 alpha 2 - Itch Windows 32x
+0.6.3 alpha 2 - Patreon Windows 32x
 
-[Dropbox Download*](https://n4.kemono.cr/data/3d/e2/3de2f17e3ecd4b7229eb0195d2ca67ae1155d0b8800aa63f76b8380e060979ce.bin?f=The+Bibites+0.6.3+Alpha+2+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/19vwgwehgTjii-lz0XvFLQxwC6V8Gi43f/view?usp=sharing)
 
-0.6.3 alpha 2 - Itch Mac Universal
+0.6.3 alpha 2 - Patreon Mac Universal
 
-[Dropbox Download*](https://n1.kemono.cr/data/fd/6a/fd6ac1d0a0429d606635a6d7a4fc9ab29932a947ff1a116bad8012eaa45c9a37.bin?f=The+Bibites+0.6.3+Alpha+2+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1uV2sBMiuZM-if2UXP0tz-PKTwDokucLz/view?usp=sharing)
 
-0.6.3 alpha 2 - Itch Linux
+0.6.3 alpha 2 - Patreon Linux
 
-[Dropbox Download](https://n2.kemono.cr/data/5a/fa/5afaf0231d7ddbdb7086713ea627b2d8e5dca27b8983ba1851b87ffbca26560d.bin?f=The+Bibites+0.6.3+Alpha+2+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1y8QD9JmLggDiOj1_uZ4QImrMzmBCcZEy/view?usp=sharing)
 
-0.6.3 alpha 1 - Itch Windows 64x
+0.6.3 alpha 1 - Patreon Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/0v5z7yfphowbz936wvyhc/The-Bibites-0.6.3-Alpha-1-Windows-64x.zip?rlkey=qm2xyfi29o0mhhupyggdeeg80&st=0a87fsop&dl=1)
 
-0.6.3 alpha 1 - Itch Windows 32x
+0.6.3 alpha 1 - Patreon Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/9xb35abd1zkynh5agqf5u/The-Bibites-0.6.3-Alpha-1-Windows-32x.zip?rlkey=aa7d9pm4bted45fksk0puwl4h&st=rt3imrlt&dl=1)
 
-0.6.3 alpha 1 - Itch Mac Universal
+0.6.3 alpha 1 - Patreon Mac Universal
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/q7k6l81nc5zjfcvwga3c4/The-Bibites-0.6.3-Alpha-1-Mac-Universal.zip?rlkey=9c9kx9emo9ajkcd39qedxpotg&st=a8nvyei2&dl=1)
 
-0.6.3 alpha 1 - Itch Linux
+0.6.3 alpha 1 - Patreon Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/33ftpzdx5befnghh2vgup/The-Bibites-0.6.3-Alpha-1-Linux.zip?rlkey=vnwfcwbcwjze27ajh81qhsb6b&st=3r9fyto5&dl=1)
 
@@ -165,35 +165,35 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 [Free Patreon download](https://www.patreon.com/file?h=132266811&m=488789839)
 
-0.6.2a2 - Itch Windows 64x
+0.6.2a2 - Patreon Windows 64x
 
 [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQALbs-J6-vFT55SvTt-nrZ1AbwWq1NUgLI7YVmSQz1fd9U?e=csf1ra), [Google Drive Download](https://drive.google.com/file/d/1D7F4RqwD-jhAtcmjDjD1m_0ywAiMF8a7/view?usp=sharing)
 
-0.6.2a2 - Itch Windows 32x
+0.6.2a2 - Patreon Windows 32x
 
 [Kemono download](https://n2.kemono.su/data/a5/4a/a54a5c0322ba102ca859c00f61ac6ca3683d576467ea3ea222973ae700a12cad.bin?f=The+Bibites+0.6.2a2+-+Windows+32x.zip)
 
-0.6.2a2 - Itch Mac Universal
+0.6.2a2 - Patreon Mac Universal
 
 [Kemono download](https://n1.kemono.su/data/d1/e9/d1e9563bdf401c0b555f24264eb58bb5d9a49981fd65536ed3723bf4e21fd82a.bin?f=The+Bibites+0.6.2a2+-+Mac+Universal.zip)
 
-0.6.2a2 - Itch Linux
+0.6.2a2 - Patreon Linux
 
 [Kemono download](https://n3.kemono.su/data/da/e4/dae44f7440ffd21e5a4ff2ab22706ed1c6139a806c7c7fcacd10ecfab9f69674.bin?f=The+Bibites+0.6.2a2+-+Linux.zip)
 
-0.6.2a1 - Itch Windows 64x
+0.6.2a1 - Patreon Windows 64x
 
 [Kemono download](https://n3.kemono.su/data/e3/48/e348a49854bdfe59cf3632a7d99415a4eb062494ae305e1af106014dff116a02.bin?f=The+Bibites+0.6.2a1+-+Windows+64x.zip) 
 
-0.6.2a1 - Itch Windows 32x
+0.6.2a1 - Patreon Windows 32x
 
 [Kemono download](https://n3.kemono.su/data/84/c3/84c3a89832297ffd513e1ecf8268e8fd1ffaa42cc46de651d487f9f1fcd7b650.bin?f=The+Bibites+0.6.2a1+-+Windows+32x.zip)
 
-0.6.2a1 - Itch Mac Universal
+0.6.2a1 - Patreon Mac Universal
 
 [Kemono download](https://n1.kemono.su/data/d6/4d/d64df4f4422efa72a5f7cb058c4bb61caac4e302618428952395381019a6eb55.bin?f=The+Bibites+0.6.2a1+-+Mac+Universal.zip)
 
-0.6.2a1 - Itch Linux
+0.6.2a1 - Patreon Linux
 
 [Kemono download](https://n1.kemono.su/data/49/3a/493a3f1902f7ebae8a467f1b9492135493054ae24f6f94414035efc772f1ae9c.bin?f=The+Bibites+0.6.2a1+-+Linux.zip)
 # 0.6.1
@@ -213,19 +213,19 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 [Free Patreon download](https://www.patreon.com/file?h=123811623&m=432807467), [Dropbox Download](https://www.dropbox.com/scl/fi/wt4w4jleq9gtlow8ln4c5/The-Bibites-0.6.1-Hotfix-Linux.zip?rlkey=i070a3bhwn4962rk8wyy48tyq&st=qxa9m37n&dl=1)
 
-0.6.1a7 - Itch Windows 64x
+0.6.1a7 - Patreon Windows 64x
 
 [Kemono download](https://n3.kemono.su/data/64/91/64915e07c7570e06dde644d81f9c6f10ad0bc05c9c7fec735e150bde609d2382.bin?f=The+Bibites+0.6.1a7+-+Windows+64x.zip)
 
-0.6.1a7 - Itch Windows 32x
+0.6.1a7 - Patreon Windows 32x
 
 [Kemono download](https://n2.kemono.su/data/ac/da/acda1eb6e627932de9fc7faaddfd0f0c4514fd3b76453d4e0f50b8a587694e6a.bin?f=The+Bibites+0.6.1a7+-+Windows+32x.zip)
 
-0.6.1a7 - Itch Mac Universal
+0.6.1a7 - Patreon Mac Universal
 
 [Kemono download](https://n3.kemono.su/data/3d/cd/3dcdfba3c83f460de7bd7671568107e432af363e60f7f442efe5246639af220a.bin?f=The+Bibites+0.6.1a7+-+Mac+Universal.zip)
 
-0.6.1a7 - Itch Linux
+0.6.1a7 - Patreon Linux
 
 [Kemono download](https://n3.kemono.su/data/21/71/217159d7f593133511024447abb288c41f28ec18943b050c883457ad7c432460.bin?f=The+Bibites+0.6.1a7+-+Linux.zip)
 
@@ -261,146 +261,146 @@ Not sure if this was downloadable. If you got this version please message or pin
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/6i2qfecdw5oex3r7ug93e/The-Bibites-Demo-Linux.zip?rlkey=x627kr55izhp7o7rwk900q6wz&st=6pxedt1s&dl=1)
 
-0.6.1a4 - Itch Windows 64x
+0.6.1a4 - Patreon Windows 64x
 
 [Kemono download](https://n4.kemono.su/data/95/45/95456b58780ea9e5f1644aa137a1ec2c1b69420a39877173531f3e45e7f37e5d.zip?f=The+Bibites+0.6.1a4+-+Windows+64x.zip)
 
-0.6.1a4 - Itch Windows 32x
+0.6.1a4 - Patreon Windows 32x
 
 [Kemono download](https://n3.kemono.su/data/74/24/7424cb556ff31ffc101a73c3e71c71ae79ec39bfe0849ca8cc8d982b361755e6.zip?f=The+Bibites+0.6.1a4+-+Windows+32x.zip)
 
-0.6.1a4 - Itch Mac Universal
+0.6.1a4 - Patreon Mac Universal
 
 [Kemono download](https://n1.kemono.su/data/fc/38/fc381317865d01cd2596402edf76c3c3c30c329d13b3b3d325cf7b68da3ae6eb.zip?f=The+Bibites+0.6.1a4+-+Mac+Universal.zip)
 
-0.6.1a4 - Itch Linux
+0.6.1a4 - Patreon Linux
 
 [Kemono download](https://n1.kemono.su/data/8c/f7/8cf756fad80bd1e7d6392a67cb0fa0fe8ca856c63f0138cdc3fbe218360a064b.zip?f=The+Bibites+0.6.1a4+-+Linux.zip)
 
-0.6.1a3 - Itch Windows 64x
+0.6.1a3 - Patreon Windows 64x
 
 [Kemono download](https://n2.kemono.su/data/71/f2/71f27a999eca51f07daa09309e8165ee415fcadccc5a4a8cc3f65d78236dcd6e.zip?f=The+Bibites+0.6.1a3+-+Windows+64x.zip)
 
-0.6.1a3 - Itch Windows 32x
+0.6.1a3 - Patreon Windows 32x
 
 [Kemono download](https://n1.kemono.su/data/d8/07/d8071af3b9d3af287b1c3026a6378e667848ba1596dc089115ecf0866659f235.zip?f=The+Bibites+0.6.1a3+-+Windows+32x.zip)
 
-0.6.1a3 - Itch Mac Universal
+0.6.1a3 - Patreon Mac Universal
 
 [Kemono download](https://n2.kemono.su/data/29/c1/29c1a297512bff86d722a46250efa7e46fba85453165a8a3a4a35f7c0610bc4e.zip?f=The+Bibites+0.6.1a3+-+Mac+Universal.zip)
 
-0.6.1a3 - Itch Linux
+0.6.1a3 - Patreon Linux
 
 [Kemono download](https://n1.kemono.su/data/b0/9e/b09ec52ae480d0b1d9c0f5c5a03cecb3be88f9096256db16e01e51d2c61a2d29.zip?f=The+Bibites+0.6.1a3+-+Linux.zip)
 
-0.6.1a2 - Itch Windows 64x
+0.6.1a2 - Patreon Windows 64x
 
 [Kemono download](https://n1.kemono.su/data/c6/79/c67901d98771b5c268f47c85a671b6785a5cfaf0d95d98e563d2cf090b4f3e6c.zip?f=The+Bibites+0.6.1a2+-+Windows+64x.zip)
 
-0.6.1a2 - Itch Windows 32x
+0.6.1a2 - Patreon Windows 32x
 
 [Kemono download](https://n3.kemono.su/data/12/06/120631ff143d75bae88df268dd5db21a0c04a7f1660e779a55709aefc5d6b7d6.zip?f=The+Bibites+0.6.1a2+-+Windows+32x.zip)
 
-0.6.1a2 - Itch Mac Universal
+0.6.1a2 - Patreon Mac Universal
 
 [Kemono download](https://n4.kemono.su/data/9f/ed/9fed00897dca54153533415cf3bffd8579e33b47912264bd14c9146c0b8f7561.zip?f=The+Bibites+0.6.1a2+-+Mac+Universal.zip)
 
-0.6.1a2 - Itch Linux
+0.6.1a2 - Patreon Linux
 
 [Kemono download](https://n2.kemono.su/data/52/9b/529b798757d40cd73902de1e0d5d22b0545ab7d6263a17a84274d386e9272934.zip?f=The+Bibites+0.6.1a2+-+Linux.zip)
 
-0.6.1a1 - Itch Windows 64x
+0.6.1a1 - Patreon Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/v69yyletn14dx9m49yg8l/The-Bibites-0.6.1a1-Windows-64x.zip?rlkey=16atytrtgknbbq62sj9o6gfgh&st=hjd3mv8n&dl=1)
 
-0.6.1a1 - Itch Windows 32x
+0.6.1a1 - Patreon Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/yyrqeyuf20yiw8ysf3cpm/The-Bibites-0.6.1a1-Windows-32x.zip?rlkey=sr5xu3wux0r0aqlmzbdtezlmp&st=nplue7x7&dl=1)
 
-0.6.1a1 - Itch Mac Universal
+0.6.1a1 - Patreon Mac Universal
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/xql0z1yjz1xvndduc8g69/The-Bibites-0.6.1a1-Mac-Universal.zip?rlkey=f56iwd3o1a2cgo45dcexixhhg&st=kgw0m480&dl=1)
 
-0.6.1a1 - Itch Linux
+0.6.1a1 - Patreon Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/3vmkz5xh0uqr7ey7i6jj7/The-Bibites-0.6.1a1-Linux.zip?rlkey=oco49zx7dm4ii6l33891rvo7a&st=380fw14s&dl=1)
 
 # 0.6.0
-0.6.0.1 - Windows 64x
+0.6.0.1 - Itch Windows 64x
 
 [Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982341), [Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDbgVhkpT0WQbMW-u7LgaHvAQGINpd7iejoBYznivMyTeM?e=361Sss), [Google Drive Download](https://drive.google.com/file/d/11loIt_W6aNLnxUgS1C0WBOIzwnKu6A0m/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=1)
 
-0.6.0.1 - Windows 32x
+0.6.0.1 - Itch Windows 32x
 
 [Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982338), [Dropbox Download](https://www.dropbox.com/scl/fi/ud94c3t8q0xdbz5l5fk8z/The-Bibites-0.6.0.1-Windows-32x.zip?rlkey=khwtep8uisp0gyjdgakvnhtn0&st=i0wydnd8&dl=1)
 
-0.6.0.1 - Mac Universal
+0.6.0.1 - Itch Mac Universal
 
 [Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982343), [Dropbox Download](https://www.dropbox.com/scl/fi/igxy7fq16yl7ieqjh994v/The-Bibites-0.6.0.1-Mac-Universal.zip?rlkey=wfquramlnyf77af2znrbljwbh&st=urrvwiue&dl=1)
 
-0.6.0.1 - Linux
+0.6.0.1 - Itch Linux
 
 [Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982345), [Dropbox Download](https://www.dropbox.com/scl/fi/vflvk4x6bf2thohddftqj/The-Bibites-0.6.0.1-Linux.zip?rlkey=ubn7srnx2nspfwb5wy95r1a5j&st=1bjvg715&dl=1)
 
-0.6.0 - Windows 64x
+0.6.0 - Itch Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/n7112kbd3msmrwcs026wb/The-Bibites-0.6.0-Windows-64x.zip?rlkey=jn5ks3hdovgdxmhk5uc6ylpfn&st=aqte8klb&dl=1), [Magnet URL for torrent](https://tinyurl.com/47z7ycxd), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.0%20-%20Windows%2064x.zip.torrent)
 
-0.6.0 - Windows 32x
+0.6.0 - Itch Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/sr7nf897iffw3ilap5jw3/The-Bibites-0.6.0-Windows-32x.zip?rlkey=0xhj2g98xltv0i4bx2i2zjuyh&st=yqzgdu10&dl=1), [Magnet URL for torrent](https://tinyurl.com/yhsyufhj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.0%20-%20Windows%2032x.zip.torrent)
 
-0.6.0 - Linux
+0.6.0 - Itch Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/5v70odjhgjcdxp0zpysau/The-Bibites-0.6.0-Linux.zip?rlkey=tnjm134ce8jpzk1qlsym02pi9&st=bf4tbak6&dl=1), [Magnet URL for torrent](https://tinyurl.com/bdp66pb3), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.0%20-%20Linux.zip.torrent)
 
-0.6.0 RC - Windows 64x
+0.6.0 RC - Patreon Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/lxuspd9q63aow9rt7d3qu/The-Bibites-0.6.0-RC-Windows-64x.zip?rlkey=2i19970co6ypfyw5cs98gp64s&st=h7s5qx9r&dl=1)
 
-0.6.0 RC - Windows 32x
+0.6.0 RC - Patreon Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/m93mctus8jt9lumjja37h/The-Bibites-0.6.0-RC-Windows-32x.zip?rlkey=8jz022jbse4mhzpgn2nj4pqlm&st=cpcehczy&dl=1)
 
-0.6.0 RC - Mac Universal
+0.6.0 RC - Patreon Mac Universal
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/m5n2c8rklh3k0hp4wm25u/The-Bibites-0.6.0-RC-Mac-Universal.zip?rlkey=71rsdns7ad718y7kq5ugcj7s1&st=m1q0qzne&dl=1)
 
-0.6.0 RC - Linux
+0.6.0 RC - Patreon Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/f51k7zp5k8mcvkqo8gpsu/The-Bibites-0.6.0-RC-Linux.zip?rlkey=3tuxakpz8wkn8cttz8y75zs0y&st=8bzddbxx&dl=1)
 
-0.6a17 - Windows 64x
+0.6a17 - Patreon Windows 64x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/5fscaszovcdpjkrxnyoom/The-Bibites-0.6a17-Windows-64x.zip?rlkey=6l9c51m7cxk9goh5gjheyi3i4&st=vlgu5my5&dl=1)
 
-0.6a17 - Windows 32x
+0.6a17 - Patreon Windows 32x
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/b6xwmqe6ap53hwlt3g22x/The-Bibites-06a17-Windows-32x.zip?rlkey=irfpwalpcg4qdsetnoqh87viw&dl=1)
 
-0.6a17 - Mac Universal
+0.6a17 - Patreon Mac Universal
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/3npmqmgv69gxtyx8r979t/The-Bibites-06a17-Mac-Universal.zip?rlkey=6yobemsxc4vbjg302eilrnkfm&dl=1)
 
-0.6a17 - Linux
+0.6a17 - Patreon Linux
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/p0pkwh413hlrtlv81rnxa/The-Bibites-06a17-Linux.zip?rlkey=tewk5zreowlozcdtr0iumt4w3&dl=1)
 
-0.6a16 - Windows 64x
+0.6a16 - Patreon Windows 64x
 
 [Kemono download](https://n1.kemono.su/data/85/46/854672ac63707ee32181fa126523e1cb82a806bb06d9b480c39adf3cf013c54a.zip?f=The%20Bibites%200.6a16%20-%20Windows%2064x.zip), [Magnet URL for torrent](https://tinyurl.com/msu5pknp), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6a16%20-%20Windows%2064x.zip.torrent)
 
 
-0.6a16 - Windows 32x
+0.6a16 - Patreon Windows 32x
 
 [Kemono download](https://n2.kemono.su/data/6b/a7/6ba73d9290bb12acaecbb8b5ecad3a198d92efa8316e136d4bcdb7e8fb376176.zip?f=The%20Bibites%200.6a16%20-%20Windows%2032x.zip), [Magnet URL for torrent](https://tinyurl.com/bdeuk5r2), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6a16%20-%20Windows%2032x.zip.torrent)
 
 
-0.6a16 - Mac Universal
+0.6a16 - Patreon Mac Universal
 
 [Kemono download](https://n4.kemono.su/data/8c/a0/8ca00e514d66beaf8319df390b8d04e4cf2f1699d85bc8c6dc268c5be3e4a000.zip?f=The%20Bibites%200.6a16%20-%20Mac%20Universal.zip), [Magnet URL for torrent](https://tinyurl.com/5zap4wnz), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6a16%20-%20Mac%20Universal.zip.torrent)
 
-0.6a16 - Linux
+0.6a16 - Patreon Linux
 
 [Kemono download](https://n1.kemono.su/data/4b/bd/4bbd620fbc226a155cff0dca5d74d3ba803a4510577155e76822d796004c51ae.zip?f=The%20Bibites%200.6a16%20-%20Linux.zip), [Magnet URL for torrent](https://tinyurl.com/4en4zcxy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6a16%20-%20Linux.zip.torrent)
 
@@ -1227,11 +1227,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.0 - Windows 32x
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDohs1YdiXYT6ayC0yhP2RyAUGSxBIHrIrb7XhtrusLt3k?e=8tyDrL), [Softonic download](https://en.softonic.com/download/the-bibites/windows/post-download/v/0.3.0?dt=internalDownload), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDohs1YdiXYT6ayC0yhP2RyAUGSxBIHrIrb7XhtrusLt3k?e=8tyDrL), [Google Drive Download](https://drive.google.com/file/d/1skj_7f0X-EqwhhOH8aNWTRjVyWlE8ZQk/view?usp=sharing), [Softonic download](https://en.softonic.com/download/the-bibites/windows/post-download/v/0.3.0?dt=internalDownload), [Magnet URL for torrent](https://tinyurl.com/yfh5c8ev), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_win_v0.3.0.zip.torrent)
 
 0.3.0 - Mac Universal
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDvR6o36AIURZjzxS0cCeC1AWyJ2nfMDFMXyMgwiEu_564?e=MDC5yL), [Softonic download](https://en.softonic.com/download/the-bibites/mac/post-download), [Magnet URL for torrent](https://tinyurl.com/y6pesf8x), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_mac_v0.3.0.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDvR6o36AIURZjzxS0cCeC1AWyJ2nfMDFMXyMgwiEu_564?e=MDC5yL), [Google Drive Download](https://drive.google.com/file/d/1LMpYDipUBjfCKQnUgCfdhzEiwl-95wNS/view?usp=sharing), [Softonic download](https://en.softonic.com/download/the-bibites/mac/post-download), [Magnet URL for torrent](https://tinyurl.com/y6pesf8x), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/the_bibites_mac_v0.3.0.zip.torrent)
 
 0.3.0 - Linux
 
@@ -1400,7 +1400,7 @@ BibiteVirus alpha 1 - Windows
 
 1.3 alpha - Mac
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=1), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCr58sltacfS6Cfg9W0UvFfAYctS0eOSLEIBNx5SFeHpwA?e=NRuyIF) [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/f88xb0or85rm0l9u5cpn1/The-Bibites-Mac-1.3-alpha.zip?rlkey=2v4bjui9a6zazh9wxe7zbqx07&st=rbikf140&dl=1), [Magnet URL for torrent](https://tinyurl.com/5nnccvj5), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCr58sltacfS6Cfg9W0UvFfAYctS0eOSLEIBNx5SFeHpwA?e=NRuyIF), [Google Drive Download](https://drive.google.com/file/d/1eIAbmT9FIF8mj2Q7Q-5vZa7lsKuLRrZS/view?usp=sharing), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%20Mac%201.3%20alpha.zip.torrent)
 
 1.3 alpha - Linux
 
