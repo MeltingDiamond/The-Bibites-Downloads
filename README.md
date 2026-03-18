@@ -38,26 +38,35 @@ Here is the list of all versions tracked with download links, if any of the link
 # 0.6.3
 0.6.3.1 - Itch Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/5hk74fspw6dddd456fqzw/The-Bibites-0.6.3.1-Windows-64x.zip?rlkey=5nm7btlhzyxnjsd886sqgn83h&st=pcamvoj0&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/5hk74fspw6dddd456fqzw/The-Bibites-0.6.3.1-Windows-64x.zip?rlkey=5nm7btlhzyxnjsd886sqgn83h&st=pcamvoj0&dl=1), [Google Drive Download](https://drive.google.com/file/d/1zzyFlE_nnfjlYd46tzXSLuc_WOumJ9uL/view?usp=sharing)
+
+0.6.3.1 - Itch Windows 32x
+
+[Google Drive Download](https://drive.google.com/file/d/1lVcV1B-fmTzAtCkYYGF4gU23XbAVML8-/view?usp=sharing)
 
 0.6.3.1 - Itch Mac Universal
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/8ldbe2g3ijrkm6ojhahgd/The-Bibites-0.6.3.1-Mac-Universal.zip?rlkey=knkz70fbvnb6tgvv79lmottzt&st=7xrq83qk&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/8ldbe2g3ijrkm6ojhahgd/The-Bibites-0.6.3.1-Mac-Universal.zip?rlkey=knkz70fbvnb6tgvv79lmottzt&st=7xrq83qk&dl=1), [Google Drive Download](https://drive.google.com/file/d/1WxrbDkIdBNojfDqIOOPRwfGUao1taNiF/view?usp=sharing)
+
+0.6.3.1 - Itch Linux
+
+[Google Drive Download](https://drive.google.com/file/d/1rMzmXcqHSyt5lRQZPhmJJiYoPJEO29yK/view?usp=sharing)
+
 0.6.3 - Itch Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/edathttt0hlagc5ri0jx4/The-Bibites-0.6.3-Windows-64x.zip?rlkey=92z3m3f4jgqf2qtm79de8n3n2&st=9pf6il1c&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/edathttt0hlagc5ri0jx4/The-Bibites-0.6.3-Windows-64x.zip?rlkey=92z3m3f4jgqf2qtm79de8n3n2&st=9pf6il1c&dl=1), [Google Drive Download](https://drive.google.com/file/d/1qImIRKKd2u3RsN83af-IMFlWkWKjqbTN/view?usp=sharing)
 
 0.6.3 - Itch Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/n3hjm28fkr6t44syu5fqs/The-Bibites-0.6.3-Windows-32x.zip?rlkey=fpix6avd9h96u5dflc29c5pc3&st=cgg2jm3g&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/n3hjm28fkr6t44syu5fqs/The-Bibites-0.6.3-Windows-32x.zip?rlkey=fpix6avd9h96u5dflc29c5pc3&st=cgg2jm3g&dl=1), [Google Drive Download](https://drive.google.com/file/d/1mHn_k4iL3xiQXSWUI20Od3vJ9wIbsccY/view?usp=sharing)
 
 0.6.3 - Itch Mac Universal
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/8cbb3dxxuddub4cn3cfmn/The-Bibites-0.6.3-Mac-Universal.zip?rlkey=mpkymtl5i3wjcffrj0akta64x&st=nzlsdh3k&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/8cbb3dxxuddub4cn3cfmn/The-Bibites-0.6.3-Mac-Universal.zip?rlkey=mpkymtl5i3wjcffrj0akta64x&st=nzlsdh3k&dl=1), [Google Drive Download](https://drive.google.com/file/d/1yjBtGLngqNUjh_ES-969dOHoX_IYl2Bf/view?usp=sharing)
 
 0.6.3 - Itch Linux
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/0io1q8p9kceqfrbfjec1g/The-Bibites-0.6.3-Linux.zip?rlkey=y6zqrqfw2mkntq6ds2hw3ezpq&st=9ctatjwp&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/0io1q8p9kceqfrbfjec1g/The-Bibites-0.6.3-Linux.zip?rlkey=y6zqrqfw2mkntq6ds2hw3ezpq&st=9ctatjwp&dl=1), [Google Drive Download](https://drive.google.com/file/d/1zVJaMsUcaG-rCPD-zK55iChPRRh88fV0/view?usp=sharing)
 
 0.6.3 alpha 4 - Itch Windows 64x
 
@@ -77,11 +86,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.6.3 alpha 3 - Itch Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/ee3318rml8u04nn4z304n/The-Bibites-0.6.3-Alpha-3-Windows-64x.zip?rlkey=54hbzyiz3p4u1whzrsi4xlyty&st=ikz457ro&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/ee3318rml8u04nn4z304n/The-Bibites-0.6.3-Alpha-3-Windows-64x.zip?rlkey=54hbzyiz3p4u1whzrsi4xlyty&st=ikz457ro&dl=1), [Google Drive Download](https://drive.google.com/file/d/1qwzzmZUnXpxUNcKkOBrl0NgMDiR-IINJ/view?usp=sharing)
 
 0.6.3 alpha 3 - Itch Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/sz404blgmof16qkqx5ry0/The-Bibites-0.6.3-Alpha-3-Windows-32x.zip?rlkey=v374rxq69mge1i6f214dmir52&st=rb21a3v9&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/sz404blgmof16qkqx5ry0/The-Bibites-0.6.3-Alpha-3-Windows-32x.zip?rlkey=v374rxq69mge1i6f214dmir52&st=rb21a3v9&dl=1), [Google Drive Download](https://drive.google.com/file/d/1HaJkFBYJKjtrEQ5aniLpAb_WcQAYiPco/view?usp=sharing)
 
 0.6.3 alpha 3 - Itch Mac Universal
 
@@ -158,7 +167,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.6.2a2 - Itch Windows 64x
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQALbs-J6-vFT55SvTt-nrZ1AbwWq1NUgLI7YVmSQz1fd9U?e=csf1ra)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQALbs-J6-vFT55SvTt-nrZ1AbwWq1NUgLI7YVmSQz1fd9U?e=csf1ra), [Google Drive Download](https://drive.google.com/file/d/1D7F4RqwD-jhAtcmjDjD1m_0ywAiMF8a7/view?usp=sharing)
 
 0.6.2a2 - Itch Windows 32x
 
@@ -319,7 +328,7 @@ Not sure if this was downloadable. If you got this version please message or pin
 # 0.6.0
 0.6.0.1 - Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982341), [Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDbgVhkpT0WQbMW-u7LgaHvAQGINpd7iejoBYznivMyTeM?e=361Sss), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=1)
+[Free Patreon download](https://www.patreon.com/file?h=113393972&m=362982341), [Dropbox Download](https://www.dropbox.com/scl/fi/boh31txr00v77i95hbbai/The-Bibites-0.6.0.1-Windows-64x.zip?rlkey=hkqwkpjy7e5r32t1lau316d9e&st=k5ef2fja&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDbgVhkpT0WQbMW-u7LgaHvAQGINpd7iejoBYznivMyTeM?e=361Sss), [Google Drive Download](https://drive.google.com/file/d/11loIt_W6aNLnxUgS1C0WBOIzwnKu6A0m/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/2s4bmbdj), [Torrent file dropbox](https://www.dropbox.com/scl/fi/8z1u83pxcek3li9mgaj08/The-Bibites-0.6.0.1-Windows-64x.zip.torrent?rlkey=gfrt581oaq0jfuqdxs9n1tqsk&st=hhb7txyd&dl=1)
 
 0.6.0.1 - Windows 32x
 
