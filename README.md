@@ -930,7 +930,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 64x
 
-[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBz_x0_2-oGTq3UocCmgvbwAeqWzvfGqMs-19GoONDwji4?e=rMExAT), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
+[Dropbox download](https://www.dropbox.com/scl/fi/4xuby2dgtrer7ncnazhsp/The-Bibites-0.4.2-Windows-64x.7z?rlkey=sf9ctzgu6ggo11vufc92uld9q&st=1djwcfi5&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBz_x0_2-oGTq3UocCmgvbwAeqWzvfGqMs-19GoONDwji4?e=rMExAT), [Google Drive Download](https://drive.google.com/file/d/1MIyrwiiwpIxvws8UhxxzTPirJKeVC1wl/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/3k4vyucv), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2064x.7z.torrent)
 
 0.4.2 - Windows 32x
 
@@ -997,7 +997,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.1 - Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=64392642&m=146860838), [Dropbox Download](https://www.dropbox.com/scl/fi/6f3zq6vw6l317zgu3hyby/The-Bibites-0.4.1-Windows-64x.zip?rlkey=7f5908947spsj77uzblny84i6&st=r99xr3im&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCrNdLUxRV3SbzTaNWXMsB4AWI1DS6C_ykYzvh26aXe4dc?e=2HOlyy), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
+[Free Patreon download](https://www.patreon.com/file?h=64392642&m=146860838), [Dropbox Download](https://www.dropbox.com/scl/fi/6f3zq6vw6l317zgu3hyby/The-Bibites-0.4.1-Windows-64x.zip?rlkey=7f5908947spsj77uzblny84i6&st=r99xr3im&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCrNdLUxRV3SbzTaNWXMsB4AWI1DS6C_ykYzvh26aXe4dc?e=2HOlyy), [Google Drive Download](https://drive.google.com/file/d/1RLmCJhDfjqMQZYcBpOdargCadr4WMN-3/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/49dkctjw), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.1%20-%20Windows%2064x.zip.torrent)
 
 0.4.1 - Windows 32x
 
@@ -1306,7 +1306,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a6 - Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/l738zvg7276ef9w9b6sao/The-Bibites-0.3a6-Windows-64x.zip?rlkey=dqbj48ta48ok14zvb2l2pzmdj&st=476slasf&dl=0)
+[Dropbox Download](https://www.dropbox.com/scl/fi/l738zvg7276ef9w9b6sao/The-Bibites-0.3a6-Windows-64x.zip?rlkey=dqbj48ta48ok14zvb2l2pzmdj&st=476slasf&dl=1), [Google Drive Download](https://drive.google.com/file/d/1K-RpS0WL34hPo3YbrkzEgCq16Hibg6sV/view?usp=sharing)
 
 0.3a6 - Windows 32x
 
