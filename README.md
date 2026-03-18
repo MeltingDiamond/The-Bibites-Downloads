@@ -836,7 +836,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.5.0a3 - Windows 64x
 
-[Google Drive](https://drive.google.com/file/d/1aBgVsb7txw5YkW_vpGh9kqB_w9FBvzoM/view?usp=sharing)
+[Google Drive Download](https://drive.google.com/file/d/1aBgVsb7txw5YkW_vpGh9kqB_w9FBvzoM/view?usp=sharing)
 
 0.5.0a3 - Windows 32x
 
@@ -934,7 +934,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2 - Windows 32x
 
-[Google Drive](https://drive.google.com/file/d/14Cvi2PEoKVjNl-bw_swOWu9rY-qIj5nr/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/mvr83v7s), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2032x.zip.torrent)
+[Google Drive Download](https://drive.google.com/file/d/14Cvi2PEoKVjNl-bw_swOWu9rY-qIj5nr/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/mvr83v7s), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.4.2%20-%20Windows%2032x.zip.torrent)
 
 0.4.2 - Mac Universal
 
@@ -1195,26 +1195,26 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.1a1 - Windows 64x
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDkMpXnNlmqSp0VF0o79dhpASfAE0gJDZ0232c4iVKekFc?e=6TmqxK), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDkMpXnNlmqSp0VF0o79dhpASfAE0gJDZ0232c4iVKekFc?e=6TmqxK), (Google Drive Download)[https://drive.google.com/file/d/1BXS8efYfhtfzOvXaHiME1_wP8wB79v4n/view?usp=sharing], [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
 
 0.3.1a1 - Windows 32x
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCt-8cBjwfiTL8utoYsYVDsAT25rOjRvHBcdfVMUG4Qmtw?e=gsRgi8), [Magnet URL for torrent](https://tinyurl.com/3fr25kye), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2032x.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQCt-8cBjwfiTL8utoYsYVDsAT25rOjRvHBcdfVMUG4Qmtw?e=gsRgi8), [Google Drive Download](https://drive.google.com/file/d/1uwHKpTLMxg4h6O8LpPm2YHEBNxCOx7fz/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/3fr25kye), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2032x.zip.torrent)
 
 0.3.1a1 - Mac Universal
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQAFzp82z8hPToTxZNm7t82WAU5zv9ZU9FCx_khKjJwfsJY?e=9laCiN), [Magnet URL for torrent](https://tinyurl.com/yebder4h), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Mac%20Universal.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQAFzp82z8hPToTxZNm7t82WAU5zv9ZU9FCx_khKjJwfsJY?e=9laCiN), [Google Drive Download](https://drive.google.com/file/d/1-D0NWoIX0zylO2Ly9lbwPu1KR3o9-6Ag/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/yebder4h), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Mac%20Universal.zip.torrent)
 
 0.3.1a1 - Linux
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQC1lQkNbf9LQJseZDir7RLsAStuvHm5JlzSJa2KO3UPmhA?e=5fQI9Z), [Magnet URL for torrent](https://tinyurl.com/bdejbtcf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Linux.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQC1lQkNbf9LQJseZDir7RLsAStuvHm5JlzSJa2KO3UPmhA?e=5fQI9Z), [Google Drive Download](https://drive.google.com/file/d/1qRgGsDSASb2n6tpRi6mwsrNGa0W1vfP9/view?usp=sharing),  [Magnet URL for torrent](https://tinyurl.com/bdejbtcf), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Linux.zip.torrent)
 
 
 # 0.3.0
 
 0.3.0 - Windows 64x
 
-[Google Drive](https://drive.google.com/file/d/15PcHUzE7MKDW9stTxUrMYOLqFNUp28Uv/view), [Dropbox Download](https://www.dropbox.com/scl/fi/h0cn2yz4ch5h1l7h487qy/The-Bibites-0.3.zip?rlkey=6t058rfifhuvdnh2jzyyognma&st=v1283tlq&dl=1)
+[Google Drive Download](https://drive.google.com/file/d/15PcHUzE7MKDW9stTxUrMYOLqFNUp28Uv/view), [Dropbox Download](https://www.dropbox.com/scl/fi/h0cn2yz4ch5h1l7h487qy/The-Bibites-0.3.zip?rlkey=6t058rfifhuvdnh2jzyyognma&st=v1283tlq&dl=1)
 
 0.3.0 - Windows 32x
 
@@ -1322,7 +1322,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a5 - Windows
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBR_q944P_6SIAxIHylyKqtAetsltBvovo_-1B2GIYLiok?e=UU3ltE), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20windows.rar.torrent)
+[Dropbox Download](https://www.dropbox.com/scl/fi/qkqfzbivfvvhketg335hv/Bibites-0.3a5-for-windows.rar?rlkey=2aywduux4tl8nfe3gfwwlnl2t&st=zgk1pt6x&dl=1), [OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQBR_q944P_6SIAxIHylyKqtAetsltBvovo_-1B2GIYLiok?e=UU3ltE), [Google Drive Download](https://drive.google.com/file/d/1Ra-SinXnGisJAA5ry0nSevy4dXI4xLHS/view?usp=sharing), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/Bibites%200.3a5%20for%20windows.rar.torrent)
 
 0.3a5 - Mac
 
