@@ -171,31 +171,31 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.6.2a2 - Patreon Windows 32x
 
-[Kemono download](https://n2.kemono.su/data/a5/4a/a54a5c0322ba102ca859c00f61ac6ca3683d576467ea3ea222973ae700a12cad.bin?f=The+Bibites+0.6.2a2+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1USbrZHnTXrloSGjGMPdbk3nC5Lc32-Qh/view?usp=sharing)
 
 0.6.2a2 - Patreon Mac Universal
 
-[Kemono download](https://n1.kemono.su/data/d1/e9/d1e9563bdf401c0b555f24264eb58bb5d9a49981fd65536ed3723bf4e21fd82a.bin?f=The+Bibites+0.6.2a2+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1L5GpJE-MVgnCWmBXs4VkoQHk2TdlGJV8/view?usp=sharing)
 
 0.6.2a2 - Patreon Linux
 
-[Kemono download](https://n3.kemono.su/data/da/e4/dae44f7440ffd21e5a4ff2ab22706ed1c6139a806c7c7fcacd10ecfab9f69674.bin?f=The+Bibites+0.6.2a2+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1spNP5uu6iqrhXeyUU4Xk5AV9t2TFkCTJ/view?usp=sharing)
 
 0.6.2a1 - Patreon Windows 64x
 
-[Kemono download](https://n3.kemono.su/data/e3/48/e348a49854bdfe59cf3632a7d99415a4eb062494ae305e1af106014dff116a02.bin?f=The+Bibites+0.6.2a1+-+Windows+64x.zip) 
+[Google Drive Download](https://drive.google.com/file/d/1P9YnsFJLwW8PVIw6yDOAPGQ3zy7EO9P5/view?usp=sharing) 
 
 0.6.2a1 - Patreon Windows 32x
 
-[Kemono download](https://n3.kemono.su/data/84/c3/84c3a89832297ffd513e1ecf8268e8fd1ffaa42cc46de651d487f9f1fcd7b650.bin?f=The+Bibites+0.6.2a1+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1o1x13lPS3sa51WytHWARqjduK44w1gpv/view?usp=sharing)
 
 0.6.2a1 - Patreon Mac Universal
 
-[Kemono download](https://n1.kemono.su/data/d6/4d/d64df4f4422efa72a5f7cb058c4bb61caac4e302618428952395381019a6eb55.bin?f=The+Bibites+0.6.2a1+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1vxKVZEJExykG-i3wCadsg5brnEJBmwzr/view?usp=sharing)
 
 0.6.2a1 - Patreon Linux
 
-[Kemono download](https://n1.kemono.su/data/49/3a/493a3f1902f7ebae8a467f1b9492135493054ae24f6f94414035efc772f1ae9c.bin?f=The+Bibites+0.6.2a1+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1P7kr92LLtVVYG1uuo5BcVNy-SLUUQOQM/view?usp=sharing)
 # 0.6.1
 0.6.1 Hotfix - Itch Windows 64x
 
@@ -971,31 +971,31 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2a2 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/ff/9a/ff9a2a50e2220465505fe5228d2656bb0a0279a18f32b9b3a6dc9366999f936c.zip?f=The%20Bibites%200.4.2a2%20-%20Windows%2064x.zip)
+[Kemono download](https://n1.kemono.cr/data/ff/9a/ff9a2a50e2220465505fe5228d2656bb0a0279a18f32b9b3a6dc9366999f936c.zip?f=The+Bibites+0.4.2a2+-+Windows+64x.zip)
 
 0.4.2a2 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/89/ba/89ba2d269d26da19ba3694e7356c670786a934fbb4909de7a68f82296b29a694.zip?f=The%20Bibites%200.4.2a2%20-%20Windows%2032x.zip)
+[Kemono download](https://n4.kemono.cr/data/89/ba/89ba2d269d26da19ba3694e7356c670786a934fbb4909de7a68f82296b29a694.zip?f=The+Bibites+0.4.2a2+-+Windows+32x.zip)
 
 0.4.2a2 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/1c/12/1c1248753c3dd92c85024534e0d533ab4cd6bd36c4c424fb59278f1d8741c56e.zip?f=The%20Bibites%200.4.2a2%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/1c/12/1c1248753c3dd92c85024534e0d533ab4cd6bd36c4c424fb59278f1d8741c56e.zip?f=The+Bibites+0.4.2a2+-+Mac+Universal.zip)
 
 0.4.2a2 - Linux
 
-[Kemono download](https://c3.kemono.su/data/16/ff/16ff6797a399b2f099577521c69dfe8828adeb7d5a0577fcef30aa8165a4f309.zip?f=The%20Bibites%200.4.2a2%20-%20Linux.zip)
+[Kemono download](https://n2.kemono.cr/data/16/ff/16ff6797a399b2f099577521c69dfe8828adeb7d5a0577fcef30aa8165a4f309.zip?f=The+Bibites+0.4.2a2+-+Linux.zip)
 
 0.4.2a1 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/27/c9/27c9042a8185a6199a251d980c4234a1ede860756c8a53ee0c58c01c0caeed05.zip?f=The%20Bibites%200.4.2a1%20-%20Windows%2064x.zip)
+[Kemono download](https://n3.kemono.cr/data/27/c9/27c9042a8185a6199a251d980c4234a1ede860756c8a53ee0c58c01c0caeed05.zip?f=The+Bibites+0.4.2a1+-+Windows+64x.zip)
 
 0.4.2a1 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/4a/fe/4afe922178a7f8c9322af7e921cd23253fad6d79ef1121a274fdec987de40eb8.zip?f=The%20Bibites%200.4.2a1%20-%20Windows%2032x.zip)
+[Kemono download](https://n1.kemono.cr/data/4a/fe/4afe922178a7f8c9322af7e921cd23253fad6d79ef1121a274fdec987de40eb8.zip?f=The+Bibites+0.4.2a1+-+Windows+32x.zip)
 
 0.4.2a1 - Mac Universal
 
-[Kemono download](https://c1.kemono.su/data/c1/4c/c14c7b447f95a723e59b37cc46305fa1c1d305f8b45d9458660eefe5d5fe57bb.zip?f=The%20Bibites%200.4.2a1%20-%20Mac%20Universal.zip)
+[Kemono download](https://n1.kemono.cr/data/c1/4c/c14c7b447f95a723e59b37cc46305fa1c1d305f8b45d9458660eefe5d5fe57bb.zip?f=The+Bibites+0.4.2a1+-+Mac+Universal.zip)
 
 0.4.2a1 - Linux
 
@@ -1041,143 +1041,143 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4a8 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/bd/e5/bde5fb390f124d2ccb3076d81f5aab95ead5eefa7a8e4c6a7f614b1379ff1457.zip?f=The%20Bibites%200.4a8%20-%20Windows%2064x.zip)
+[Kemono download](https://n4.kemono.cr/data/bd/e5/bde5fb390f124d2ccb3076d81f5aab95ead5eefa7a8e4c6a7f614b1379ff1457.zip?f=The+Bibites+0.4a8+-+Windows+64x.zip)
 
 0.4a8 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/70/aa/70aa030ec0c785597750f314aacd01dec54fa16a7ff12e9e9dd57dc101b6f640.zip?f=The%20Bibites%200.4a8%20-%20Windows%2032x.zip)
+[Kemono download](https://n1.kemono.cr/data/70/aa/70aa030ec0c785597750f314aacd01dec54fa16a7ff12e9e9dd57dc101b6f640.zip?f=The+Bibites+0.4a8+-+Windows+32x.zip)
 
 0.4a8 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/8a/40/8a40f3f27e122f21b98aae0cb869bdc26bd976fb79caac9f194142e6721cdee4.zip?f=The%20Bibites%200.4a8%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/8a/40/8a40f3f27e122f21b98aae0cb869bdc26bd976fb79caac9f194142e6721cdee4.zip?f=The+Bibites+0.4a8+-+Mac+Universal.zip)
 
 0.4a8 - Linux
 
-[Kemono download](https://c5.kemono.su/data/a3/c7/a3c7daa02d55e2464e2350fc49b522c33f40216dd7a72e69ca65347cda79d76e.zip?f=The%20Bibites%200.4a8%20-%20Linux.zip)
+[Kemono download](https://n3.kemono.cr/data/a3/c7/a3c7daa02d55e2464e2350fc49b522c33f40216dd7a72e69ca65347cda79d76e.zip?f=The+Bibites+0.4a8+-+Linux.zip)
 
 0.4a7 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/72/08/72083fe1d0f4a16c936bcdf58fb2de658262c2c9670e1947da864fcc6532a352.zip?f=The%20Bibites%200.4a7%20-%20Windows%2064x.zip)
+[Kemono download](https://n3.kemono.cr/data/72/08/72083fe1d0f4a16c936bcdf58fb2de658262c2c9670e1947da864fcc6532a352.zip?f=The+Bibites+0.4a7+-+Windows+64x.zip)
 
 0.4a7 - Windows 32x
 
-[Kemono download](https://c2.kemono.su/data/58/b1/58b16fb3d3d40192ac4789224cb44c2e8ffb6e74d3cedcdbb271afc76ffa5048.zip?f=The%20Bibites%200.4a7%20-%20Windows%2032x.zip)
+[Kemono download](https://n1.kemono.cr/data/58/b1/58b16fb3d3d40192ac4789224cb44c2e8ffb6e74d3cedcdbb271afc76ffa5048.zip?f=The+Bibites+0.4a7+-+Windows+32x.zip)
 
 0.4a7 - Mac Universal
 
-[Kemono download](https://c1.kemono.su/data/e2/e9/e2e9442fa66a96e558d5f8c8230873adf115a88ee5c3e5502ace63825aa3c002.zip?f=The%20Bibites%200.4a7%20-%20Mac%20Universal.zip)
+[Kemono download](https://n1.kemono.cr/data/e2/e9/e2e9442fa66a96e558d5f8c8230873adf115a88ee5c3e5502ace63825aa3c002.zip?f=The+Bibites+0.4a7+-+Mac+Universal.zip)
 
 0.4a7 - Linux
 
-[Kemono download](https://c5.kemono.su/data/67/5a/675a2a900b395fdd53afc3c52b8cdd70295ef66ac89365b7795578a8c4a6964b.zip?f=The%20Bibites%200.4a7%20-%20Linux.zip)
+[Kemono download](https://n3.kemono.cr/data/67/5a/675a2a900b395fdd53afc3c52b8cdd70295ef66ac89365b7795578a8c4a6964b.zip?f=The+Bibites+0.4a7+-+Linux.zip)
 
 0.4a6 QuickFix - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/21/cd/21cdaf8fcfac25dc4cb98f7a626f74fc8e7ebaa4dbf969e6983cda781646a49e.zip?f=The%20Bibites%200.4a6%20-%20Windows%2064x.zip)
+[Kemono download](https://n1.kemono.cr/data/21/cd/21cdaf8fcfac25dc4cb98f7a626f74fc8e7ebaa4dbf969e6983cda781646a49e.zip?f=The+Bibites+0.4a6+-+Windows+64x.zip)
 
 0.4a6 QuickFix - Windows 32x
 
-[Kemono download](https://c5.kemono.su/data/d3/00/d300896fe4b8d083d825235406335bbf6d41c5618447fedf49d47fe8b952aa70.zip?f=The%20Bibites%200.4a6%20-%20Windows%2032x.zip)
+[Kemono download](https://n3.kemono.cr/data/d3/00/d300896fe4b8d083d825235406335bbf6d41c5618447fedf49d47fe8b952aa70.zip?f=The+Bibites+0.4a6+-+Windows+32x.zip)
 
 0.4a6 QuickFix - Mac Universal
 
-[Kemono download](https://c1.kemono.su/data/20/f0/20f0d6b605496a35bc157a5fc20978cd503607c33614acc60ccc42e8440e60ea.zip?f=The%20Bibites%200.4a6%20-%20Mac%20Universal.zip)
+[Kemono download](https://n1.kemono.cr/data/20/f0/20f0d6b605496a35bc157a5fc20978cd503607c33614acc60ccc42e8440e60ea.zip?f=The+Bibites+0.4a6+-+Mac+Universal.zip)
 
 0.4a6 QuickFix - Linux
 
-[Kemono download](https://c2.kemono.su/data/ca/ec/caeccde45dd1b8d77fcc1731bd8b36bc1a4b9b3399bf12efcab382a936b19751.zip?f=The%20Bibites%200.4a6%20-%20Linux.zip)
+[Kemono download](https://n2.kemono.cr/data/ca/ec/caeccde45dd1b8d77fcc1731bd8b36bc1a4b9b3399bf12efcab382a936b19751.zip?f=The+Bibites+0.4a6+-+Linux.zip)
 
 0.4a6 - Windows 64x
 
-[Kemono download](https://c1.kemono.su/data/1a/f1/1af1a401185792eba1e137ecaaa58392eebd2329c854ea6414304abfeed89605.zip?f=The%20Bibites%200.4a6%20-%20Windows%2064x.zip)
+[Kemono download](https://n1.kemono.cr/data/1a/f1/1af1a401185792eba1e137ecaaa58392eebd2329c854ea6414304abfeed89605.zip?f=The+Bibites+0.4a6+-+Windows+64x.zip)
 
 0.4a6 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/6a/ef/6aef308e58e9e39654bcf5eae6d3f8d2bc61b3d7861427c397ac6a81c00981aa.zip?f=The%20Bibites%200.4a6%20-%20Windows%2032x.zip)
+[Kemono download](https://n1.kemono.cr/data/6a/ef/6aef308e58e9e39654bcf5eae6d3f8d2bc61b3d7861427c397ac6a81c00981aa.zip?f=The+Bibites+0.4a6+-+Windows+32x.zip)
 
 0.4a6 - Mac Universal
 
-[Kemono download](https://c2.kemono.su/data/94/5d/945d918f7d3a9f4fab6050b246578fdea8a56c56e3920cedbe586462b7b439ce.zip?f=The%20Bibites%200.4a6%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/94/5d/945d918f7d3a9f4fab6050b246578fdea8a56c56e3920cedbe586462b7b439ce.zip?f=The+Bibites+0.4a6+-+Mac+Universal.zip)
 
 0.4a6 - Linux
 
-[Kemono download](https://c5.kemono.su/data/79/50/79503f3c82da82a42c9e0bfb728a6b6ea354c675bc2bc0799bc2b281fe81efe9.zip?f=The%20Bibites%200.4a6%20-%20Linux.zip)
+[Kemono download](https://n4.kemono.cr/data/79/50/79503f3c82da82a42c9e0bfb728a6b6ea354c675bc2bc0799bc2b281fe81efe9.zip?f=The+Bibites+0.4a6+-+Linux.zip)
 
 0.4a5 - Windows 64x
 
-[Kemono download](https://c4.kemono.su/data/73/b4/73b4117985c0a215f6573a75caed3c3c65ef1c6cfb655f1b85ada1b5660ec3ea.zip?f=The%20Bibites%200.4a5%20-%20Windows%2064x.zip)
+[Kemono download](https://n3.kemono.cr/data/73/b4/73b4117985c0a215f6573a75caed3c3c65ef1c6cfb655f1b85ada1b5660ec3ea.zip?f=The+Bibites+0.4a5+-+Windows+64x.zip)
 
 0.4a5 - Windows 32x
 
-[Kemono download](https://c4.kemono.su/data/3a/e7/3ae716a5a8e4fee3e26ea40f5a16201f42a3f5cd65d26929ff9136cec594ddf5.zip?f=The%20Bibites%200.4a5%20-%20Windows%2032x.zip)
+[Kemono download](https://n3.kemono.cr/data/3a/e7/3ae716a5a8e4fee3e26ea40f5a16201f42a3f5cd65d26929ff9136cec594ddf5.zip?f=The+Bibites+0.4a5+-+Windows+32x.zip)
 
 0.4a5 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/22/ca/22cad619cfa6318fa67a85b83762d0ad99c9649a4a147acd50588c6d04ea4222.zip?f=The%20Bibites%200.4a5%20-%20Mac%20Universal.zip)
+[Kemono download](https://n4.kemono.cr/data/22/ca/22cad619cfa6318fa67a85b83762d0ad99c9649a4a147acd50588c6d04ea4222.zip?f=The+Bibites+0.4a5+-+Mac+Universal.zip)
 
 0.4a5 - Linux
 
-[Kemono download](https://c4.kemono.su/data/20/be/20be1a1c5dced8f653503cdd9d19c48753a788c2e10eafe8668ec12c67d7e16e.zip?f=The%20Bibites%200.4a5%20-%20Linux.zip)
+[Kemono download](https://n3.kemono.cr/data/20/be/20be1a1c5dced8f653503cdd9d19c48753a788c2e10eafe8668ec12c67d7e16e.zip?f=The+Bibites+0.4a5+-+Linux.zip)
 
 0.4a4 - Windows 64x
 
-[Kemono download](https://c6.kemono.su/data/01/46/0146b5063c0717b1449d99d1b7393a2649df47de0a320994d6d722f37aa30c24.zip?f=The%20Bibites%200.4a4%20-%20Windows%2064x.zip)
+[Kemono download](https://n4.kemono.cr/data/01/46/0146b5063c0717b1449d99d1b7393a2649df47de0a320994d6d722f37aa30c24.zip?f=The+Bibites+0.4a4+-+Windows+64x.zip)
 
 0.4a4 - Windows 32x
 
-[Kemono download](https://c5.kemono.su/data/b1/ef/b1efd5a7e97548f0808b36fcfb63f790a53afde2311c3441efd8436b8ffcbee7.zip?f=The%20Bibites%200.4a4%20-%20Windows%2032x.zip)
+[Kemono download](https://n3.kemono.cr/data/b1/ef/b1efd5a7e97548f0808b36fcfb63f790a53afde2311c3441efd8436b8ffcbee7.zip?f=The+Bibites+0.4a4+-+Windows+32x.zip)
 
 0.4a4 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/c8/44/c844783cd17964018fda73fb3be7f1da03faae5a131a83f70f9d13f64e4962e8.zip?f=The%20Bibites%200.4a4%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/c8/44/c844783cd17964018fda73fb3be7f1da03faae5a131a83f70f9d13f64e4962e8.zip?f=The+Bibites+0.4a4+-+Mac+Universal.zip)
 
 0.4a4 - Linux
 
-[Kemono download](https://c4.kemono.su/data/f4/fb/f4fb897da7353668f0d91ea4c686b570ed5c737b8306dcf8d028e070ac360713.zip?f=The%20Bibites%200.4a4%20-%20Linux.zip)
+[Kemono download](https://n3.kemono.cr/data/f4/fb/f4fb897da7353668f0d91ea4c686b570ed5c737b8306dcf8d028e070ac360713.zip?f=The+Bibites+0.4a4+-+Linux.zip)
 
 0.4a3 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/19/69/196961c33115950e7b66e223c1a8aa79b986a8e0a8d587a45a0360793614b305.zip?f=The%20Bibites%200.4a3%20-%20Windows%2064x.zip)
+[Kemono download](https://n2.kemono.cr/data/19/69/196961c33115950e7b66e223c1a8aa79b986a8e0a8d587a45a0360793614b305.zip?f=The+Bibites+0.4a3+-+Windows+64x.zip)
 
 0.4a3 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/de/ae/deaed7466a5ab389fe0551b14a5269f5b65b43b7c91abbf536bf801021057708.zip?f=The%20Bibites%200.4a3%20-%20Windows%2032x.zip)
+[Kemono download](https://n4.kemono.cr/data/de/ae/deaed7466a5ab389fe0551b14a5269f5b65b43b7c91abbf536bf801021057708.zip?f=The+Bibites+0.4a3+-+Windows+32x.zip)
 
 0.4a3 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/24/b7/24b76688bc45f9a443d721a92675af5cf6261a86cd025a24f406ba64eddf868a.zip?f=The%20Bibites%200.4a3%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/24/b7/24b76688bc45f9a443d721a92675af5cf6261a86cd025a24f406ba64eddf868a.zip?f=The+Bibites+0.4a3+-+Mac+Universal.zip)
 
 0.4a3 - Linux
 
-[Kemono download](https://c4.kemono.su/data/53/70/5370ebd2c1d45eb3d549fd8039a3de65d2a64a5c2901fe8d24121d541bfed63c.zip?f=The%20Bibites%200.4a3%20-%20Linux.zip)
+[Kemono download](https://n3.kemono.cr/data/53/70/5370ebd2c1d45eb3d549fd8039a3de65d2a64a5c2901fe8d24121d541bfed63c.zip?f=The+Bibites+0.4a3+-+Linux.zip)
 
 0.4a2 - Windows 64x
 
-[Kemono download](https://c3.kemono.su/data/4a/32/4a32edc8b69c2edc0c1c91d1c48d1db5a692c66e4611014f9bddcfc3457f2d95.zip?f=The%20Bibites%200.4a2%20-%20Windows%2064x.zip)
+[Kemono download](https://n2.kemono.cr/data/4a/32/4a32edc8b69c2edc0c1c91d1c48d1db5a692c66e4611014f9bddcfc3457f2d95.zip?f=The+Bibites+0.4a2+-+Windows+64x.zip)
 
 0.4a2 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/1d/13/1d136fc661ffad50a1cfe5bd0e13a361bd176243c7818fa543de5a79df5425c8.zip?f=The%20Bibites%200.4a2%20-%20Windows%2032x.zip)
+[Kemono download](https://n4.kemono.cr/data/1d/13/1d136fc661ffad50a1cfe5bd0e13a361bd176243c7818fa543de5a79df5425c8.zip?f=The+Bibites+0.4a2+-+Windows+32x.zip)
 
 0.4a2 - Mac Universal
 
-[Kemono download](https://c2.kemono.su/data/f0/04/f0047c0e4b4e5fbaed3d362ad0c4a88aebd0a27ffd2282c7b6f3bf0e19104cc7.zip?f=The%20Bibites%200.4a2%20-%20Mac%20Universal.zip)
+[Kemono download](https://n2.kemono.cr/data/f0/04/f0047c0e4b4e5fbaed3d362ad0c4a88aebd0a27ffd2282c7b6f3bf0e19104cc7.zip?f=The+Bibites+0.4a2+-+Mac+Universal.zip)
 
 0.4a2 - Linux
 
-[Kemono download](https://c2.kemono.su/data/8d/a7/8da7c4ec0f7292c2dadb1507c1b14c1f4d8120fbabf52046d3ba93ee96825689.zip?f=The%20Bibites%200.4a2%20-%20Linux.zip)
+[Kemono download](https://n1.kemono.cr/data/8d/a7/8da7c4ec0f7292c2dadb1507c1b14c1f4d8120fbabf52046d3ba93ee96825689.zip?f=The+Bibites+0.4a2+-+Linux.zip)
 
 0.4a1 - Windows 64x
 
-[Kemono download](https://c2.kemono.su/data/6d/99/6d99557f9b571dba2e072269ee62d139874090c3a496ecb423d4fe1f0f752e49.zip?f=The%20Bibites%200.4a1%20-%20Windows%2064x.zip)
+[Kemono download](https://n1.kemono.cr/data/6d/99/6d99557f9b571dba2e072269ee62d139874090c3a496ecb423d4fe1f0f752e49.zip?f=The+Bibites+0.4a1+-+Windows+64x.zip)
 
 0.4a1 - Windows 32x
 
-[Kemono download](https://c6.kemono.su/data/f8/0e/f80e8dc2c416c5820ccbee0ecd27e7719f5b20dc0e91e442bff41a95ffefc46c.zip?f=The%20Bibites%200.4a1%20-%20Windows%2032x.zip)
+[Kemono download](https://n4.kemono.cr/data/f8/0e/f80e8dc2c416c5820ccbee0ecd27e7719f5b20dc0e91e442bff41a95ffefc46c.zip?f=The+Bibites+0.4a1+-+Windows+32x.zip)
 
 0.4a1 - Mac Universal
 
-[Kemono download](https://c5.kemono.su/data/d5/f5/d5f57dc4f5d05e9a076d41e47fe2c3dc1f3f606216b7d57ef97217f5b7e00ee1.zip?f=The%20Bibites%200.4a1%20-%20Mac%20Universal.zip)
+[Kemono download](https://n4.kemono.cr/data/d5/f5/d5f57dc4f5d05e9a076d41e47fe2c3dc1f3f606216b7d57ef97217f5b7e00ee1.zip?f=The+Bibites+0.4a1+-+Mac+Universal.zip)
 
 0.4a1 - Linux
 
