@@ -68,21 +68,21 @@ Here is the list of all versions tracked with download links, if any of the link
 
 [Dropbox Download](https://www.dropbox.com/scl/fi/0io1q8p9kceqfrbfjec1g/The-Bibites-0.6.3-Linux.zip?rlkey=y6zqrqfw2mkntq6ds2hw3ezpq&st=9ctatjwp&dl=1), [Google Drive Download](https://drive.google.com/file/d/1zVJaMsUcaG-rCPD-zK55iChPRRh88fV0/view?usp=sharing)
 
-0.6.3 alpha 4 - Patreon Windows 64x
+0.6.3 RC - Patreon Windows 64x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Patreon Windows 32x
+0.6.3 RC - Patreon Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Patreon Mac Universal
+0.6.3 RC - Patreon Mac Universal
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
 
-0.6.3 alpha 4 - Patreon Linux
+0.6.3 RC - Patreon Linux
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
 
 0.6.3 alpha 3 - Patreon Windows 64x
 
@@ -1299,19 +1299,19 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a7 - Windows 64x
 
-[Kemono download](https://n1.kemono.cr/data/da/5e/da5e2928e475efefef158a7bb1ce497a5c45800dc37623c0137d5dd4f5e81551.zip?f=The+Bibites+0.3a7+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/14JK3oAe8PY2eLcRXuWMLxBKSriBYkEZt/view?usp=sharing)
 
 0.3a7 - Windows 32x
 
-[Kemono download](https://n4.kemono.cr/data/70/ed/70eda3ab7625105e7fbf3496d0f0efad0286639408324a8f87e2566e33ba03c4.zip?f=The+Bibites+0.3a7+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1EQCJDYy1g7DcFEJLAZv9ynxSy_1Ifl2l/view?usp=sharing)
 
 0.3a7 - Mac Universal
 
-[Kemono download](https://n2.kemono.cr/data/e8/51/e851c3e93164aec29abab8d270cbbe86696dfa606f69fa5e7a03a5eb983c498a.zip?f=The+Bibites+0.3a7+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1jlua7rS43aO3sogGkVsTxoH5OybpAdSa/view?usp=sharing)
 
 0.3a7 - Linux
 
-[Kemono download](https://n4.kemono.cr/data/d3/af/d3af4d4a8554b3eeaa0f3c25984b028db1a9d42c35f46f854304fb630c865b7a.zip?f=The+Bibites+0.3a7+-+Linux.zip), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/7ced5e8cc5cdf888946c9f6b5ad42c398ade8515/Torrents/The%20Bibites%200.3a7%20-%20Linux.zip.torrent)
+[Google Drive Download](https://drive.google.com/file/d/1Lp3G7HnOJrugk08aYx771MIjOiBIxIl6/view?usp=sharing), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/7ced5e8cc5cdf888946c9f6b5ad42c398ade8515/Torrents/The%20Bibites%200.3a7%20-%20Linux.zip.torrent)
 
 0.3a6 - Windows 64x
 
