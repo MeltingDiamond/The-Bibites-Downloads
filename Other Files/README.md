@@ -16,6 +16,8 @@ Anything that can be uploaded to github will be uploaded.
 
 [A bibite. So simple yet so cute - png](Other%20Files/Not%20version%20specific/A%20bibite.%20So%20simple%20yet%20so%20cute.png)
 
+[Viruses in a virtual ecosystem - jpg](Other%20Files/Not%20version%20specific/Viruses%20in%20a%20virtual%20ecosystem.jpg)
+
 ## other
 
 [Help on The Bibites interface - pdf](https://drive.google.com/file/d/1-6AyPj3MMdWPcam4Uq-2ofupDO9vKrZP/view), [Secondary link](/Other%20Files/Not%20version%20specific/Help%20on%20The%20Bibites%20interface.pdf)
