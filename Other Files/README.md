@@ -14,9 +14,9 @@ Anything that can be uploaded to github will be uploaded.
 
 [2-year Roadmap - png](/Other%20Files/Not%20version%20specific/2-year%20Roadmap.png)
 
-[A bibite. So simple yet so cute - png](Other%20Files/Not%20version%20specific/A%20bibite.%20So%20simple%20yet%20so%20cute.png)
+[A bibite. So simple yet so cute - png](/Other%20Files/Not%20version%20specific/A%20bibite.%20So%20simple%20yet%20so%20cute.png)
 
-[Viruses in a virtual ecosystem - jpg](Other%20Files/Not%20version%20specific/Viruses%20in%20a%20virtual%20ecosystem.jpg)
+[Viruses in a virtual ecosystem - jpg](/Other%20Files/Not%20version%20specific/Viruses%20in%20a%20virtual%20ecosystem.jpg)
 
 ## other
 
