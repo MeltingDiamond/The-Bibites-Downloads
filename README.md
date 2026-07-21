@@ -215,19 +215,19 @@ Missing. This is the release candidate for 0.6.3. If you got this version please
 
 0.6.1a7 - Patreon Windows 64x
 
-[Kemono download](https://n3.kemono.su/data/64/91/64915e07c7570e06dde644d81f9c6f10ad0bc05c9c7fec735e150bde609d2382.bin?f=The+Bibites+0.6.1a7+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1VDWW-gKbtdhFQgfT2VLaSDErSg8zKMH8/view?usp=sharing)
 
 0.6.1a7 - Patreon Windows 32x
 
-[Kemono download](https://n2.kemono.su/data/ac/da/acda1eb6e627932de9fc7faaddfd0f0c4514fd3b76453d4e0f50b8a587694e6a.bin?f=The+Bibites+0.6.1a7+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1YGQixD8UVdf3x87q6ZKXDKGK4DM0bAur/view?usp=sharing)
 
 0.6.1a7 - Patreon Mac Universal
 
-[Kemono download](https://n3.kemono.su/data/3d/cd/3dcdfba3c83f460de7bd7671568107e432af363e60f7f442efe5246639af220a.bin?f=The+Bibites+0.6.1a7+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/176D2_P2CvMwIrUmDGO1DsHOk9xjdmWGF/view?usp=sharing)
 
 0.6.1a7 - Patreon Linux
 
-[Kemono download](https://n3.kemono.su/data/21/71/217159d7f593133511024447abb288c41f28ec18943b050c883457ad7c432460.bin?f=The+Bibites+0.6.1a7+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1y68Kef82IkzQ2veFdpZU7ykcfKX_3EJE/view?usp=sharing)
 
 0.6.1a6 (The Bibites Demo) - Steam Windows 64x
 
@@ -263,51 +263,51 @@ Not sure if this was downloadable. If you got this version please message or pin
 
 0.6.1a4 - Patreon Windows 64x
 
-[Kemono download](https://n4.kemono.su/data/95/45/95456b58780ea9e5f1644aa137a1ec2c1b69420a39877173531f3e45e7f37e5d.zip?f=The+Bibites+0.6.1a4+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1AZDlm3LHA3SQC94bbcsdIX6kJe480vAT/view?usp=sharing)
 
 0.6.1a4 - Patreon Windows 32x
 
-[Kemono download](https://n3.kemono.su/data/74/24/7424cb556ff31ffc101a73c3e71c71ae79ec39bfe0849ca8cc8d982b361755e6.zip?f=The+Bibites+0.6.1a4+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/11DWOvcYa3f2Bq973txxQgRfmgQjwUSLw/view?usp=sharing)
 
 0.6.1a4 - Patreon Mac Universal
 
-[Kemono download](https://n1.kemono.su/data/fc/38/fc381317865d01cd2596402edf76c3c3c30c329d13b3b3d325cf7b68da3ae6eb.zip?f=The+Bibites+0.6.1a4+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1w0CGMxwz1OSweF4cD3LPtjWHHHmYQ07b/view?usp=sharing)
 
 0.6.1a4 - Patreon Linux
 
-[Kemono download](https://n1.kemono.su/data/8c/f7/8cf756fad80bd1e7d6392a67cb0fa0fe8ca856c63f0138cdc3fbe218360a064b.zip?f=The+Bibites+0.6.1a4+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1Dsug7jNWg9UALkAFY-CnyMBSezYYLpZP/view?usp=sharing)
 
 0.6.1a3 - Patreon Windows 64x
 
-[Kemono download](https://n2.kemono.su/data/71/f2/71f27a999eca51f07daa09309e8165ee415fcadccc5a4a8cc3f65d78236dcd6e.zip?f=The+Bibites+0.6.1a3+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1w7S3EBn8sSaoU7HoKTAOZjDWIssRWqL9/view?usp=sharing)
 
 0.6.1a3 - Patreon Windows 32x
 
-[Kemono download](https://n1.kemono.su/data/d8/07/d8071af3b9d3af287b1c3026a6378e667848ba1596dc089115ecf0866659f235.zip?f=The+Bibites+0.6.1a3+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1YbylRf3s6SlMQzoR2lIBGx9uz82tqWXD/view?usp=sharing)
 
 0.6.1a3 - Patreon Mac Universal
 
-[Kemono download](https://n2.kemono.su/data/29/c1/29c1a297512bff86d722a46250efa7e46fba85453165a8a3a4a35f7c0610bc4e.zip?f=The+Bibites+0.6.1a3+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1lwr6n-_pCXskxfvcWy02car0B2vpOy_h/view?usp=sharing)
 
 0.6.1a3 - Patreon Linux
 
-[Kemono download](https://n1.kemono.su/data/b0/9e/b09ec52ae480d0b1d9c0f5c5a03cecb3be88f9096256db16e01e51d2c61a2d29.zip?f=The+Bibites+0.6.1a3+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1ukbwkVv38HJ78GRvhrrFfi1ZjcnH82QX/view?usp=sharing)
 
 0.6.1a2 - Patreon Windows 64x
 
-[Kemono download](https://n1.kemono.su/data/c6/79/c67901d98771b5c268f47c85a671b6785a5cfaf0d95d98e563d2cf090b4f3e6c.zip?f=The+Bibites+0.6.1a2+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/15Y31a7oFyMV3GIjiYszAqB8DuRdFRrDP/view?usp=drive_link)
 
 0.6.1a2 - Patreon Windows 32x
 
-[Kemono download](https://n3.kemono.su/data/12/06/120631ff143d75bae88df268dd5db21a0c04a7f1660e779a55709aefc5d6b7d6.zip?f=The+Bibites+0.6.1a2+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1mMXeLMo1CgJ0LXWGqNuwshIQgd2EiJWv/view?usp=sharing)
 
 0.6.1a2 - Patreon Mac Universal
 
-[Kemono download](https://n4.kemono.su/data/9f/ed/9fed00897dca54153533415cf3bffd8579e33b47912264bd14c9146c0b8f7561.zip?f=The+Bibites+0.6.1a2+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1gpwS8_9POwoosbaILIonWmcxY7G1WYXS/view?usp=sharing)
 
 0.6.1a2 - Patreon Linux
 
-[Kemono download](https://n2.kemono.su/data/52/9b/529b798757d40cd73902de1e0d5d22b0545ab7d6263a17a84274d386e9272934.zip?f=The+Bibites+0.6.1a2+-+Linux.zip)
+Missing. If you got this version please message or ping @melting_diamond on discord
 
 0.6.1a1 - Patreon Windows 64x
 
