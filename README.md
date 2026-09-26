@@ -1204,7 +1204,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3.1a1 - Windows 64x
 
-[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDkMpXnNlmqSp0VF0o79dhpASfAE0gJDZ0232c4iVKekFc?e=6TmqxK), (Google Drive Download)[https://drive.google.com/file/d/1BXS8efYfhtfzOvXaHiME1_wP8wB79v4n/view?usp=sharing], [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
+[OneDrive Download](https://1drv.ms/u/c/3f8f663bc36efa05/IQDkMpXnNlmqSp0VF0o79dhpASfAE0gJDZ0232c4iVKekFc?e=6TmqxK), [Google Drive Download](https://drive.google.com/file/d/1BXS8efYfhtfzOvXaHiME1_wP8wB79v4n/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/432my8wj), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3.1a1%20-%20Windows%2064x.zip.torrent)
 
 0.3.1a1 - Windows 32x
 
