@@ -1239,7 +1239,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3b3 - Windows 64x
 
-[Kemono download](https://n3.kemono.cr/data/36/15/3615ff111798875179fad132cce9caf7b3b93bd128acd70549d17daee51e61b7.zip?f=The+Bibites+0.3b3+-+Windows+64x.zip), [Magnet URL for torrent](https://tinyurl.com/4sx84pxb), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3b3%20-%20Windows%2064x.zip.torrent)
+[Google Drive Download](https://drive.google.com/file/d/1MGPR4-eF9JNBErDUshvak2Ic9bWWt0Tr/view?usp=sharing), [Magnet URL for torrent](https://tinyurl.com/4sx84pxb), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.3b3%20-%20Windows%2064x.zip.torrent)
 
 0.3b3 - Mac Universal
 
@@ -1247,43 +1247,43 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3b3 - Linux
 
-[Kemono download](https://n2.kemono.cr/data/ca/f4/caf4e15b5c97dbec630510c7f8a8f7cec2446224b09d138db9466ef7eee993d4.zip?f=The+Bibites+0.3b3+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1mo3sV-ox3YWO1dAJlIJWUcQBQ7wuYW6x/view?usp=sharing)
 
 0.3b2 - Windows 64x
 
-[Kemono download](https://n1.kemono.cr/data/57/16/5716c3101c85282b45b69d2b682d1f1a04104c6414de94f3432270c92204f4c2.zip?f=The+Bibites+0.3b2+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1nnUSaYmMfgnp76D7juS3DjZ6ENz7C0H0/view?usp=sharing)
 
 0.3b2 - Windows 32x
 
-[Kemono download](https://n1.kemono.cr/data/76/69/7669591e77f34a846e196a1774ad14f68b295830bb9a23b8944c712fc407e958.zip?f=The+Bibites+0.3b2+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1iSmUetvPJUKx7wle7yqdab5IK7lE7zdk/view?usp=sharing)
 
 0.3b2 - Mac Universal
 
-[Kemono download](https://n1.kemono.cr/data/16/7b/167bf94a45c66319ebcfb1379082f2a0644e741f5cf315829bca3d5c411f2c56.zip?f=The+Bibites+0.3b2+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1CnL78fATf1QINUHm5tuKwoYFwAn5hGYD/view?usp=sharing)
 
 0.3b2 - Linux
 
-[Kemono download](https://n3.kemono.cr/data/d7/b5/d7b535516c2f97ad72a9756ef2089b3be5f3bb3e047eac897379a072e11ba495.zip?f=The+Bibites+0.3b2+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1NTgF7mAwWJfM4FX-JHVD_1HItESZKonn/view?usp=sharing)
 
 0.3b1 - Windows 64x
 
-[Kemono download](https://n1.kemono.cr/data/1f/fd/1ffd2094f6f2aaba73060988e9ec9e245dd241d80d69ab6ba598e3e2814b7670.zip?f=The+Bibites+0.3b1+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1gMzgJSs-BdUp-WLEjoAoYf6Uavl_Ibif/view?usp=sharing)
 
 0.3b1 - Windows 32x
 
-[Kemono download](https://n3.kemono.cr/data/6a/85/6a85e36c5c9e165cf269e3723c0c23f55f5c0ff22eb6e84d833f6baf24747e11.zip?f=The+Bibites+0.3b1+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1pTtnD2qNdOow-vKowjfTisaNZ69DdJyl/view?usp=sharing)
 
 0.3b1 - Mac Universal
 
-[Kemono download](https://n2.kemono.cr/data/0f/82/0f826c75a9d0f8f8af6e281872a2ee02ec3c7f5067a69bb825e21f9ce7301af4.zip?f=The+Bibites+0.3b1+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/13vxJvvAcElatCKiiWOZbRvQvqsf7dGoS/view?usp=sharing)
 
 0.3b1 - Linux
 
-[Kemono download](https://n2.kemono.cr/data/df/fa/dffa847f06f7348fe4966d7dbb4b18cf252679900c6ec079dae4f19d6a778597.zip?f=The+Bibites+0.3b1+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1TvKcSVhn2JboMv82qZR5oed-UUU37Njv/view?usp=sharing)
 
 0.3a8 - Windows 64x
 
-[Kemono download](https://n2.kemono.cr/data/b5/b4/b5b49e7123bc8752eacb8987799b1300de2a4797b80fcf49322e3f4daa6181ba.zip?f=The+Bibites+0.3a8+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1DtsGqT_k_1wqnP1Unl-idmLCFbeE9_xN/view?usp=sharing)
 
 0.3a8 - Windows 32x
 
@@ -1291,7 +1291,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a8 - Mac Universal
 
-[Kemono download](https://n2.kemono.cr/data/f9/17/f91770c9e2d6c553ae1b850d63cf564c930f32f32c566849819190fc6b1672ab.zip?f=The+Bibites+0.3a8+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1YtSS859hPcIrR9HMH_LEPaWDMciD7_Sa/view?usp=sharing)
 
 0.3a8 - Linux
 
