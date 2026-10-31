@@ -9,7 +9,7 @@
 [The Bibites Patreon](https://www.patreon.com/c/thebibites/home) (paid monthly) here you can pay for early access to new (alpha) versions of The Bibites (Versions ending in for example a17, 0.6a17)
 
 If you do not have a program to download torrents you can use [qBittorrent](https://www.qbittorrent.org/download), it is open source and free. Just click the magnet link and it should open in qBittorrent and begin downloading. If you download the torrent file just double click the torrent file and it should open in qBittorrent and begin downloading.
-If the torrent does not download try a none torrent download. 
+If the torrent does not download try a none torrent download.
 
 If you can't unzip an archive you can try [7-Zip](https://7-zip.org/)
 
@@ -70,19 +70,19 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.3 RC - Patreon Windows 64x
 
-Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/1tfWXf77kv-ngqRzOPfTALUNeyKg6A5Hs/view?usp=sharing)
 
 0.6.3 RC - Patreon Windows 32x
 
-Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/1y4L30XwnKEM4_o2piIFisZiHrf7bMewQ/view?usp=sharing)
 
 0.6.3 RC - Patreon Mac Universal
 
-Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/1PTeLesbUcv5P-Ha91pjObsrjHbLgs8jg/view?usp=sharing)
 
 0.6.3 RC - Patreon Linux
 
-Missing. This is the release candidate for 0.6.3. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/17G7kpNVluZE6o13ssOsSoJEl4HNjwFGG/view?usp=sharing)
 
 0.6.3 alpha 3 - Patreon Windows 64x
 
@@ -183,7 +183,7 @@ Missing. This is the release candidate for 0.6.3. If you got this version please
 
 0.6.2a1 - Patreon Windows 64x
 
-[Google Drive Download](https://drive.google.com/file/d/1P9YnsFJLwW8PVIw6yDOAPGQ3zy7EO9P5/view?usp=sharing) 
+[Google Drive Download](https://drive.google.com/file/d/1P9YnsFJLwW8PVIw6yDOAPGQ3zy7EO9P5/view?usp=sharing)
 
 0.6.2a1 - Patreon Windows 32x
 
@@ -307,7 +307,7 @@ Not sure if this was downloadable. If you got this version please message or pin
 
 0.6.1a2 - Patreon Linux
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/13OKHoQq89rzmGaWXUworBjwKAmR4ebjy/view?usp=sharing)
 
 0.6.1a1 - Patreon Windows 64x
 
@@ -628,7 +628,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 [Kemono download](https://n2.kemono.su/data/b6/db/b6db1aff90c6d24f399dc80cf4fa40c4501be7d9e5a8fc4e8edf47de42b3925e.zip?f=The%20Bibites%200.6a3%20-%20Linux.zip)
 
-0.6a2 - Windows 64x 
+0.6a2 - Windows 64x
 
 [Kemono download](https://n2.kemono.su/data/c7/4a/c74a11df3ff7ee0ba806ca94fb0252047cd374e33f6b55406fa13337d12a715b.zip?f=The%20Bibites%200.6a2%20-%20Windows%2064x.zip)
 
@@ -644,7 +644,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 [Kemono download](https://n2.kemono.su/data/d1/02/d10275dcb4b5bf3e59c72a1d2a46c01165cd0f0016e3be6b0ffccb108f2d0812.zip?f=The%20Bibites%200.6a2%20-%20Linux.zip)
 
-0.6a1 - Windows 64x 
+0.6a1 - Windows 64x
 
 [Kemono download](https://n1.kemono.su/data/60/16/60165526c525a88c63732f67c1d21cb3e758672d5a5b4f0ee4a85d8f31c600eb.zip?f=The%20Bibites%200.6a1%20-%20Windows%2064x.zip)
 
@@ -663,7 +663,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 # 0.5.1
 
-0.5.1 - Windows 64x  
+0.5.1 - Windows 64x
 
 [Free Patreon download](https://www.patreon.com/file?h=79248049&m=190637393), [Dropbox Download](https://www.dropbox.com/scl/fi/zapwgdrfsxokopijrpp5d/The-Bibites-0.5.1-Windows-64x.zip?rlkey=2hu5kba5uddo2rwtleegr2sv8&st=i373zbys&dl=1), [Magnet URL for torrent](https://tinyurl.com/yc3zakzy), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.5.1%20-%20Windows%2064x.zip.torrent)
 
@@ -817,7 +817,7 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.5.0a5 - Windows 32x
 
-Missing. If you got this version please message or ping @melting_diamond on discord
+[Google Drive Download](https://drive.google.com/file/d/1wEj8-u3_2Al0B2_DBoDVssBjDDlIRrCL/view?usp=sharing)
 
 0.5.0a5 - Mac Universal
 
@@ -955,27 +955,27 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2a3 - Windows 64x
 
-[Kemono download](https://c3.kemono.su/data/da/45/da45099ade173d591221d2ac3fd48d9cb2605e05125c1eb38e8398b093c026fa.zip?f=The%20Bibites%200.4.2a3%20-%20Windows%2064x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1hye4ZVlBUc4qiYm0f45XESAcRLoxw_bs/view?usp=sharing)
 
 0.4.2a3 - Windows 32x
 
-[Kemono download](https://c1.kemono.su/data/67/4c/674cd9d8fd99bbee61359d0b1a8fbc602ab6ed0ee8609bc30dcda06d63be1aef.zip?f=The%20Bibites%200.4.2a3%20-%20Windows%2032x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1mBSy4B5mytRSLN_oXqvUfzX0z6zsEMn9/view?usp=sharing)
 
 0.4.2a3 - Mac Universal
 
-[Kemono download](https://c3.kemono.su/data/03/00/03002a4527e2738338c2fd5c8cdbb2f17d5f3ffe4078418a8f400cc19e40a27a.zip?f=The%20Bibites%200.4.2a3%20-%20Mac%20Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1aWHoR93V1dqIDSmY9wwKTABifYsN5i6V/view?usp=sharing)
 
 0.4.2a3 - Linux
 
-[Kemono download](https://c5.kemono.su/data/46/8b/468b627e921ee4b61532b6caacb66d656bccea46d97760ecc004c107690d4058.zip?f=The%20Bibites%200.4.2a3%20-%20Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/16WAzCpl9fJ_40DqQkhiqOquhMyBQdyhJ/view?usp=sharing)
 
 0.4.2a2 - Windows 64x
 
-[Kemono download](https://n1.kemono.cr/data/ff/9a/ff9a2a50e2220465505fe5228d2656bb0a0279a18f32b9b3a6dc9366999f936c.zip?f=The+Bibites+0.4.2a2+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1xFtr2kocMeaBqthEkFWqlMELlOd1KVK_/view?usp=sharing)
 
 0.4.2a2 - Windows 32x
 
-[Kemono download](https://n4.kemono.cr/data/89/ba/89ba2d269d26da19ba3694e7356c670786a934fbb4909de7a68f82296b29a694.zip?f=The+Bibites+0.4.2a2+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/10tS8gvRW6wGwYd3EzExX6dDncBgZ-8yG/view?usp=sharing)
 
 0.4.2a2 - Mac Universal
 
@@ -983,19 +983,19 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.4.2a2 - Linux
 
-[Kemono download](https://n2.kemono.cr/data/16/ff/16ff6797a399b2f099577521c69dfe8828adeb7d5a0577fcef30aa8165a4f309.zip?f=The+Bibites+0.4.2a2+-+Linux.zip)
+[Google Drive Download](https://drive.google.com/file/d/1IkdguZsAxFqPN7wA0aUWzVeM39Vt3H1B/view?usp=sharing)
 
 0.4.2a1 - Windows 64x
 
-[Kemono download](https://n3.kemono.cr/data/27/c9/27c9042a8185a6199a251d980c4234a1ede860756c8a53ee0c58c01c0caeed05.zip?f=The+Bibites+0.4.2a1+-+Windows+64x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1KxQuR1uH_rFTBaa-qQxIfA2Oc0iqOZ7T/view?usp=sharing)
 
 0.4.2a1 - Windows 32x
 
-[Kemono download](https://n1.kemono.cr/data/4a/fe/4afe922178a7f8c9322af7e921cd23253fad6d79ef1121a274fdec987de40eb8.zip?f=The+Bibites+0.4.2a1+-+Windows+32x.zip)
+[Google Drive Download](https://drive.google.com/file/d/1XP3TYakbNOUTz321TleU_wl0GD_LxMP7/view?usp=sharing)
 
 0.4.2a1 - Mac Universal
 
-[Kemono download](https://n1.kemono.cr/data/c1/4c/c14c7b447f95a723e59b37cc46305fa1c1d305f8b45d9458660eefe5d5fe57bb.zip?f=The+Bibites+0.4.2a1+-+Mac+Universal.zip)
+[Google Drive Download](https://drive.google.com/file/d/1ESqQGOeRAFnC1GXTpLbcIf_zVloAY5xY/view?usp=drive_link)
 
 0.4.2a1 - Linux
 
