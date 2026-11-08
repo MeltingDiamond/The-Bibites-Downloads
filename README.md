@@ -38,7 +38,7 @@ Here is the list of all versions tracked with download links, if any of the link
 # 0.6.3
 0.6.3.1 - Itch Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/5hk74fspw6dddd456fqzw/The-Bibites-0.6.3.1-Windows-64x.zip?rlkey=5nm7btlhzyxnjsd886sqgn83h&st=pcamvoj0&dl=1), [Google Drive Download](https://drive.google.com/file/d/1zzyFlE_nnfjlYd46tzXSLuc_WOumJ9uL/view?usp=sharing)
+[Dropbox Download](https://www.dropbox.com/scl/fi/5hk74fspw6dddd456fqzw/The-Bibites-0.6.3.1-Windows-64x.zip?rlkey=5nm7btlhzyxnjsd886sqgn83h&st=pcamvoj0&dl=1), [Google Drive Download](https://drive.google.com/file/d/1Vq68YWwn9dJXc4GKqV21jHp2mobcFgs2/view?usp=sharing)
 
 0.6.3.1 - Itch Windows 32x
 
@@ -50,7 +50,7 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.3.1 - Itch Linux
 
-[Google Drive Download](https://drive.google.com/file/d/1rMzmXcqHSyt5lRQZPhmJJiYoPJEO29yK/view?usp=sharing)
+[Google Drive Download](https://drive.google.com/file/d/1qSGT2yDYeKz7xulFCQYOOQ9qiRT57Lb0/view?usp=sharing)
 
 0.6.3 - Itch Windows 64x
 
@@ -118,11 +118,11 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.3 alpha 1 - Patreon Windows 64x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/0v5z7yfphowbz936wvyhc/The-Bibites-0.6.3-Alpha-1-Windows-64x.zip?rlkey=qm2xyfi29o0mhhupyggdeeg80&st=0a87fsop&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/0v5z7yfphowbz936wvyhc/The-Bibites-0.6.3-Alpha-1-Windows-64x.zip?rlkey=qm2xyfi29o0mhhupyggdeeg80&st=0a87fsop&dl=1), [Google Drive Download](https://drive.google.com/file/d/15dKJ9Vy9KxKBuQZ3lEJAlrcg0QR2TFRC/view?usp=sharing)
 
 0.6.3 alpha 1 - Patreon Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/9xb35abd1zkynh5agqf5u/The-Bibites-0.6.3-Alpha-1-Windows-32x.zip?rlkey=aa7d9pm4bted45fksk0puwl4h&st=rt3imrlt&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/9xb35abd1zkynh5agqf5u/The-Bibites-0.6.3-Alpha-1-Windows-32x.zip?rlkey=aa7d9pm4bted45fksk0puwl4h&st=rt3imrlt&dl=1), [Google Drive Download](https://drive.google.com/file/d/19TI2VsGS_XrHCC4UFTBUWJQmmYydIubI/view?usp=sharing)
 
 0.6.3 alpha 1 - Patreon Mac Universal
 
@@ -147,7 +147,7 @@ Here is the list of all versions tracked with download links, if any of the link
 
 0.6.2.1 - Itch Linux
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/cjcffp44jccga6pnutia2/The-Bibites-0.6.2.1-Linux.zip?rlkey=lcfifcurbdz6xr18xx5ljy5b5&st=hcyxonxb&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/cjcffp44jccga6pnutia2/The-Bibites-0.6.2.1-Linux.zip?rlkey=lcfifcurbdz6xr18xx5ljy5b5&st=hcyxonxb&dl=1), [Google Drive Download](https://drive.google.com/file/d/1F9eEfQurNvAY3iquW-ZInQwkgaxiLtkg/view?usp=sharing)
 
 0.6.2 - Itch Windows 64x
 
@@ -199,7 +199,7 @@ Here is the list of all versions tracked with download links, if any of the link
 # 0.6.1
 0.6.1 Hotfix - Itch Windows 64x
 
-[Free Patreon download](https://www.patreon.com/file?h=123811623&m=432807471), [Dropbox Download](https://www.dropbox.com/scl/fi/vnm6342mp9ascvgm0h1tf/The-Bibites-0.6.1-Hotfix-Windows-64x.zip?rlkey=kfq4wpc0pnx39ib60dfmmlm9q&st=ny8ji0a3&dl=1), [Magnet URL for torrent](https://tinyurl.com/4szwehm4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.1%20Hotfix%20-%20Windows%2064x.zip.torrent)
+[Free Patreon download](https://www.patreon.com/file?h=123811623&m=432807471), [Google Drive Download](https://drive.google.com/file/d/10UHHDvqz51G7CoQQJrwlOeyJ2IbDE6l9/view?usp=sharing) [Dropbox Download](https://www.dropbox.com/scl/fi/vnm6342mp9ascvgm0h1tf/The-Bibites-0.6.1-Hotfix-Windows-64x.zip?rlkey=kfq4wpc0pnx39ib60dfmmlm9q&st=ny8ji0a3&dl=1), [Magnet URL for torrent](https://tinyurl.com/4szwehm4), [Torrent file](https://github.com/MeltingDiamond/The-Bibites-Downloads/raw/refs/heads/main/Torrents/The%20Bibites%200.6.1%20Hotfix%20-%20Windows%2064x.zip.torrent)
 
 0.6.1 Hotfix - Itch Windows 32x
 
@@ -1319,11 +1319,11 @@ Missing. If you got this version please message or ping @melting_diamond on disc
 
 0.3a6 - Windows 32x
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/02woo8a92o079hwwab6l4/The-Bibites-0.3a6-Windows-32x.zip?rlkey=srcosx4f0dakoesrwvz5q5vfi&st=z1g0muq5&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/02woo8a92o079hwwab6l4/The-Bibites-0.3a6-Windows-32x.zip?rlkey=srcosx4f0dakoesrwvz5q5vfi&st=z1g0muq5&dl=1), [Google Drive Download](https://drive.google.com/file/d/1tDNZbqCBAW2hczUZX_P4PPgBbrIvI5Ej/view?usp=sharing)
 
 0.3a6 - Mac Universal
 
-[Dropbox Download](https://www.dropbox.com/scl/fi/nx7hw7h35ozxq7kem36x8/The-Bibites-0.3a6-Mac-Universal.zip?rlkey=034l0zvhgl184rnst9rv3ta2g&st=kkk9oyac&dl=1)
+[Dropbox Download](https://www.dropbox.com/scl/fi/nx7hw7h35ozxq7kem36x8/The-Bibites-0.3a6-Mac-Universal.zip?rlkey=034l0zvhgl184rnst9rv3ta2g&st=kkk9oyac&dl=1), [Google Drive Download](https://drive.google.com/file/d/1TO5C_OAHZ9sw3WzD-L0tvB5mK_xN0CTI/view?usp=sharing)
 
 0.3a6 - Linux
 
